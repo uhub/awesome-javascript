@@ -1083,7 +1083,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 * [dimsemenov/Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) - Light and responsive lightbox script with focus on performance.
 * [gionkunz/chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts
-* [brianreavis/selectize.js](https://github.com/brianreavis/selectize.js) - Selectize is the hybrid of a textbox and <select> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
+* [brianreavis/selectize.js](https://github.com/brianreavis/selectize.js) - Selectize is the hybrid of a textbox and \<select\> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
 * [rstacruz/jquery.transit](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery
 * [foreverjs/forever](https://github.com/foreverjs/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
 * [knsv/mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
