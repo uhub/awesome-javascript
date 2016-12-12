@@ -36,95 +36,94 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for 62 Languages 📖🎉🖥
 * [janl/mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
 * [requirejs/requirejs](https://github.com/requirejs/requirejs) - A file and module loader for JavaScript
-* [VerbalExpressions/JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - JavaScript Regular expressions made easy
 * [juliangarnier/anime](https://github.com/juliangarnier/anime) - Javascript Animation Engine
+* [VerbalExpressions/JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - JavaScript Regular expressions made easy
 * [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
 * [linnovate/mean](https://github.com/linnovate/mean) - MEAN (Mongo, Express, Angular, Node) - A Simple, Scalable and Easy starting point for full stack javascript web development - utilizing many of the best practices we've found on the way
-* [adobe-webplatform/Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - The JavaScript library for modern SVG graphics.
 * [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - Step-by-step tutorial to build a modern JavaScript stack from scratch
-* [DmitryBaranovskiy/raphael](https://github.com/DmitryBaranovskiy/raphael) - JavaScript Vector Library
+* [adobe-webplatform/Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - The JavaScript library for modern SVG graphics.
 * [isagalaev/highlight.js](https://github.com/isagalaev/highlight.js) - Javascript syntax highlighter
 * [RubaXa/Sortable](https://github.com/RubaXa/Sortable) - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React, Polymer, Knockout and any CSS library, e.g. Bootstrap.
+* [DmitryBaranovskiy/raphael](https://github.com/DmitryBaranovskiy/raphael) - JavaScript Vector Library
 * [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
-* [NUKnightLab/TimelineJS](https://github.com/NUKnightLab/TimelineJS) - TimelineJS: A Storytelling Timeline built in JavaScript.
 * [feross/standard](https://github.com/feross/standard) - :star2: JavaScript Standard Style Guide
-* [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso) - The new JavaScript- and API-powered WordPress.com
+* [NUKnightLab/TimelineJS](https://github.com/NUKnightLab/TimelineJS) - TimelineJS: A Storytelling Timeline built in JavaScript.
 * [mysqljs/mysql](https://github.com/mysqljs/mysql) - A pure node.js JavaScript Client implementing the MySql protocol.
+* [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso) - The new JavaScript- and API-powered WordPress.com
 * [knockout/knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript
-* [shichuan/javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Patterns
 * [karma-runner/karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript
+* [shichuan/javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Patterns
 * [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 * [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
 * [maxwellito/vivus](https://github.com/maxwellito/vivus) - JavaScript library to make drawing animation on SVG
 * [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
+* [airbnb/enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React
 * [guillaumepotier/Parsley.js](https://github.com/guillaumepotier/Parsley.js) - Validate your forms, frontend, without writing a single line of javascript
 * [oneuijs/You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 * [harthur/brain](https://github.com/harthur/brain) - [UNMAINTAINED] Neural networks in JavaScript
 * [ccampbell/mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript
-* [airbnb/enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React
+* [avajs/ava](https://github.com/avajs/ava) - :rocket: Futuristic JavaScript test runner
 * [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 * [handsontable/handsontable](https://github.com/handsontable/handsontable) - Handsontable Community Edition - A JavaScript/HTML5 Spreadsheet Library for Developers
-* [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier library for NodeJS
 * [paperjs/paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
-* [avajs/ava](https://github.com/avajs/ava) - :rocket: Futuristic JavaScript test runner
-* [rwaldron/johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, developed at Bocoup.
+* [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier library for NodeJS
 * [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
+* [rwaldron/johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, developed at Bocoup.
 * [Netflix/falcor](https://github.com/Netflix/falcor) - A JavaScript library for efficient data fetching
+* [facebook/jest](https://github.com/facebook/jest) - 🃏 Painless JavaScript Testing.
 * [google/traceur-compiler](https://github.com/google/traceur-compiler) - Traceur is a JavaScript.next-to-JavaScript-of-today compiler
 * [MrRio/jsPDF](https://github.com/MrRio/jsPDF) - Client-side JavaScript PDF generation for everyone.
-* [jshint/jshint](https://github.com/jshint/jshint) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code
 * [kangax/fabric.js](https://github.com/kangax/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
-* [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing
+* [jshint/jshint](https://github.com/jshint/jshint) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code
 * [tmpvar/jsdom](https://github.com/tmpvar/jsdom) - A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js
-* [flightjs/flight](https://github.com/flightjs/flight) - A component-based, event-driven JavaScript framework from Twitter
+* [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing
 * [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a dependency-free collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+* [trueadm/inferno](https://github.com/trueadm/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces
 * [mozilla/BrowserQuest](https://github.com/mozilla/BrowserQuest) - A HTML5/JavaScript multiplayer game experiment
+* [flightjs/flight](https://github.com/flightjs/flight) - A component-based, event-driven JavaScript framework from Twitter
 * [douglascrockford/JSON-js](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript
-* [facebook/jest](https://github.com/facebook/jest) - 🃏 Painless JavaScript Testing.
 * [eslint/eslint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 * [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 * [sbstjn/timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for HTML5 & CSS3 time sheets
 * [nlp-compromise/nlp_compromise](https://github.com/nlp-compromise/nlp_compromise) - a cool way to use natural language in javascript
-* [jakiestfu/Snap.js](https://github.com/jakiestfu/Snap.js) - A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus)
 * [zeroclipboard/zeroclipboard](https://github.com/zeroclipboard/zeroclipboard) - The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.
+* [karpathy/convnetjs](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
+* [jakiestfu/Snap.js](https://github.com/jakiestfu/Snap.js) - A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus)
 * [mleibman/SlickGrid](https://github.com/mleibman/SlickGrid) - A lightning fast JavaScript grid/spreadsheet
 * [shutterstock/rickshaw](https://github.com/shutterstock/rickshaw) -  JavaScript toolkit for creating interactive real-time graphs
 * [desandro/imagesloaded](https://github.com/desandro/imagesloaded) - :camera: JavaScript is all like "You images done yet or what?"
-* [karpathy/convnetjs](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
+* [CodeSeven/toastr](https://github.com/CodeSeven/toastr) - Simple javascript toast notifications http://johnpapa.net
 * [rethinkdb/horizon](https://github.com/rethinkdb/horizon) - Horizon is a realtime, open-source backend for JavaScript apps.
 * [Microsoft/ChakraCore](https://github.com/Microsoft/ChakraCore) - ChakraCore is the core part of the Chakra Javascript engine that powers Microsoft Edge
-* [CodeSeven/toastr](https://github.com/CodeSeven/toastr) - Simple javascript toast notifications http://johnpapa.net
 * [taye/interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE8+)
 * [highcharts/highcharts](https://github.com/highcharts/highcharts) - Highcharts JS, the JavaScript charting framework
-* [CreateJS/EaselJS](https://github.com/CreateJS/EaselJS) - The Easel Javascript library provides a full, hierarchical display list, a core interaction model, and helper classes to make working with the HTML5 Canvas element much easier.
-* [mishoo/UglifyJS2](https://github.com/mishoo/UglifyJS2) -  JavaScript parser / mangler / compressor / beautifier toolkit
-* [plotly/plotly.js](https://github.com/plotly/plotly.js) - The open source javascript graphing library that powers plotly
 * [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for cleaner code
+* [mishoo/UglifyJS2](https://github.com/mishoo/UglifyJS2) -  JavaScript parser / mangler / compressor / beautifier toolkit
+* [CreateJS/EaselJS](https://github.com/CreateJS/EaselJS) - The Easel Javascript library provides a full, hierarchical display list, a core interaction model, and helper classes to make working with the HTML5 Canvas element much easier.
+* [plotly/plotly.js](https://github.com/plotly/plotly.js) - The open source javascript graphing library that powers plotly
 * [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
 * [jsdoc3/jsdoc](https://github.com/jsdoc3/jsdoc) - An API documentation generator for JavaScript.
-* [es-shims/es5-shim](https://github.com/es-shims/es5-shim) - ECMAScript 5 compatibility shims for legacy (and modern) JavaScript engines
-* [Nickersoft/push.js](https://github.com/Nickersoft/push.js) - A compact, cross-browser solution for the JavaScript Notifications API
 * [louischatriot/nedb](https://github.com/louischatriot/nedb) - The JavaScript Database, for Node.js, nw.js, electron and the browser
+* [Nickersoft/push.js](https://github.com/Nickersoft/push.js) - A compact, cross-browser solution for the JavaScript Notifications API
 * [greensock/GreenSock-JS](https://github.com/greensock/GreenSock-JS) - Public repository for GreenSock's JavaScript libraries like GSAP. See http://www.greensock.com
+* [es-shims/es5-shim](https://github.com/es-shims/es5-shim) - ECMAScript 5 compatibility shims for legacy (and modern) JavaScript engines
 * [evilstreak/markdown-js](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript
 * [ExactTarget/fuelux](https://github.com/ExactTarget/fuelux) - Extends Twitter Bootstrap with additional lightweight JavaScript controls. Easy to install, customize, update, and optimize. All functionality covered by live documentation and unit tests.
 * [lokesh/color-thief](https://github.com/lokesh/color-thief) - Grabs the dominant color or a representative color palette from an image. Uses javascript and canvas.
+* [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性。
 * [flot/flot](https://github.com/flot/flot) - Attractive JavaScript charts for jQuery
+* [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
 * [jscs-dev/node-jscs](https://github.com/jscs-dev/node-jscs) - :arrow_heading_up: JavaScript Code Style checker (deprecated)
 * [jaredreich/notie](https://github.com/jaredreich/notie) - a clean and simple notification, input, and selection suite for javascript, with no dependencies
-* [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性。
-* [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
-* [daniel-lundin/snabbt.js](https://github.com/daniel-lundin/snabbt.js) - Fast animations with javascript and CSS transforms
 * [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
-* [feathersjs/feathers](https://github.com/feathersjs/feathers) - A minimalist, real-time JavaScript framework built for NodeJS, React-Native and the browser.
+* [daniel-lundin/snabbt.js](https://github.com/daniel-lundin/snabbt.js) - Fast animations with javascript and CSS transforms
 * [google/lovefield](https://github.com/google/lovefield) - Lovefield is a relational database for web apps. Written in JavaScript, works cross-browser. Provides SQL-like APIs that are fast, safe, and easy to use.
-* [davatron5000/Lettering.js](https://github.com/davatron5000/Lettering.js) - A lightweight, easy to use Javascript <span> injector for radical Web Typography
-* [dbushell/Pikaday](https://github.com/dbushell/Pikaday) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
 * [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
+* [dbushell/Pikaday](https://github.com/dbushell/Pikaday) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
+* [davatron5000/Lettering.js](https://github.com/davatron5000/Lettering.js) - A lightweight, easy to use Javascript <span> injector for radical Web Typography
 * [adamwdraper/Numeral-js](https://github.com/adamwdraper/Numeral-js) - A javascript library for formatting and manipulating numbers.
-* [trueadm/inferno](https://github.com/trueadm/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces
-* [square/cubism](https://github.com/square/cubism) - Cubism.js: A JavaScript library for time series visualization.
 * [sockjs/sockjs-client](https://github.com/sockjs/sockjs-client) - WebSocket emulation - Javascript client
+* [square/cubism](https://github.com/square/cubism) - Cubism.js: A JavaScript library for time series visualization.
 * [flatiron/director](https://github.com/flatiron/director) - a tiny and isomorphic URL router for JavaScript
 * [medialize/URI.js](https://github.com/medialize/URI.js) - Javascript URL mutation library
 * [OscarGodson/EpicEditor](https://github.com/OscarGodson/EpicEditor) - EpicEditor is an embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more. For developers, it offers a robust API, can be easily themed, and allows you to swap out the bundled Markdown parser with anything you throw at it.
@@ -132,765 +131,783 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
 * [nzakas/computer-science-in-javascript](https://github.com/nzakas/computer-science-in-javascript) - Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript.
 * [umdjs/umd](https://github.com/umdjs/umd) - UMD (Universal Module Definition) patterns for JavaScript modules that work everywhere.
-* [bpampuch/pdfmake](https://github.com/bpampuch/pdfmake) - Client/server side PDF printing in pure JavaScript
-* [showdownjs/showdown](https://github.com/showdownjs/showdown) - A Markdown to HTML converter written in Javascript
 * [JedWatson/classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together
-* [syntaxhighlighter/syntaxhighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter) - SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.
+* [showdownjs/showdown](https://github.com/showdownjs/showdown) - A Markdown to HTML converter written in Javascript
+* [bpampuch/pdfmake](https://github.com/bpampuch/pdfmake) - Client/server side PDF printing in pure JavaScript
 * [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - Lists of Javascript methods which you can use natively + Eslint Plugin
+* [syntaxhighlighter/syntaxhighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter) - SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.
 * [moxiecode/plupload](https://github.com/moxiecode/plupload) - Plupload is JavaScript API for building file uploaders. It supports multiple file selection, file filtering, chunked upload, client side image downsizing and when necessary can fallback to alternative runtimes, like Flash and Silverlight.
 * [ankane/chartkick](https://github.com/ankane/chartkick) - Create beautiful JavaScript charts with one line of Ruby
-* [olistic/warriorjs](https://github.com/olistic/warriorjs) - Game written in JavaScript for learning JavaScript and artificial intelligence.
-* [MrSwitch/hello.js](https://github.com/MrSwitch/hello.js) - A Javascript RESTFUL API library for connecting with OAuth2 services, such as Google+ API, Facebook Graph and Windows Live Connect
 * [josdejong/mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
-* [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js: a complete JavaScript framework for building 3D games with HTML 5 and WebGL
+* [MrSwitch/hello.js](https://github.com/MrSwitch/hello.js) - A Javascript RESTFUL API library for connecting with OAuth2 services, such as Google+ API, Facebook Graph and Windows Live Connect
+* [olistic/warriorjs](https://github.com/olistic/warriorjs) - Game written in JavaScript for learning JavaScript and artificial intelligence.
 * [meanjs/mean](https://github.com/meanjs/mean) - MEAN.JS - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js -
+* [OnsenUI/OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
 * [jakiestfu/Medium.js](https://github.com/jakiestfu/Medium.js) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor)
 * [auduno/clmtrackr](https://github.com/auduno/clmtrackr) - Javascript library for precise tracking of facial features via Constrained Local Models
-* [visionmedia/move.js](https://github.com/visionmedia/move.js) - CSS3 backed JavaScript animation framework
-* [OnsenUI/OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
 * [tinymce/tinymce](https://github.com/tinymce/tinymce) - TinyMCE is a JavaScript library for platform independent 'WYSIWYG' or rich text editing. It is released as open source under the LGPL.
+* [visionmedia/move.js](https://github.com/visionmedia/move.js) - CSS3 backed JavaScript animation framework
 * [es-analysis/plato](https://github.com/es-analysis/plato) - JavaScript source code visualization, static analysis, and complexity tool
+* [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 * [makeusabrew/bootbox](https://github.com/makeusabrew/bootbox) - Wrappers for JavaScript alert(), confirm() and other flexible dialogs using Twitter's bootstrap framework
-* [bebraw/jswiki](https://github.com/bebraw/jswiki) - JavaScript wiki. Focuses mainly on JS/HTML5/WebGL related tech.
-* [sweet-js/sweet.js](https://github.com/sweet-js/sweet.js) - Sweeten your JavaScript.
+* [kelektiv/node-uuid](https://github.com/kelektiv/node-uuid) - Generate RFC-compliant UUIDs in JavaScript
 * [mrdoob/stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor
 * [bitwiseshiftleft/sjcl](https://github.com/bitwiseshiftleft/sjcl) - Stanford Javascript Crypto Library
-* [kelektiv/node-uuid](https://github.com/kelektiv/node-uuid) - Generate RFC-compliant UUIDs in JavaScript
-* [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
+* [bebraw/jswiki](https://github.com/bebraw/jswiki) - JavaScript wiki. Focuses mainly on JS/HTML5/WebGL related tech.
 * [copy/v86](https://github.com/copy/v86) - x86 virtualization in JavaScript, running in your browser and NodeJS
+* [sweet-js/sweet.js](https://github.com/sweet-js/sweet.js) - Sweeten your JavaScript.
 * [os-js/OS.js](https://github.com/os-js/OS.js) - JavaScript Cloud/Web Desktop Platform
+* [tweenjs/tween.js](https://github.com/tweenjs/tween.js) - Javascript tweening engine
 * [theintern/intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
 * [qunitjs/qunit](https://github.com/qunitjs/qunit) - An easy-to-use JavaScript Unit Testing framework.
 * [pa7/heatmap.js](https://github.com/pa7/heatmap.js) - JavaScript Library for HTML5 canvas based heatmaps
-* [tweenjs/tween.js](https://github.com/tweenjs/tween.js) - Javascript tweening engine
-* [ericdrowell/KineticJS](https://github.com/ericdrowell/KineticJS) - KineticJS is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 * [felixge/node-style-guide](https://github.com/felixge/node-style-guide) - A guide for styling your node.js / JavaScript code. Fork & adjust to your taste.
 * [prerender/prerender](https://github.com/prerender/prerender) - Node server that uses phantomjs to render a javascript-rendered page as HTML. To be used in conjunction with prerender middleware.
-* [geuis/helium-css](https://github.com/geuis/helium-css) - Helium - javascript tool to scan your site and show unused CSS
+* [ericdrowell/KineticJS](https://github.com/ericdrowell/KineticJS) - KineticJS is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 * [sinonjs/sinon](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks for JavaScript.
+* [geuis/helium-css](https://github.com/geuis/helium-css) - Helium - javascript tool to scan your site and show unused CSS
+* [shipitjs/shipit](https://github.com/shipitjs/shipit) - Universal automation and deployment tool written in JavaScript.
 * [subprotocol/verlet-js](https://github.com/subprotocol/verlet-js) - A simple Verlet physics engine written in javascript
 * [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - The Javascript motion engine. Tweens, physics, input tracking and timelines.
-* [shipitjs/shipit](https://github.com/shipitjs/shipit) - Universal automation and deployment tool written in JavaScript.
+* [jakesgordon/javascript-state-machine](https://github.com/jakesgordon/javascript-state-machine) - A javascript finite state machine library
 * [spine/spine](https://github.com/spine/spine) - Lightweight MVC library for building JavaScript applications
 * [kripken/sql.js](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten
-* [jakesgordon/javascript-state-machine](https://github.com/jakesgordon/javascript-state-machine) - A finite state machine javascript micro framework
-* [sstephenson/prototype](https://github.com/sstephenson/prototype) - Prototype JavaScript framework
+* [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 * [andrewplummer/Sugar](https://github.com/andrewplummer/Sugar) - A Javascript library for working with native objects.
-* [kolodny/exercises](https://github.com/kolodny/exercises) - Some basic javascript coding challenges and interview questions
-* [auduno/headtrackr](https://github.com/auduno/headtrackr) - Javascript library for headtracking via webcam and WebRTC/getUserMedia
-* [AlexNisnevich/untrusted](https://github.com/AlexNisnevich/untrusted) - A meta-JavaScript adventure game by Alex Nisnevich and Greg Shuflin.
-* [tj/ejs](https://github.com/tj/ejs) - Embedded JavaScript templates for node
+* [sstephenson/prototype](https://github.com/sstephenson/prototype) - Prototype JavaScript framework
 * [scottschiller/SoundManager2](https://github.com/scottschiller/SoundManager2) - A JavaScript Sound API supporting MP3, MPEG4 and HTML5 audio + RTMP, providing reliable cross-browser/platform audio control in as little as 12 KB. BSD licensed.
+* [kolodny/exercises](https://github.com/kolodny/exercises) - Some basic javascript coding challenges and interview questions
+* [tj/ejs](https://github.com/tj/ejs) - Embedded JavaScript templates for node
+* [AlexNisnevich/untrusted](https://github.com/AlexNisnevich/untrusted) - A meta-JavaScript adventure game by Alex Nisnevich and Greg Shuflin.
+* [auduno/headtrackr](https://github.com/auduno/headtrackr) - Javascript library for headtracking via webcam and WebRTC/getUserMedia
 * [epeli/underscore.string](https://github.com/epeli/underscore.string) - String manipulation helpers for javascript
 * [openexchangerates/accounting.js](https://github.com/openexchangerates/accounting.js) - A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies.
-* [jsbin/jsbin](https://github.com/jsbin/jsbin) - Collaborative JavaScript Debugging App
 * [olado/doT](https://github.com/olado/doT) - The fastest + concise javascript template engine for nodejs and browsers. Partials, custom delimiters and more.
+* [jsbin/jsbin](https://github.com/jsbin/jsbin) - Collaborative JavaScript Debugging App
 * [sindresorhus/screenfull.js](https://github.com/sindresorhus/screenfull.js) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
-* [brianchirls/Seriously.js](https://github.com/brianchirls/Seriously.js) - A real-time, node-based video effects compositor for the web built with HTML5, Javascript and WebGL
 * [sachinchoolur/lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies
-* [23/resumable.js](https://github.com/23/resumable.js) - A JavaScript library for providing multiple simultaneous, stable, fault-tolerant and resumable/restartable uploads via the HTML5 File API.
+* [brianchirls/Seriously.js](https://github.com/brianchirls/Seriously.js) - A real-time, node-based video effects compositor for the web built with HTML5, Javascript and WebGL
 * [jonathantneal/flexibility](https://github.com/jonathantneal/flexibility) - A JavaScript polyfill for Flexbox
-* [aurajs/aura](https://github.com/aurajs/aura) - A scalable, event-driven JavaScript architecture for developing component-based applications.
+* [23/resumable.js](https://github.com/23/resumable.js) - A JavaScript library for providing multiple simultaneous, stable, fault-tolerant and resumable/restartable uploads via the HTML5 File API.
+* [ternjs/tern](https://github.com/ternjs/tern) - A JavaScript code analyzer for deep, cross-editor language support
 * [WickyNilliams/enquire.js](https://github.com/WickyNilliams/enquire.js) - Awesome Media Queries in JavaScript
 * [creationix/js-git](https://github.com/creationix/js-git) - A JavaScript implementation of Git.
-* [ternjs/tern](https://github.com/ternjs/tern) - A JavaScript code analyzer for deep, cross-editor language support
+* [aurajs/aura](https://github.com/aurajs/aura) - A scalable, event-driven JavaScript architecture for developing component-based applications.
 * [codemix/fast.js](https://github.com/codemix/fast.js) - Faster user-land reimplementations for several common builtin native JavaScript functions.
 * [quirkey/sammy](https://github.com/quirkey/sammy) - Sammy is a tiny javascript framework built on top of jQuery, It's RESTful Evented Javascript.
 * [mailru/FileAPI](https://github.com/mailru/FileAPI) - FileAPI — a set of  javascript tools for working with files. Multiupload, drag'n'drop and chunked file upload. Images: crop, resize and auto orientation by EXIF.
 * [wellcaffeinated/PhysicsJS](https://github.com/wellcaffeinated/PhysicsJS) - A modular, extendable, and easy-to-use physics engine for javascript
 * [KartikTalwar/gmail.js](https://github.com/KartikTalwar/gmail.js) - Gmail JavaScript API
-* [douglascrockford/JSLint](https://github.com/douglascrockford/JSLint) - The JavaScript Code Quality Tool
 * [techfort/LokiJS](https://github.com/techfort/LokiJS) - javascript embeddable / in-memory database
 * [nolanlawson/optimize-js](https://github.com/nolanlawson/optimize-js) - Optimize a JavaScript file for faster initial load by wrapping eagerly-invoked functions
+* [douglascrockford/JSLint](https://github.com/douglascrockford/JSLint) - The JavaScript Code Quality Tool
+* [fantasyland/fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
 * [paularmstrong/swig](https://github.com/paularmstrong/swig) - Take a swig of the best template engine for JavaScript.
 * [JexCheng/regulex](https://github.com/JexCheng/regulex) - JavaScript Regular Expression Parser & Visualizer.
 * [hybridgroup/cylon](https://github.com/hybridgroup/cylon) - JavaScript framework for robotics, drones, and the Internet of Things (IoT)
+* [lerna/lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
 * [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
-* [globalizejs/globalize](https://github.com/globalizejs/globalize) - A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data
-* [fantasyland/fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
-* [yahoo/gifshot](https://github.com/yahoo/gifshot) -   JavaScript library that can create animated GIFs from media streams, videos, or images
 * [davidshimjs/qrcodejs](https://github.com/davidshimjs/qrcodejs) - Cross-browser QRCode generator for javascript
+* [globalizejs/globalize](https://github.com/globalizejs/globalize) - A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data
+* [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory / network library for analysis and visualisation (compatible with CommonJS/Node.js/Browserify/Webpack, AMD/Require.js, npm, Bower, jspm, Meteor/Atmosphere, jQuery, and plain JS/JavaScript)
+* [yahoo/gifshot](https://github.com/yahoo/gifshot) -   JavaScript library that can create animated GIFs from media streams, videos, or images
 * [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js
 * [kvz/locutus](https://github.com/kvz/locutus) - All your standard libraries will be assimilated into our JavaScript collective. Resistance is futile.
-* [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (a.k.a. network) library for analysis and visualisation (compatible with CommonJS/Node.js/Browserify/Webpack, AMD/Require.js, npm, Bower, jspm, Meteor/Atmosphere, jQuery, and plain JS/JavaScript)
 * [ccampbell/rainbow](https://github.com/ccampbell/rainbow) - Simple syntax highlighting library written in javascript
-* [testem/testem](https://github.com/testem/testem) - Test'em 'Scripts! A test runner that makes Javascript unit testing fun.
+* [rtfeldman/seamless-immutable](https://github.com/rtfeldman/seamless-immutable) - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects.
 * [darsain/sly](https://github.com/darsain/sly) - JavaScript library for one-directional scrolling with item based navigation support.
+* [testem/testem](https://github.com/testem/testem) - Test'em 'Scripts! A test runner that makes Javascript unit testing fun.
 * [zaach/jison](https://github.com/zaach/jison) - Bison in JavaScript.
 * [benhowdle89/grade](https://github.com/benhowdle89/grade) - This JavaScript library produces complementary gradients generated from the top 2 dominant colours in supplied images.
 * [matthewhudson/device.js](https://github.com/matthewhudson/device.js) - Device.js makes it easy to write conditional CSS _and/or_ JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Tablet vs. Mobile).
-* [rtfeldman/seamless-immutable](https://github.com/rtfeldman/seamless-immutable) - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects.
 * [jpillora/xdomain](https://github.com/jpillora/xdomain) - A pure JavaScript CORS alternative
-* [lerna/lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
-* [svaarala/duktape](https://github.com/svaarala/duktape) - Duktape - embeddable Javascript engine with a focus on portability and compact footprint
-* [leongersen/noUiSlider](https://github.com/leongersen/noUiSlider) - noUiSlider is a lightweight JavaScript range slider library. It offers a wide selection of options and settings, and is compatible with a ton of (touch) devices, including those running iOS, Android, Windows 8/8.1/10, Windows Phone 8.1 and Windows Mobile 10.
-* [linkedin/dustjs](https://github.com/linkedin/dustjs) - Asynchronous Javascript templating for the browser and server
-* [samyk/evercookie](https://github.com/samyk/evercookie) - evercookie is a javascript API that produces extremely persistent, respawning cookies in a browser. Its goal is to identify a client even after they've removed standard cookies, Flash cookies (LSOs), HTML5 storage, SilverLight storage, and others.
 * [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Webdriver/Selenium 2.0 JavaScript bindings for Node.js
+* [leongersen/noUiSlider](https://github.com/leongersen/noUiSlider) - noUiSlider is a lightweight JavaScript range slider library. It offers a wide selection of options and settings, and is compatible with a ton of (touch) devices, including those running iOS, Android, Windows 8/8.1/10, Windows Phone 8.1 and Windows Mobile 10.
+* [samyk/evercookie](https://github.com/samyk/evercookie) - evercookie is a javascript API that produces extremely persistent, respawning cookies in a browser. Its goal is to identify a client even after they've removed standard cookies, Flash cookies (LSOs), HTML5 storage, SilverLight storage, and others.
+* [EmergingTechnologyAdvisors/node-serialport](https://github.com/EmergingTechnologyAdvisors/node-serialport) - Node.js package to access serial ports for reading and writing. Welcome your robotic JavaScript overlords. Better yet, program them!
+* [svaarala/duktape](https://github.com/svaarala/duktape) - Duktape - embeddable Javascript engine with a focus on portability and compact footprint
 * [dcodeIO/protobuf.js](https://github.com/dcodeIO/protobuf.js) - Protocol Buffers for JavaScript.
-* [HumbleSoftware/Flotr2](https://github.com/HumbleSoftware/Flotr2) - Graphs and Charts for Canvas in JavaScript.
+* [linkedin/dustjs](https://github.com/linkedin/dustjs) - Asynchronous Javascript templating for the browser and server
 * [antimatter15/ocrad.js](https://github.com/antimatter15/ocrad.js) - OCR in Javascript via Emscripten
+* [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript
 * [vasanthk/js-bits](https://github.com/vasanthk/js-bits) - JavaScript concepts with code!
-* [thomasdavis/backbonetutorials](https://github.com/thomasdavis/backbonetutorials) - As single page apps and large scale javascript applications become more prominent on the web, useful resources for those developers who are jumping the ship are crucial.
+* [HumbleSoftware/Flotr2](https://github.com/HumbleSoftware/Flotr2) - Graphs and Charts for Canvas in JavaScript.
+* [airbnb/hypernova](https://github.com/airbnb/hypernova) - A service for server-side rendering your JavaScript views
 * [soulwire/sketch.js](https://github.com/soulwire/sketch.js) - Cross-Platform JavaScript Creative Coding Framework
 * [parallel-js/parallel.js](https://github.com/parallel-js/parallel.js) - Easy multi-core processing with javascript.
-* [airbnb/hypernova](https://github.com/airbnb/hypernova) - A service for server-side rendering your JavaScript views
-* [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript
-* [lipka/piecon](https://github.com/lipka/piecon) - A tiny javascript library for generating progress pie charts in your favicon.
+* [thomasdavis/backbonetutorials](https://github.com/thomasdavis/backbonetutorials) - As single page apps and large scale javascript applications become more prominent on the web, useful resources for those developers who are jumping the ship are crucial.
 * [Yomguithereal/baobab](https://github.com/Yomguithereal/baobab) - JavaScript persistent and optionally immutable data tree with cursors.
 * [openpgpjs/openpgpjs](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript
+* [lipka/piecon](https://github.com/lipka/piecon) - A tiny javascript library for generating progress pie charts in your favicon.
 * [cucumber/cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
-* [felipernb/algorithms.js](https://github.com/felipernb/algorithms.js) - Atwood's Law applied to CS101 - Classic algorithms and data structures implemented in JavaScript
 * [mgechev/javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - JavaScript implementation of different computer science algorithms.
-* [philipwalton/html-inspector](https://github.com/philipwalton/html-inspector) - HTML Inspector is a code quality tool to help you and your team write better markup. It's written in JavaScript and runs in the browser, so testing your HTML has never been easier.
+* [felipernb/algorithms.js](https://github.com/felipernb/algorithms.js) - Atwood's Law applied to CS101 - Classic algorithms and data structures implemented in JavaScript
 * [mscdex/ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
-* [mattdiamond/fuckitjs](https://github.com/mattdiamond/fuckitjs) - The Original Javascript Error Steamroller
-* [craftyjs/Crafty](https://github.com/craftyjs/Crafty) - JavaScript Game Engine
 * [playcanvas/engine](https://github.com/playcanvas/engine) - JavaScript game engine built on WebGL and WebVR.
-* [alohaeditor/Aloha-Editor](https://github.com/alohaeditor/Aloha-Editor) - Aloha Editor is a JavaScript content editing library
+* [philipwalton/html-inspector](https://github.com/philipwalton/html-inspector) - HTML Inspector is a code quality tool to help you and your team write better markup. It's written in JavaScript and runs in the browser, so testing your HTML has never been easier.
+* [craftyjs/Crafty](https://github.com/craftyjs/Crafty) - JavaScript Game Engine
+* [mattdiamond/fuckitjs](https://github.com/mattdiamond/fuckitjs) - The Original Javascript Error Steamroller
 * [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser or Node.js
-* [Studio-42/elFinder](https://github.com/Studio-42/elFinder) - Open-source file manager for web, written in JavaScript using jQuery and jQuery UI
 * [aemkei/jsfuck](https://github.com/aemkei/jsfuck) - Write any JavaScript with 6 Characters: []()!+
-* [sproutcore/sproutcore](https://github.com/sproutcore/sproutcore) - JavaScript Application Framework - JS library only
-* [CreateJS/SoundJS](https://github.com/CreateJS/SoundJS) - A Javascript library for working with Audio. It provides a consistent API for loading and playing audio on different browsers and devices. Currently supports WebAudio, HTML5 Audio, Cordova / PhoneGap, and a Flash fallback.
-* [alexk111/SVG-Morpheus](https://github.com/alexk111/SVG-Morpheus) - JavaScript library enabling SVG icons to morph from one to the other. It implements Material Design's Delightful Details transitions.
-* [TeehanLax/Hyperlapse.js](https://github.com/TeehanLax/Hyperlapse.js) - JavaScript hyper-lapse utility for Google Street View.
-* [formly-js/angular-formly](https://github.com/formly-js/angular-formly) - JavaScript powered forms for AngularJS
-* [usablica/progress.js](https://github.com/usablica/progress.js) - ProgressJs is a JavaScript and CSS3 library which help developers to create and manage progress bar for every objects on the page.
+* [Studio-42/elFinder](https://github.com/Studio-42/elFinder) - Open-source file manager for web, written in JavaScript using jQuery and jQuery UI
+* [alohaeditor/Aloha-Editor](https://github.com/alohaeditor/Aloha-Editor) - Aloha Editor is a JavaScript content editing library
 * [chancejs/chancejs](https://github.com/chancejs/chancejs) - Chance - Random generator helper for JavaScript
-* [flowjs/flow.js](https://github.com/flowjs/flow.js) - A JavaScript library providing multiple simultaneous, stable, fault-tolerant and resumable/restartable file uploads via the HTML5 File API.
+* [CreateJS/SoundJS](https://github.com/CreateJS/SoundJS) - A Javascript library for working with Audio. It provides a consistent API for loading and playing audio on different browsers and devices. Currently supports WebAudio, HTML5 Audio, Cordova / PhoneGap, and a Flash fallback.
 * [babel/babel-sublime](https://github.com/babel/babel-sublime) - Syntax definitions for ES6 JavaScript with React JSX extensions.
-* [oyvindkinsey/easyXDM](https://github.com/oyvindkinsey/easyXDM) - A javascript library providing cross-browser, cross-site messaging/method invocation.
+* [alexk111/SVG-Morpheus](https://github.com/alexk111/SVG-Morpheus) - JavaScript library enabling SVG icons to morph from one to the other. It implements Material Design's Delightful Details transitions.
+* [formly-js/angular-formly](https://github.com/formly-js/angular-formly) - JavaScript powered forms for AngularJS
+* [sproutcore/sproutcore](https://github.com/sproutcore/sproutcore) - JavaScript Application Framework - JS library only
+* [TeehanLax/Hyperlapse.js](https://github.com/TeehanLax/Hyperlapse.js) - JavaScript hyper-lapse utility for Google Street View.
+* [usablica/progress.js](https://github.com/usablica/progress.js) - ProgressJs is a JavaScript and CSS3 library which help developers to create and manage progress bar for every objects on the page.
+* [flowjs/flow.js](https://github.com/flowjs/flow.js) - A JavaScript library providing multiple simultaneous, stable, fault-tolerant and resumable/restartable file uploads via the HTML5 File API.
+* [NextStepWebs/simplemde-markdown-editor](https://github.com/NextStepWebs/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 * [blueimp/JavaScript-Load-Image](https://github.com/blueimp/JavaScript-Load-Image) - JavaScript Load Image is a library to load images provided as File or Blob objects or via URL. It returns an optionally scaled and/or cropped HTML img or canvas element. It also provides a method to parse image meta data to extract Exif tags and thumbnails and to restore the complete image header after resizing.
-* [franciscop/cookies.js](https://github.com/franciscop/cookies.js) - 🍪 Interactive and easy cookies from your browser in javascript
 * [ded/script.js](https://github.com/ded/script.js) - Asyncronous JavaScript loader and dependency manager
-* [anvaka/VivaGraphJS](https://github.com/anvaka/VivaGraphJS) - Graph drawing library for JavaScript
+* [oyvindkinsey/easyXDM](https://github.com/oyvindkinsey/easyXDM) - A javascript library providing cross-browser, cross-site messaging/method invocation.
 * [CreateJS/TweenJS](https://github.com/CreateJS/TweenJS) - A simple but powerful tweening / animation library for Javascript. Part of the CreateJS suite of libraries.
+* [anvaka/VivaGraphJS](https://github.com/anvaka/VivaGraphJS) - Graph drawing library for JavaScript
+* [franciscop/cookies.js](https://github.com/franciscop/cookies.js) - 🍪 Interactive and easy cookies from your browser in javascript
 * [cocos2d/cocos2d-html5](https://github.com/cocos2d/cocos2d-html5) - cocos2d for Web Browsers. Built using JavaScript
 * [markmarkoh/datamaps](https://github.com/markmarkoh/datamaps) - Customizable SVG map visualizations for the web in a single Javascript file using D3.js
-* [sintaxi/phonegap](https://github.com/sintaxi/phonegap) - access core functions on Android, iPhone and Blackberry using JavaScript
 * [domchristie/to-markdown](https://github.com/domchristie/to-markdown) - An HTML to Markdown converter written in JavaScript
+* [ternjs/acorn](https://github.com/ternjs/acorn) - A small, fast, JavaScript-based JavaScript parser
+* [pegjs/pegjs](https://github.com/pegjs/pegjs) - PEG.js: Parser generator for JavaScript
+* [sintaxi/phonegap](https://github.com/sintaxi/phonegap) - access core functions on Android, iPhone and Blackberry using JavaScript
 * [jnordberg/gif.js](https://github.com/jnordberg/gif.js) - JavaScript GIF encoding library
 * [danvk/dygraphs](https://github.com/danvk/dygraphs) - Interactive visualizations of time series using JavaScript and the HTML canvas tag
-* [pegjs/pegjs](https://github.com/pegjs/pegjs) - PEG.js: Parser generator for JavaScript
 * [gritzko/swarm](https://github.com/gritzko/swarm) - JavaScript replicated model (M of MVC) library
-* [Fooidge/PleaseJS](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes
-* [ternjs/acorn](https://github.com/ternjs/acorn) - A small, fast, JavaScript-based JavaScript parser
-* [postaljs/postal.js](https://github.com/postaljs/postal.js) - JavaScript pub/sub library supporting advanced subscription features, and several helpful add-ons.
-* [NextStepWebs/simplemde-markdown-editor](https://github.com/NextStepWebs/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 * [paulmillr/es6-shim](https://github.com/paulmillr/es6-shim) - ECMAScript 6 compatibility shims for legacy JavaScript engines
-* [wyuenho/backgrid](https://github.com/wyuenho/backgrid) - Finally, an easily stylable semantic HTML data grid widget with a Javascript API that doesn't suck.
-* [clientIO/joint](https://github.com/clientIO/joint) - JavaScript diagramming library
-* [substance/substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
 * [airbnb/polyglot.js](https://github.com/airbnb/polyglot.js) - Give your JavaScript the ability to speak many languages.
-* [toji/gl-matrix](https://github.com/toji/gl-matrix) - Javascript Matrix and Vector library for High Performance WebGL apps
+* [postaljs/postal.js](https://github.com/postaljs/postal.js) - JavaScript pub/sub library supporting advanced subscription features, and several helpful add-ons.
+* [Fooidge/PleaseJS](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes
+* [substance/substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
+* [clientIO/joint](https://github.com/clientIO/joint) - JavaScript diagramming library
+* [cloudflare/backgrid](https://github.com/cloudflare/backgrid) - Finally, an easily stylable semantic HTML data grid widget with a Javascript API that doesn't suck.
 * [kangax/html-minifier](https://github.com/kangax/html-minifier) - Javascript-based HTML compressor/minifier (with Node.js support)
-* [slevithan/xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions
-* [enyojs/enyo](https://github.com/enyojs/enyo) - A JavaScript application framework emphasizing modularity and encapsulation
+* [toji/gl-matrix](https://github.com/toji/gl-matrix) - Javascript Matrix and Vector library for High Performance WebGL apps
 * [rickharrison/validate.js](https://github.com/rickharrison/validate.js) - Lightweight JavaScript form validation library inspired by CodeIgniter.
-* [cdmedia/cms.js](https://github.com/cdmedia/cms.js) - The Javascript Site Generator
-* [Robdel12/DropKick](https://github.com/Robdel12/DropKick) - A JavaScript plugin for creating beautiful, accessible, and painless custom dropdowns.
+* [slevithan/xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions
+* [mjackson/history](https://github.com/mjackson/history) - Manage session history with JavaScript
+* [enyojs/enyo](https://github.com/enyojs/enyo) - A JavaScript application framework emphasizing modularity and encapsulation
 * [google/closure-library](https://github.com/google/closure-library) - Google's common JavaScript library
-* [okfn/recline](https://github.com/okfn/recline) - A simple but powerful library for building data applications in pure Javascript and HTML.
+* [cdmedia/cms.js](https://github.com/cdmedia/cms.js) - The Javascript Site Generator
 * [tj/dox](https://github.com/tj/dox) - JavaScript documentation generator for node using markdown and jsdoc
 * [fnando/i18n-js](https://github.com/fnando/i18n-js) - It's a small library to provide the I18n translations on the Javascript. It comes with Rails support.
+* [Robdel12/DropKick](https://github.com/Robdel12/DropKick) - A JavaScript plugin for creating beautiful, accessible, and painless custom dropdowns.
+* [okfn/recline](https://github.com/okfn/recline) - A simple but powerful library for building data applications in pure Javascript and HTML.
 * [Flotype/now](https://github.com/Flotype/now) - NowJS makes it easy to build real-time web apps using JavaScript
-* [mjackson/history](https://github.com/mjackson/history) - Manage session history with JavaScript
-* [Wisembly/basil.js](https://github.com/Wisembly/basil.js) - The missing Javascript smart persistent layer
-* [ChiperSoft/Kalendae](https://github.com/ChiperSoft/Kalendae) - A javascript date picker that just works.
+* [sindresorhus/xo](https://github.com/sindresorhus/xo) - ❤️ JavaScript happiness style linter
 * [jasondavies/d3-cloud](https://github.com/jasondavies/d3-cloud) - Create word clouds in JavaScript.
 * [CreateJS/PreloadJS](https://github.com/CreateJS/PreloadJS) - PreloadJS makes preloading assets & getting aggregate progress events easier in JavaScript. It uses XHR2 when available, and falls back to tag-based loading when not.
-* [ender-js/Ender](https://github.com/ender-js/Ender) - the no-library library: open module JavaScript framework
-* [bevacqua/fuzzysearch](https://github.com/bevacqua/fuzzysearch) - :crystal_ball: Tiny and blazing-fast fuzzy search in JavaScript
-* [jxcore/jxcore](https://github.com/jxcore/jxcore) - Evented IO for ChakraCore, SpiderMonkey & V8 JavaScript
-* [joehewitt/scrollability](https://github.com/joehewitt/scrollability) - Imitates iOS native scrolling in JavaScript.
-* [LeaVerou/bliss](https://github.com/LeaVerou/bliss) - Blissful JavaScript
-* [tobytailor/gordon](https://github.com/tobytailor/gordon) - An open source Flash™ runtime written in pure JavaScript
+* [ChiperSoft/Kalendae](https://github.com/ChiperSoft/Kalendae) - A javascript date picker that just works.
+* [Wisembly/basil.js](https://github.com/Wisembly/basil.js) - The missing Javascript smart persistent layer
 * [AnalyticalGraphicsInc/cesium](https://github.com/AnalyticalGraphicsInc/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
-* [fengyuanchen/viewerjs](https://github.com/fengyuanchen/viewerjs) - JavaScript image viewer.
+* [jxcore/jxcore](https://github.com/jxcore/jxcore) - Evented IO for ChakraCore, SpiderMonkey & V8 JavaScript
 * [nodeca/js-yaml](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
+* [bevacqua/fuzzysearch](https://github.com/bevacqua/fuzzysearch) - :crystal_ball: Tiny and blazing-fast fuzzy search in JavaScript
+* [fengyuanchen/viewerjs](https://github.com/fengyuanchen/viewerjs) - JavaScript image viewer.
+* [ender-js/Ender](https://github.com/ender-js/Ender) - the no-library library: open module JavaScript framework
+* [LeaVerou/bliss](https://github.com/LeaVerou/bliss) - Blissful JavaScript
+* [joehewitt/scrollability](https://github.com/joehewitt/scrollability) - Imitates iOS native scrolling in JavaScript.
+* [tobytailor/gordon](https://github.com/tobytailor/gordon) - An open source Flash™ runtime written in pure JavaScript
 * [Dynalon/mdwiki](https://github.com/Dynalon/mdwiki) - CMS/Wiki system using Javascript for 100% client side single page application using Markdown.
 * [Olical/EventEmitter](https://github.com/Olical/EventEmitter) - Evented JavaScript for the browser
-* [sindresorhus/xo](https://github.com/sindresorhus/xo) - ❤️ JavaScript happiness style linter
 * [facebook/regenerator](https://github.com/facebook/regenerator) - Source transformer enabling ECMAScript 6 generator functions in JavaScript-of-today.
+* [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch JavaScript objects
 * [BlueSpire/Durandal](https://github.com/BlueSpire/Durandal) - A cross-device, cross-platform client framework written in JavaScript and designed to make building Single Page Applications (SPAs) easy to create and maintain.
 * [nosir/obelisk.js](https://github.com/nosir/obelisk.js) - JavaScript library for building pixel isometric graphics with HTML5 canvas
 * [ubolonton/js-csp](https://github.com/ubolonton/js-csp) - CSP channels for Javascript (like Clojurescript's core.async, or Go)
-* [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch JavaScript objects
 * [inspirit/jsfeat](https://github.com/inspirit/jsfeat) - JavaScript Computer Vision library.
-* [keithclark/selectivizr](https://github.com/keithclark/selectivizr) - selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.
+* [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.
 * [mrdavidlaing/javascript-koans](https://github.com/mrdavidlaing/javascript-koans) - Koans to learn Javascript
+* [reactjs/react-future](https://github.com/reactjs/react-future) - Specs & docs for potential future and experimental React APIs and JavaScript syntax.
+* [oliver-moran/jimp](https://github.com/oliver-moran/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
+* [keithclark/selectivizr](https://github.com/keithclark/selectivizr) - selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.
 * [rdio/jsfmt](https://github.com/rdio/jsfmt) - For formatting, searching, and rewriting JavaScript.
 * [pa7/nude.js](https://github.com/pa7/nude.js) - Nudity detection with JavaScript and HTMLCanvas
-* [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.
+* [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Lightweight JavaScript-based user-agent string parser library to detect browser, layout engine, operating system, CPU architecture, and device type/model, entirely from user-agent string. Supports browser & node.js environment. Also available as jQuery/Zepto plugin, Bower/Meteor package, & RequireJS/AMD module
+* [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
+* [digitalbazaar/forge](https://github.com/digitalbazaar/forge) - A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps
+* [coresmart/persistencejs](https://github.com/coresmart/persistencejs) - persistence.js is an asynchronous Javascript database mapper library. You can use it in the browser, as well on the server (and you can share data models between them).
 * [trueinteractions/tint2](https://github.com/trueinteractions/tint2) - Native Javascript Applications
 * [pickhardt/Guiders-JS](https://github.com/pickhardt/Guiders-JS) - Guiders.js: A Javascript library for guiders.
-* [coresmart/persistencejs](https://github.com/coresmart/persistencejs) - persistence.js is an asynchronous Javascript database mapper library. You can use it in the browser, as well on the server (and you can share data models between them).
-* [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
-* [leapmotion/leapjs](https://github.com/leapmotion/leapjs) - JavaScript client for the Leap Motion Controller
-* [reactjs/react-future](https://github.com/reactjs/react-future) - Specs & docs for potential future and experimental React APIs and JavaScript syntax.
-* [digitalbazaar/forge](https://github.com/digitalbazaar/forge) - A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps
-* [JoelOtter/kajero](https://github.com/JoelOtter/kajero) - Interactive JavaScript notebooks with clever graphing
-* [wojodesign/simplecart-js](https://github.com/wojodesign/simplecart-js) - A simple javascript shopping cart that easily integrates with your current website.
-* [oliver-moran/jimp](https://github.com/oliver-moran/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
-* [kolber/audiojs](https://github.com/kolber/audiojs) - A cross-browser javascript wrapper for the html5 audio tag
-* [websanova/js-url](https://github.com/websanova/js-url) - url() - A simple, lightweight url parser for JavaScript
 * [dataarts/dat.gui](https://github.com/dataarts/dat.gui) - dat.gui is a lightweight controller library for JavaScript.
+* [leapmotion/leapjs](https://github.com/leapmotion/leapjs) - JavaScript client for the Leap Motion Controller
+* [JoelOtter/kajero](https://github.com/JoelOtter/kajero) - Interactive JavaScript notebooks with clever graphing
+* [kolber/audiojs](https://github.com/kolber/audiojs) - A cross-browser javascript wrapper for the html5 audio tag
+* [wojodesign/simplecart-js](https://github.com/wojodesign/simplecart-js) - A simple javascript shopping cart that easily integrates with your current website.
+* [websanova/js-url](https://github.com/websanova/js-url) - url() - A simple, lightweight url parser for JavaScript
 * [serratus/quaggaJS](https://github.com/serratus/quaggaJS) - An advanced barcode-scanner written in JavaScript
-* [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - A not-so-lightweight-anymore JavaScript-based User-Agent string parser. Supports browser & node.js environment. Also available as jQuery/Zepto plugin, Bower/Meteor package, & RequireJS/AMD module
-* [jcbrand/converse.js](https://github.com/jcbrand/converse.js) - Web-based XMPP/Jabber chat client written in javascript
-* [ScottHamper/Cookies](https://github.com/ScottHamper/Cookies) - JavaScript Client-Side Cookie Manipulation Library
+* [dleitee/strman](https://github.com/dleitee/strman) - A Javascript string manipulation library.
 * [mroderick/PubSubJS](https://github.com/mroderick/PubSubJS) - Dependency free publish/subscribe for JavaScript
+* [dinbror/blazy](https://github.com/dinbror/blazy) - Hey, be lazy! bLazy.JS is a lightweight pure JavaScript script for lazy loading and multi-serving images. It's working in all modern browsers including IE7+.
 * [facebook/jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
+* [jcbrand/converse.js](https://github.com/jcbrand/converse.js) - Web-based XMPP/Jabber chat client written in javascript
+* [pedant/safe-java-js-webview-bridge](https://github.com/pedant/safe-java-js-webview-bridge) - 为WebView中的Java与JavaScript提供【安全可靠】的多样互通方案
+* [cssinjs/jss](https://github.com/cssinjs/jss) - A lib for generating CSS from JavaScript.
+* [ScottHamper/Cookies](https://github.com/ScottHamper/Cookies) - JavaScript Client-Side Cookie Manipulation Library
 * [mozilla/task.js](https://github.com/mozilla/task.js) - Beautiful concurrency for JavaScript
 * [zensh/jsgen](https://github.com/zensh/jsgen) - JsGen is a next generation，free, open source web software that you can generate a powerful website, such as blog, forum, etc. It is coded by pure JavaScript, based on Node.js, AngularJS, MongoDB.
 * [joewalnes/smoothie](https://github.com/joewalnes/smoothie) - Smoothie Charts: smooooooth JavaScript charts for realtime streaming data
-* [box/t3js](https://github.com/box/t3js) - A minimal component-based JavaScript framework
-* [dinbror/blazy](https://github.com/dinbror/blazy) - Hey, be lazy! bLazy.JS is a lightweight pure JavaScript script for lazy loading and multi-serving images. It's working in all modern browsers including IE7+.
 * [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files
-* [dleitee/strman](https://github.com/dleitee/strman) - A Javascript string manipulation library.
-* [pedant/safe-java-js-webview-bridge](https://github.com/pedant/safe-java-js-webview-bridge) - 为WebView中的Java与JavaScript提供【安全可靠】的多样互通方案
+* [box/t3js](https://github.com/box/t3js) - A minimal component-based JavaScript framework
 * [worseisbetter/galleria](https://github.com/worseisbetter/galleria) - The JavaScript Image Gallery
-* [cssinjs/jss](https://github.com/cssinjs/jss) - A lib for generating CSS from JavaScript.
-* [caolan/jam](https://github.com/caolan/jam) - JavaScript package manager - using a browser-focused and RequireJS compatible repository
 * [skulpt/skulpt](https://github.com/skulpt/skulpt) - Skulpt is a Javascript implementation of the Python programming language
+* [caolan/jam](https://github.com/caolan/jam) - JavaScript package manager - using a browser-focused and RequireJS compatible repository
+* [LazarSoft/jsqrcode](https://github.com/LazarSoft/jsqrcode) - Javascript QRCode scanner
 * [bfirsh/jsnes](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator.
 * [typicaljoe/taffydb](https://github.com/typicaljoe/taffydb) - TaffyDB - an open source JavaScript Database for your browser
-* [wise9/enchant.js](https://github.com/wise9/enchant.js) - A simple JavaScript framework for creating games and apps
-* [millermedeiros/js-signals](https://github.com/millermedeiros/js-signals) - Custom Event/Messaging system for JavaScript inspired by AS3-Signals
 * [evanw/glfx.js](https://github.com/evanw/glfx.js) - An image effects library for JavaScript using WebGL
-* [NYTimes/ice](https://github.com/NYTimes/ice) - track changes with javascript
+* [millermedeiros/js-signals](https://github.com/millermedeiros/js-signals) - Custom Event/Messaging system for JavaScript inspired by AS3-Signals
+* [wise9/enchant.js](https://github.com/wise9/enchant.js) - A simple JavaScript framework for creating games and apps
 * [wa0x6e/cal-heatmap](https://github.com/wa0x6e/cal-heatmap) - Cal-Heatmap is a javascript module to create calendar heatmap to visualize time series data
-* [LazarSoft/jsqrcode](https://github.com/LazarSoft/jsqrcode) - Javascript QRCode scanner
-* [worrydream/Tangle](https://github.com/worrydream/Tangle) - a JavaScript library for reactive documents
 * [Dash-Industry-Forum/dash.js](https://github.com/Dash-Industry-Forum/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
 * [pgbovine/OnlinePythonTutor](https://github.com/pgbovine/OnlinePythonTutor) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser
+* [NYTimes/ice](https://github.com/NYTimes/ice) - track changes with javascript
+* [worrydream/Tangle](https://github.com/worrydream/Tangle) - a JavaScript library for reactive documents
+* [agershun/alasql](https://github.com/agershun/alasql) - AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel.
+* [sutoiku/formula.js](https://github.com/sutoiku/formula.js) - JavaScript implementation of most Microsoft Excel formula functions
 * [bgrins/spectrum](https://github.com/bgrins/spectrum) - The No Hassle JavaScript Colorpicker
 * [schteppe/cannon.js](https://github.com/schteppe/cannon.js) - A lightweight 3D physics engine written in JavaScript.
+* [phoboslab/jsmpeg](https://github.com/phoboslab/jsmpeg) - MPEG1 Video Decoder in JavaScript
+* [web-animations/web-animations-js](https://github.com/web-animations/web-animations-js) - JavaScript implementation of the Web Animations API
 * [lightningtgc/MProgress.js](https://github.com/lightningtgc/MProgress.js) - Material Progress —Google Material Design Progress linear bar. By using CSS3 and vanilla JavaScript.
 * [kartograph/kartograph.js](https://github.com/kartograph/kartograph.js) - Open source JavaScript renderer for Kartograph SVG maps
-* [phoboslab/jsmpeg](https://github.com/phoboslab/jsmpeg) - MPEG1 Video Decoder in JavaScript
+* [jonthornton/jquery-timepicker](https://github.com/jonthornton/jquery-timepicker) - A javascript timepicker plugin for jQuery inspired by Google Calendar.
 * [vthibault/roBrowser](https://github.com/vthibault/roBrowser) - roBrowser is a free and open-source implementation of the Ragnarok Online MMORPG for web browsers written from scratch using the latest web standards (WebGL, HTML5, File API, Javascript, Threads, ...).
 * [krasimir/deb.js](https://github.com/krasimir/deb.js) - Minimalistic JavaScript library for debugging in the browser
-* [jonthornton/jquery-timepicker](https://github.com/jonthornton/jquery-timepicker) - A javascript timepicker plugin for jQuery inspired by Google Calendar.
-* [sutoiku/formula.js](https://github.com/sutoiku/formula.js) - JavaScript implementation of most Microsoft Excel formula functions
-* [simplegeo/polymaps](https://github.com/simplegeo/polymaps) - Polymaps is a free JavaScript library for making dynamic, interactive maps in modern web browsers.
-* [web-animations/web-animations-js](https://github.com/web-animations/web-animations-js) - JavaScript implementation of the Web Animations API
-* [sindresorhus/multiline](https://github.com/sindresorhus/multiline) - Multiline strings in JavaScript
-* [DavidWells/isomorphic-react-example](https://github.com/DavidWells/isomorphic-react-example) - ReactJS + NodeJS ( express ) demo tutorial with video. Universal/Isomorphic JS = Shared JavaScript that runs on both the client & server.
-* [canjs/canjs](https://github.com/canjs/canjs) - An evolving and improving set of client side JavaScript architectural libraries that balances innovation and stability.
-* [ddopson/underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.
-* [agershun/alasql](https://github.com/agershun/alasql) - AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel.
-* [joewalnes/reconnecting-websocket](https://github.com/joewalnes/reconnecting-websocket) - A small decorator for the JavaScript WebSocket API that automatically reconnects
-* [ifandelse/machina.js](https://github.com/ifandelse/machina.js) - js ex machina - finite state machines in JavaScript
 * [jayphelps/core-decorators.js](https://github.com/jayphelps/core-decorators.js) - Library of stage-0 JavaScript decorators (aka ES2016/ES7 decorators but not accurate) inspired by languages that come with built-ins like @​override, @​deprecate, @​autobind, @​mixin and more. Popular with React/Angular, but is framework agnostic.
-* [alongubkin/spider](https://github.com/alongubkin/spider) - [UNMAINTAINED] Unsurprising JavaScript
-* [maryrosecook/gitlet](https://github.com/maryrosecook/gitlet) - Git implemented in JavaScript
+* [joewalnes/reconnecting-websocket](https://github.com/joewalnes/reconnecting-websocket) - A small decorator for the JavaScript WebSocket API that automatically reconnects
+* [DavidWells/isomorphic-react-example](https://github.com/DavidWells/isomorphic-react-example) - ReactJS + NodeJS ( express ) demo tutorial with video. Universal/Isomorphic JS = Shared JavaScript that runs on both the client & server.
+* [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
+* [simplegeo/polymaps](https://github.com/simplegeo/polymaps) - Polymaps is a free JavaScript library for making dynamic, interactive maps in modern web browsers.
 * [bgrins/TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript
+* [sindresorhus/multiline](https://github.com/sindresorhus/multiline) - Multiline strings in JavaScript
+* [canjs/canjs](https://github.com/canjs/canjs) - An evolving and improving set of client side JavaScript architectural libraries that balances innovation and stability.
+* [ifandelse/machina.js](https://github.com/ifandelse/machina.js) - js ex machina - finite state machines in JavaScript
+* [ddopson/underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.
+* [victorporof/Sublime-HTMLPrettify](https://github.com/victorporof/Sublime-HTMLPrettify) - HTML, CSS, JavaScript and JSON code formatter for Sublime Text 2 and 3 via node.js
+* [tcorral/Design-Patterns-in-Javascript](https://github.com/tcorral/Design-Patterns-in-Javascript) - Design Patterns applied to Javascript code.
+* [alongubkin/spider](https://github.com/alongubkin/spider) - Unsurprising JavaScript
 * [dhotson/springy](https://github.com/dhotson/springy) - A force directed graph layout algorithm in JavaScript
 * [numbers/numbers.js](https://github.com/numbers/numbers.js) - Advanced Mathematics Library for Node.js and JavaScript
-* [JeffreyZhao/wind](https://github.com/JeffreyZhao/wind) - Asynchronous flow control in JavaScript, with JavaScript.
-* [jussi-kalliokoski/trine](https://github.com/jussi-kalliokoski/trine) - A utility library for modern JavaScript.
-* [victorporof/Sublime-HTMLPrettify](https://github.com/victorporof/Sublime-HTMLPrettify) - HTML, CSS, JavaScript and JSON code formatter for Sublime Text 2 and 3 via node.js
 * [node-xmpp/node-xmpp](https://github.com/node-xmpp/node-xmpp) - XMPP for JavaScript
-* [tcorral/Design-Patterns-in-Javascript](https://github.com/tcorral/Design-Patterns-in-Javascript) - Design Patterns applied to Javascript code.
-* [philogb/jit](https://github.com/philogb/jit) - The JavaScript InfoVis Toolkit provides tools for creating Interactive Data Visualizations for the Web
+* [maryrosecook/gitlet](https://github.com/maryrosecook/gitlet) - Git implemented in JavaScript
+* [jussi-kalliokoski/trine](https://github.com/jussi-kalliokoski/trine) - A utility library for modern JavaScript.
+* [JeffreyZhao/wind](https://github.com/JeffreyZhao/wind) - Asynchronous flow control in JavaScript, with JavaScript.
 * [jprichardson/string.js](https://github.com/jprichardson/string.js) - Extra JavaScript string methods.
-* [zingchart/zingtouch](https://github.com/zingchart/zingtouch) - A JavaScript touch gesture detection library for the modern web
 * [toorshia/justgage](https://github.com/toorshia/justgage) - JustGage is a handy JavaScript plugin for generating and animating nice & clean dashboard gauges. It is based on Raphaël library for vector drawing.
+* [zingchart/zingtouch](https://github.com/zingchart/zingtouch) - A JavaScript touch gesture detection library for the modern web
 * [lmgonzalves/segment](https://github.com/lmgonzalves/segment) - A little JavaScript class (without dependencies) to draw and animate SVG path strokes
+* [philogb/jit](https://github.com/philogb/jit) - The JavaScript InfoVis Toolkit provides tools for creating Interactive Data Visualizations for the Web
 * [triceam/app-UI](https://github.com/triceam/app-UI) - app-UI is a collection of user interface components that may be helpful to web and mobile developers for creating interactive applications using HTML and JavaScript, especially those targeting mobile devices.  app-UI is a continual work in progress - it was born out of the necessity to have rich & native-feeling interfaces in HTML/JS experiences, and it works great with PhoneGap applications (http://www.phonegap.com).  app-UI can easily be styled/customized using CSS.
-* [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 * [adobe-research/theseus](https://github.com/adobe-research/theseus) - A pretty darn cool JavaScript debugger for Brackets
-* [harthur/kittydar](https://github.com/harthur/kittydar) - [UNMAINTAINED] Face detection for cats in JavaScript - demo for a TXJS talk
-* [jejacks0n/teaspoon](https://github.com/jejacks0n/teaspoon) - Teaspoon: Javascript test runner for Rails. Run tests in the browser or headless with PhantomJS, Selenium WebDriver, Capybara Webkit or with BrowserStack.
-* [jakejs/jake](https://github.com/jakejs/jake) - JavaScript build tool, similar to Make or Rake. Built to work with Node.js.
-* [mikeflynn/egg.js](https://github.com/mikeflynn/egg.js) - A simple javascript library to add easter eggs to web pages.
-* [kumailht/responsive-elements](https://github.com/kumailht/responsive-elements) - Responsive elements makes it possible for any element to adapt and respond to the area they occupy. It's a tiny javascript library that you can drop into your projects today.
-* [millermedeiros/crossroads.js](https://github.com/millermedeiros/crossroads.js) - JavaScript Routes
+* [blueimp/JavaScript-MD5](https://github.com/blueimp/JavaScript-MD5) - JavaScript MD5 implementation. Compatible with server-side environments like node.js, module loaders like RequireJS and all web browsers.
 * [vitmalina/w2ui](https://github.com/vitmalina/w2ui) - JavaScript UI library for data-driven web applications
-* [liferay/alloy-ui](https://github.com/liferay/alloy-ui) - AlloyUI is a framework built on top of YUI3 (JavaScript) that uses Bootstrap 3 (HTML/CSS) to provide a simple API for building high scalable applications
-* [fat/bean](https://github.com/fat/bean) - an events api for javascript
-* [alex-seville/blanket](https://github.com/alex-seville/blanket) - blanket.js is a simple code coverage library for javascript.  Designed to be easy to install and use, for both browser and nodejs.
-* [facebookarchive/connect-js](https://github.com/facebookarchive/connect-js) - Legacy JavaScript SDK
+* [jejacks0n/teaspoon](https://github.com/jejacks0n/teaspoon) - Teaspoon: Javascript test runner for Rails. Run tests in the browser or headless with PhantomJS, Selenium WebDriver, Capybara Webkit or with BrowserStack.
+* [harthur/kittydar](https://github.com/harthur/kittydar) - [UNMAINTAINED] Face detection for cats in JavaScript - demo for a TXJS talk
+* [millermedeiros/crossroads.js](https://github.com/millermedeiros/crossroads.js) - JavaScript Routes
+* [jakejs/jake](https://github.com/jakejs/jake) - JavaScript build tool, similar to Make or Rake. Built to work with Node.js.
 * [deepstreamIO/golden-layout](https://github.com/deepstreamIO/golden-layout) - The ultimate Javascript layout manager
+* [liferay/alloy-ui](https://github.com/liferay/alloy-ui) - AlloyUI is a framework built on top of YUI3 (JavaScript) that uses Bootstrap 3 (HTML/CSS) to provide a simple API for building high scalable applications
+* [kumailht/responsive-elements](https://github.com/kumailht/responsive-elements) - Responsive elements makes it possible for any element to adapt and respond to the area they occupy. It's a tiny javascript library that you can drop into your projects today.
+* [mikeflynn/egg.js](https://github.com/mikeflynn/egg.js) - A simple javascript library to add easter eggs to web pages.
+* [alex-seville/blanket](https://github.com/alex-seville/blanket) - blanket.js is a simple code coverage library for javascript.  Designed to be easy to install and use, for both browser and nodejs.
+* [fat/bean](https://github.com/fat/bean) - an events api for javascript
+* [priologic/easyrtc](https://github.com/priologic/easyrtc) - EasyRTC is a bundle of Open Source WebRTC joy!   Our Javascript API hides the differences between Chrome and Firefox browsers and simplifies coding needed for working WebRTC apps. Signalling server using socket.io built on node.js.  Tons of free code so you can build WebRTC apps in a few hours that just work.  Demos include Instant messaging, Multiparty chatroom, Audio + Video, Screen sharing, Data channel Messaging and File sharing, and more.
 * [prettymuchbryce/easystarjs](https://github.com/prettymuchbryce/easystarjs) - An asynchronous A* pathfinding API written in Javascript.
+* [fengyuanchen/cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
+* [facebookarchive/connect-js](https://github.com/facebookarchive/connect-js) - Legacy JavaScript SDK
+* [text-mask/text-mask](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript
+* [timoxley/functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop) - A functional javascript workshop. No libraries required (i.e. no underscore), just ES5.
 * [Idered/Editr.js](https://github.com/Idered/Editr.js) - HTML, CSS and JavaScript playground
 * [krasimir/absurd](https://github.com/krasimir/absurd) - A JavaScript library with superpowers
-* [blueimp/JavaScript-MD5](https://github.com/blueimp/JavaScript-MD5) - JavaScript MD5 implementation. Compatible with server-side environments like node.js, module loaders like RequireJS and all web browsers.
-* [priologic/easyrtc](https://github.com/priologic/easyrtc) - EasyRTC is a bundle of Open Source WebRTC joy!   Our Javascript API hides the differences between Chrome and Firefox browsers and simplifies coding needed for working WebRTC apps. Signalling server using socket.io built on node.js.  Tons of free code so you can build WebRTC apps in a few hours that just work.  Demos include Instant messaging, Multiparty chatroom, Audio + Video, Screen sharing, Data channel Messaging and File sharing, and more.
 * [montagejs/collections](https://github.com/montagejs/collections) - This package contains JavaScript implementations of common data structures with idiomatic interfaces.
-* [danlucraft/git.js](https://github.com/danlucraft/git.js) - Javascript Git implementation
 * [alexei/sprintf.js](https://github.com/alexei/sprintf.js) - sprintf.js is a complete open source JavaScript sprintf implementation
-* [timoxley/functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop) - A functional javascript workshop. No libraries required (i.e. no underscore), just ES5.
-* [spikebrehm/isomorphic-tutorial](https://github.com/spikebrehm/isomorphic-tutorial) - Tutorial app to demonstrate isomorphic JavaScript concepts.
+* [danlucraft/git.js](https://github.com/danlucraft/git.js) - pure-Javascript Git implementation
 * [Webschool-io/be-mean](https://github.com/Webschool-io/be-mean) - :beer: Curso voltado a ensinar o STACK conhecido como MEAN(MongoDb, Express, Angular e Node.js) e muitas outras tecnologias que utilizam JavaScript. ONde você se formará um desenvolvedor FULLSTACK!!!
-* [text-mask/text-mask](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript
 * [openstreetmap/iD](https://github.com/openstreetmap/iD) - The easy-to-use OpenStreetMap editor in JavaScript.
-* [fengyuanchen/cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
 * [bitcoinjs/bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) - Bitcoin-related functions implemented in pure JavaScript
-* [candy-chat/candy](https://github.com/candy-chat/candy) - JavaScript-based multi-user chat client for XMPP.
-* [esnext/es6-module-transpiler](https://github.com/esnext/es6-module-transpiler) - Tomorrow’s JavaScript module syntax today
+* [spikebrehm/isomorphic-tutorial](https://github.com/spikebrehm/isomorphic-tutorial) - Tutorial app to demonstrate isomorphic JavaScript concepts.
+* [monkberry/monkberry](https://github.com/monkberry/monkberry) - Monkberry is a JavaScript library for building web user interfaces
 * [stuyam/pressure](https://github.com/stuyam/pressure) - :point_down::boom:  JavaScript library for handling both Force Touch and 3D Touch on the web
+* [Qix-/color](https://github.com/Qix-/color) - :rainbow: Javascript color conversion and manipulation library
+* [candy-chat/candy](https://github.com/candy-chat/candy) - JavaScript-based multi-user chat client for XMPP.
+* [pieroxy/lz-string](https://github.com/pieroxy/lz-string) - LZ-based compression algorithm for JavaScript
 * [RobertWHurst/KeyboardJS](https://github.com/RobertWHurst/KeyboardJS) - A JavaScript library for binding keyboard combos without the pain of key codes and key combo conflicts.
 * [idflood/ThreeNodes.js](https://github.com/idflood/ThreeNodes.js) - vvvv "clone" in javascript/webgl
-* [Qix-/color](https://github.com/Qix-/color) - Javascript color conversion and manipulation library
-* [enyo/opentip](https://github.com/enyo/opentip) - Opentip is an open source javascript tooltip based on the protoype framework.
-* [pieroxy/lz-string](https://github.com/pieroxy/lz-string) - LZ-based compression algorithm for JavaScript
-* [TTLabs/EvaporateJS](https://github.com/TTLabs/EvaporateJS) - Javascript library for browser to S3 multipart resumable uploads
-* [chjj/term.js](https://github.com/chjj/term.js) - A terminal written in javascript.
-* [schteppe/p2.js](https://github.com/schteppe/p2.js) - JavaScript 2D physics library
-* [facebook/rebound-js](https://github.com/facebook/rebound-js) - Spring dynamics in JavaScript.
-* [alexandersimoes/d3plus](https://github.com/alexandersimoes/d3plus) - A javascript library that extends D3.js to enable fast and beautiful visualizations.
-* [monkberry/monkberry](https://github.com/monkberry/monkberry) - Monkberry is a JavaScript library for building web user interfaces
-* [boo1ean/casual](https://github.com/boo1ean/casual) - Fake data generator for javascript
+* [esnext/es6-module-transpiler](https://github.com/esnext/es6-module-transpiler) - Tomorrow’s JavaScript module syntax today
 * [Alex-D/Trumbowyg](https://github.com/Alex-D/Trumbowyg) - A lightweight and amazing WYSIWYG JavaScript editor - 20kB only (8kB gzip)
+* [facebook/rebound-js](https://github.com/facebook/rebound-js) - Spring dynamics in JavaScript.
+* [boo1ean/casual](https://github.com/boo1ean/casual) - Fake data generator for javascript
+* [TTLabs/EvaporateJS](https://github.com/TTLabs/EvaporateJS) - Javascript library for browser to S3 multipart resumable uploads
+* [enyo/opentip](https://github.com/enyo/opentip) - Opentip is an open source javascript tooltip based on the protoype framework.
+* [schteppe/p2.js](https://github.com/schteppe/p2.js) - JavaScript 2D physics library
+* [chjj/term.js](https://github.com/chjj/term.js) - A terminal written in javascript.
+* [alexandersimoes/d3plus](https://github.com/alexandersimoes/d3plus) - A javascript library that extends D3.js to enable fast and beautiful visualizations.
 * [simple-statistics/simple-statistics](https://github.com/simple-statistics/simple-statistics) - simple statistics for node & browser javascript
-* [misoproject/dataset](https://github.com/misoproject/dataset) - JavaScript library that makes managing the data behind client-side visualisations easy
-* [marijnh/Eloquent-JavaScript](https://github.com/marijnh/Eloquent-JavaScript) - The second edition of Eloquent JavaScript
-* [timdown/rangy](https://github.com/timdown/rangy) - A cross-browser JavaScript range and selection library.
-* [lo-th/Oimo.js](https://github.com/lo-th/Oimo.js) - Lightweight 3d physics engine for javascript
-* [workshopper/javascripting](https://github.com/workshopper/javascripting) - Learn JavaScript by adventuring around in the terminal.
-* [nodebox/opentype.js](https://github.com/nodebox/opentype.js) - Read and write OpenType fonts using JavaScript.
 * [exif-js/exif-js](https://github.com/exif-js/exif-js) - JavaScript library for reading EXIF image metadata
+* [timdown/rangy](https://github.com/timdown/rangy) - A cross-browser JavaScript range and selection library.
+* [workshopper/javascripting](https://github.com/workshopper/javascripting) - Learn JavaScript by adventuring around in the terminal.
+* [marijnh/Eloquent-JavaScript](https://github.com/marijnh/Eloquent-JavaScript) - The second edition of Eloquent JavaScript
+* [lo-th/Oimo.js](https://github.com/lo-th/Oimo.js) - Lightweight 3d physics engine for javascript
+* [power-assert-js/power-assert](https://github.com/power-assert-js/power-assert) - Power Assert in JavaScript. Provides descriptive assertion messages through standard assert interface. No API is the best API.
+* [misoproject/dataset](https://github.com/misoproject/dataset) - JavaScript library that makes managing the data behind client-side visualisations easy
+* [nodebox/opentype.js](https://github.com/nodebox/opentype.js) - Read and write OpenType fonts using JavaScript.
 * [isaacs/minimatch](https://github.com/isaacs/minimatch) - a glob matcher in javascript
-* [liammclennan/JavaScript-Koans](https://github.com/liammclennan/JavaScript-Koans) - javascript koans is an interactive learning environment that uses failing tests to introduce students to aspects of JavaScript in a logical sequence.
-* [stewdio/beep.js](https://github.com/stewdio/beep.js) - Beep is a JavaScript toolkit for building browser-based synthesizers.
-* [jirikavi/AngularJS-Toaster](https://github.com/jirikavi/AngularJS-Toaster) - AngularJS Toaster is a customized version of "toastr" non-blocking notification javascript library.
 * [cpettitt/dagre](https://github.com/cpettitt/dagre) - Directed graph renderer for javascript
-* [martyjs/marty](https://github.com/martyjs/marty) - A Javascript library for state management in React applications
+* [dollarshaveclub/shave](https://github.com/dollarshaveclub/shave) - Shave is a zero dependency javascript plugin that truncates text to fit within a html element based on a set max-height  ✁
+* [liammclennan/JavaScript-Koans](https://github.com/liammclennan/JavaScript-Koans) - javascript koans is an interactive learning environment that uses failing tests to introduce students to aspects of JavaScript in a logical sequence.
+* [jirikavi/AngularJS-Toaster](https://github.com/jirikavi/AngularJS-Toaster) - AngularJS Toaster is a customized version of "toastr" non-blocking notification javascript library.
 * [aserg-ufmg/JSCity](https://github.com/aserg-ufmg/JSCity) - Visualizing JavaScript source code as navigable 3D cities
+* [stewdio/beep.js](https://github.com/stewdio/beep.js) - Beep is a JavaScript toolkit for building browser-based synthesizers.
+* [benjamn/recast](https://github.com/benjamn/recast) - JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator
+* [esdoc/esdoc](https://github.com/esdoc/esdoc) - ESDoc - Good Documentation for JavaScript(ES2015)
 * [ReactiveX/learnrx](https://github.com/ReactiveX/learnrx) - A series of interactive exercises for learning Microsoft's Reactive Extensions Library for Javascript.
-* [mbebenita/LLJS](https://github.com/mbebenita/LLJS) - LLJS: Low-Level JavaScript
+* [martyjs/marty](https://github.com/martyjs/marty) - A Javascript library for state management in React applications
 * [js-data/js-data](https://github.com/js-data/js-data) - Give your data the treatment it deserves with a framework-agnostic, datastore-agnostic JavaScript ORM built for ease of use and peace of mind. Works in Node.js and in the Browser. Main Site: http://js-data.io, API Reference Docs: http://api.js-data.io/js-data
 * [jaysalvat/buzz](https://github.com/jaysalvat/buzz) - Buzz is a small but powerful Javascript library that allows you to easily take advantage of the new HTML5 audio element. It tries to degrade silently on non-modern browsers.
+* [mbebenita/LLJS](https://github.com/mbebenita/LLJS) - LLJS: Low-Level JavaScript
 * [jansmolders86/mediacenterjs](https://github.com/jansmolders86/mediacenterjs) - A HTML/CSS/Javascript (NodeJS) based Media center
+* [gcanti/tcomb](https://github.com/gcanti/tcomb) - Type checking and DDD for JavaScript
+* [travist/jsencrypt](https://github.com/travist/jsencrypt) - A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
 * [jairajs89/Touchy.js](https://github.com/jairajs89/Touchy.js) - A simple light-weight JavaScript library for dealing with touch events
 * [ftlabs/ftscroller](https://github.com/ftlabs/ftscroller) - FTScroller is a cross-browser Javascript/CSS library to allow touch, mouse or scrollwheel scrolling within specified elements, with pagination, snapping and bouncing support.
-* [esdoc/esdoc](https://github.com/esdoc/esdoc) - ESDoc - Good Documentation for JavaScript(ES2015)
+* [ashtuchkin/iconv-lite](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings in pure javascript.
 * [conditionizr/conditionizr](https://github.com/conditionizr/conditionizr) - Conditional JavaScript, CSS, callbacks and classNames for environments.
 * [Treesaver/treesaver](https://github.com/Treesaver/treesaver) - JavaScript library for creating column and page-based layouts
-* [gcanti/tcomb](https://github.com/gcanti/tcomb) - Type checking and DDD for JavaScript
-* [benjamn/recast](https://github.com/benjamn/recast) - JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator
+* [rtsao/styletron](https://github.com/rtsao/styletron) - :zap: Universal, high-performance JavaScript styles
 * [AlloyTeam/JX](https://github.com/AlloyTeam/JX) - JX(Javascript eXtension tools) 是腾讯AlloyTeam推出的模块化、非侵入式Web前端框架，适合构建和组织工业级大规模、高效率的 Web App
-* [travist/jsencrypt](https://github.com/travist/jsencrypt) - A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
-* [ashtuchkin/iconv-lite](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings in pure javascript.
-* [maccman/holla](https://github.com/maccman/holla) - Holla! - Rich JavaScript Application
-* [power-assert-js/power-assert](https://github.com/power-assert-js/power-assert) - Power Assert in JavaScript. Provides descriptive assertion messages through standard assert interface. No API is the best API.
-* [blueimp/JavaScript-Templates](https://github.com/blueimp/JavaScript-Templates) - 1KB lightweight, fast & powerful JavaScript templating engine with zero dependencies. Compatible with server-side environments like node.js, module loaders like RequireJS and all web browsers.
-* [sloisel/numeric](https://github.com/sloisel/numeric) - Numerical analysis in Javascript
-* [pypyjs/pypyjs](https://github.com/pypyjs/pypyjs) - PyPy compiled to JavaScript
-* [MikeMcl/decimal.js](https://github.com/MikeMcl/decimal.js) - An arbitrary-precision Decimal type for JavaScript
 * [Caligatio/jsSHA](https://github.com/Caligatio/jsSHA) - A JavaScript implementation of the complete Secure Hash Standard family (SHA-1, SHA-224, SHA3-224, SHA-256, SHA3-256, SHA-384, SHA3-384, SHA-512, SHA3-512, SHAKE128, and SHAKE256) as well as HMAC
+* [blueimp/JavaScript-Templates](https://github.com/blueimp/JavaScript-Templates) - 1KB lightweight, fast & powerful JavaScript templating engine with zero dependencies. Compatible with server-side environments like node.js, module loaders like RequireJS and all web browsers.
+* [MikeMcl/decimal.js](https://github.com/MikeMcl/decimal.js) - An arbitrary-precision Decimal type for JavaScript
+* [pypyjs/pypyjs](https://github.com/pypyjs/pypyjs) - PyPy compiled to JavaScript
+* [getsentry/raven-js](https://github.com/getsentry/raven-js) - JavaScript client for Sentry
+* [sloisel/numeric](https://github.com/sloisel/numeric) - Numerical analysis in Javascript
+* [maccman/holla](https://github.com/maccman/holla) - Holla! - Rich JavaScript Application
+* [canvg/canvg](https://github.com/canvg/canvg) - Javascript SVG parser and renderer on Canvas
 * [walterhiggins/ScriptCraft](https://github.com/walterhiggins/ScriptCraft) - Write Minecraft Plugins in JavaScript.
 * [jsx/JSX](https://github.com/jsx/JSX) - JSX - a faster, safer, easier JavaScript
-* [messageformat/messageformat.js](https://github.com/messageformat/messageformat.js) - ICU MessageFormat for Javascript - i18n Plural and Gender Capable Messages
-* [corbanbrook/dsp.js](https://github.com/corbanbrook/dsp.js) - Digital Signal Processing for Javascript
 * [openseadragon/openseadragon](https://github.com/openseadragon/openseadragon) - An open-source, web-based viewer for zoomable images, implemented in pure JavaScript.
-* [gwatts/jquery.sparkline](https://github.com/gwatts/jquery.sparkline) - A plugin for the jQuery javascript library to generate small sparkline charts directly in the browser
+* [corbanbrook/dsp.js](https://github.com/corbanbrook/dsp.js) - Digital Signal Processing for Javascript
+* [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co
+* [messageformat/messageformat.js](https://github.com/messageformat/messageformat.js) - ICU MessageFormat for Javascript - i18n Plural and Gender Capable Messages
 * [shakiba/stage.js](https://github.com/shakiba/stage.js) - 2D JavaScript library for cross-platform HTML5 game development
-* [getsentry/raven-js](https://github.com/getsentry/raven-js) - JavaScript client for Sentry
 * [camwiegert/baffle](https://github.com/camwiegert/baffle) - A tiny javascript library for obfuscating and revealing text in DOM elements. :astonished:
-* [captbaritone/winamp2-js](https://github.com/captbaritone/winamp2-js) - A reimplementation of Winamp 2.9 in HTML5 and Javascript
+* [gwatts/jquery.sparkline](https://github.com/gwatts/jquery.sparkline) - A plugin for the jQuery javascript library to generate small sparkline charts directly in the browser
 * [spy-js/spy-js](https://github.com/spy-js/spy-js) - spy-js: javascript tracing tool
-* [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
+* [shift-js/shift-js](https://github.com/shift-js/shift-js) - Swift to JavaScript transpiler
+* [captbaritone/winamp2-js](https://github.com/captbaritone/winamp2-js) - A reimplementation of Winamp 2.9 in HTML5 and Javascript
 * [stealjs/steal](https://github.com/stealjs/steal) - Gets JavaScript
 * [NV/chrome-devtools-autosave](https://github.com/NV/chrome-devtools-autosave) - Auto-saving CSS and JavaScript changes from the Chrome Developer Tools
-* [shift-js/shift-js](https://github.com/shift-js/shift-js) - Swift to JavaScript transpiler
-* [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co
 * [marioizquierdo/jquery.serializeJSON](https://github.com/marioizquierdo/jquery.serializeJSON) - Serialize an HTML Form to a JavaScript Object, supporting nested attributes and arrays.
-* [jstat/jstat](https://github.com/jstat/jstat) - JavaScript Statistical Library
 * [MikeMcl/bignumber.js](https://github.com/MikeMcl/bignumber.js) - A JavaScript library for arbitrary-precision decimal and non-decimal arithmetic
+* [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
+* [jstat/jstat](https://github.com/jstat/jstat) - JavaScript Statistical Library
+* [flitbit/diff](https://github.com/flitbit/diff) - Javascript utility for calculating deep difference, capturing changes, and applying changes across objects; for nodejs and the browser.
+* [benoitvallon/computer-science-in-javascript](https://github.com/benoitvallon/computer-science-in-javascript) - Computer science reimplemented in JavaScript
 * [mourner/simplify-js](https://github.com/mourner/simplify-js) - High-performance JavaScript polyline simplification library
 * [stefanerickson/covervid](https://github.com/stefanerickson/covervid) - Make your HTML5 video behave like a background cover image with this lightweight Javascript plugin / jQuery extension
 * [paperlesspost/graphiti](https://github.com/paperlesspost/graphiti) - An alternate JavaScript and Ruby front-end and graph storage application for the Graphite Real-time graphing engine.
-* [flitbit/diff](https://github.com/flitbit/diff) - Javascript utility for calculating deep difference, capturing changes, and applying changes across objects; for nodejs and the browser.
-* [stolksdorf/Parallaxjs](https://github.com/stolksdorf/Parallaxjs) - A Library for Javascript that allows easy page parallaxing
 * [nrabinowitz/pjscrape](https://github.com/nrabinowitz/pjscrape) - A web-scraping framework written in Javascript, using PhantomJS and jQuery
-* [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
-* [d0ugal-archive/locache](https://github.com/d0ugal-archive/locache) - JavaScript caching framework for client side caching in the browser using localStorage - gracefully degrades when the browser doesn't support localStorage.
+* [stolksdorf/Parallaxjs](https://github.com/stolksdorf/Parallaxjs) - A Library for Javascript that allows easy page parallaxing
+* [ivanakimov/hashids.js](https://github.com/ivanakimov/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.
 * [hiddentao/squel](https://github.com/hiddentao/squel) - :office: SQL query string builder for Javascript
+* [joni2back/angular-filemanager](https://github.com/joni2back/angular-filemanager) - JavaScript HTML5 File Management Material Design Folder Explorer Navigator Browser Manager in AngularJS with CSS3 Responsive (with FTP in PHP / Java / Node)
+* [d0ugal-archive/locache](https://github.com/d0ugal-archive/locache) - JavaScript caching framework for client side caching in the browser using localStorage - gracefully degrades when the browser doesn't support localStorage.
 * [mcsoto/LogicJS](https://github.com/mcsoto/LogicJS) - Logic programming for JavaScript.
 * [Clouda-team/Cloudajs](https://github.com/Clouda-team/Cloudajs) - Clouda Framework - A Realtime Javascript RIA Framework For Mobile WebApp
-* [joni2back/angular-filemanager](https://github.com/joni2back/angular-filemanager) - JavaScript HTML5 File Management Material Design Folder Explorer Navigator Browser Manager in AngularJS with CSS3 Responsive (with FTP in PHP / Java / Node)
 * [neumino/thinky](https://github.com/neumino/thinky) - JavaScript ORM for RethinkDB
+* [krasimir/cssx](https://github.com/krasimir/cssx) - CSS in JavaScript
 * [hxgf/smoke.js](https://github.com/hxgf/smoke.js) - framework-agnostic styled alert system for javascript
 * [MaiaVictor/WebMonkeys](https://github.com/MaiaVictor/WebMonkeys) - Massively parallel GPU programming on JavaScript, simple and clean.
-* [krasimir/cssx](https://github.com/krasimir/cssx) - CSS in JavaScript
 * [danielemoraschi/maplace.js](https://github.com/danielemoraschi/maplace.js) - A Google Maps Javascript plugin for jQuery.
-* [ivanakimov/hashids.js](https://github.com/ivanakimov/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.
-* [canvg/canvg](https://github.com/canvg/canvg) - Javascript SVG parser and renderer on Canvas
-* [benoitvallon/computer-science-in-javascript](https://github.com/benoitvallon/computer-science-in-javascript) - Computer science reimplemented in JavaScript
-* [cognitect-labs/transducers-js](https://github.com/cognitect-labs/transducers-js) - Transducers for JavaScript
-* [javascript/augment](https://github.com/javascript/augment) - The world's smallest and fastest classical JavaScript inheritance pattern.
-* [Sage/streamlinejs](https://github.com/Sage/streamlinejs) - Asynchronous JavaScript for dummies
 * [mourner/suncalc](https://github.com/mourner/suncalc) - A tiny JavaScript library for calculating sun/moon positions and phases.
-* [seaofclouds/tweet](https://github.com/seaofclouds/tweet) - put twitter on your website with tweet, an unobtrusive javascript plugin for jquery
 * [paldepind/flyd](https://github.com/paldepind/flyd) - The minimalistic but powerful, modular, functional reactive programming library in JavaScript.
-* [florian/cookie.js](https://github.com/florian/cookie.js) - A tiny JavaScript library that simplifies cookies.
+* [cognitect-labs/transducers-js](https://github.com/cognitect-labs/transducers-js) - Transducers for JavaScript
 * [swagger-api/swagger-js](https://github.com/swagger-api/swagger-js) - Javascript library to connect to swagger-enabled APIs via browser or nodejs
+* [Sage/streamlinejs](https://github.com/Sage/streamlinejs) - Asynchronous JavaScript for dummies
+* [javascript/augment](https://github.com/javascript/augment) - The world's smallest and fastest classical JavaScript inheritance pattern.
 * [jamesallardice/Placeholders.js](https://github.com/jamesallardice/Placeholders.js) - A JavaScript polyfill for the HTML5 placeholder attribute
+* [florian/cookie.js](https://github.com/florian/cookie.js) - A tiny JavaScript library that simplifies cookies.
+* [seaofclouds/tweet](https://github.com/seaofclouds/tweet) - put twitter on your website with tweet, an unobtrusive javascript plugin for jquery
 * [evanw/csg.js](https://github.com/evanw/csg.js) - Constructive solid geometry on meshes using BSP trees in JavaScript
 * [hunterloftis/newton](https://github.com/hunterloftis/newton) - A playful, particle-based physics engine designed from the ground up for JavaScript.
-* [williamngan/roll](https://github.com/williamngan/roll) - roll and scroll tracking -- a tiny javascript library
 * [jcoglan/sylvester](https://github.com/jcoglan/sylvester) - Vector, matrix and geometry math JavaScript
-* [watilde/beeplay](https://github.com/watilde/beeplay) - Write A Song In JavaScript
-* [bernii/gauge.js](https://github.com/bernii/gauge.js) - 100% native and cool looking JavaScript gauge
-* [creationix/haml-js](https://github.com/creationix/haml-js) - Haml ported to server-side Javascript.  This is a traditional server-side templating language. Tested with node-js
-* [tgdwyer/WebCola](https://github.com/tgdwyer/WebCola) - Javascript constraint-based graph layout
-* [mohayonao/timbre.js](https://github.com/mohayonao/timbre.js) - JavaScript library for objective sound programming
-* [madrobby/vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library
-* [vvo/lazyload](https://github.com/vvo/lazyload) - :bullettrain_front: Lazyload images, iframes, widgets with a standalone JavaScript lazyloader
+* [williamngan/roll](https://github.com/williamngan/roll) - roll and scroll tracking -- a tiny javascript library
 * [andyearnshaw/Intl.js](https://github.com/andyearnshaw/Intl.js) - Compatibility implementation of the ECMAScript Internationalization API (ECMA-402) for JavaScript
+* [bernii/gauge.js](https://github.com/bernii/gauge.js) - 100% native and cool looking JavaScript gauge
+* [google/shaka-player](https://github.com/google/shaka-player) - JavaScript player library / DASH client / MSE-EME player
+* [watilde/beeplay](https://github.com/watilde/beeplay) - Write A Song In JavaScript
+* [googlemaps/js-marker-clusterer](https://github.com/googlemaps/js-marker-clusterer) - A marker clustering library for the Google Maps JavaScript API v3.
+* [vvo/lazyload](https://github.com/vvo/lazyload) - :bullettrain_front: Lazyload images, iframes, widgets with a standalone JavaScript lazyloader
+* [madrobby/vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library
+* [mohayonao/timbre.js](https://github.com/mohayonao/timbre.js) - JavaScript library for objective sound programming
+* [creationix/haml-js](https://github.com/creationix/haml-js) - Haml ported to server-side Javascript.  This is a traditional server-side templating language. Tested with node-js
+* [feimosi/baguetteBox.js](https://github.com/feimosi/baguetteBox.js) - Simple and easy to use lightbox script written in pure JavaScript
+* [codemix/babel-plugin-typecheck](https://github.com/codemix/babel-plugin-typecheck) - Static and runtime type checking for JavaScript in the form of a Babel plugin.
+* [stevenmiller888/mind](https://github.com/stevenmiller888/mind) - A neural network library built in JavaScript
+* [ansman/validate.js](https://github.com/ansman/validate.js) - Declarative validation written in javascript
+* [defunctzombie/zuul](https://github.com/defunctzombie/zuul) - multi-framework javascript browser testing
 * [lugolabs/circles](https://github.com/lugolabs/circles) - A lightweight JavaScript library that generates circular graphs in SVG.
 * [zmmbreeze/lining.js](https://github.com/zmmbreeze/lining.js) - An easy to use javascript plugin offers you complete DOWN-TO-THE-LINE control for radical web typography.
-* [googlemaps/js-marker-clusterer](https://github.com/googlemaps/js-marker-clusterer) - A marker clustering library for the Google Maps JavaScript API v3.
-* [defunctzombie/zuul](https://github.com/defunctzombie/zuul) - multi-framework javascript browser testing
 * [mathiasbynens/he](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.
-* [google/shaka-player](https://github.com/google/shaka-player) - JavaScript player library / DASH client / MSE-EME player
-* [codemix/babel-plugin-typecheck](https://github.com/codemix/babel-plugin-typecheck) - Static and runtime type checking for JavaScript in the form of a Babel plugin.
+* [decaffeinate/decaffeinate](https://github.com/decaffeinate/decaffeinate) - Goodbye CoffeeScript, hello JavaScript!
+* [mtschirs/js-objectdetect](https://github.com/mtschirs/js-objectdetect) - computer vision in your browser - javascript real-time object detection
 * [cemerick/jsdifflib](https://github.com/cemerick/jsdifflib) - A javascript library for diffing text and generating corresponding HTML views
 * [andyedinborough/stress-css](https://github.com/andyedinborough/stress-css) - JavaScript to test each CSS class on a page and report which are hindering performance
-* [feimosi/baguetteBox.js](https://github.com/feimosi/baguetteBox.js) - Simple and easy to use lightbox script written in pure JavaScript
-* [mtschirs/js-objectdetect](https://github.com/mtschirs/js-objectdetect) - computer vision in your browser - javascript real-time object detection
-* [decaffeinate/decaffeinate](https://github.com/decaffeinate/decaffeinate) - Goodbye CoffeeScript, hello JavaScript!
 * [oampo/Audiolet](https://github.com/oampo/Audiolet) - A JavaScript library for real-time audio synthesis and composition from within the browser
-* [ansman/validate.js](https://github.com/ansman/validate.js) - Declarative validation written in javascript
-* [zzarcon/microm](https://github.com/zzarcon/microm) - :musical_note: Beautiful library to convert browser microphone to mp3 in Javascript :musical_note:
-* [mjackson/mach](https://github.com/mjackson/mach) - HTTP for JavaScript
-* [batiste/sprite.js](https://github.com/batiste/sprite.js) - An efficient javascript sprite animation framework
-* [maxtaco/tamejs](https://github.com/maxtaco/tamejs) - JavaScript code rewriter for taming async-callback-style code
-* [mozilla/thimble.mozilla.org](https://github.com/mozilla/thimble.mozilla.org) - Online code editor geared to people teaching and learning HTML, CSS, and JavaScript.
-* [jed/140bytes](https://github.com/jed/140bytes) - A tweet-sized, fork-to-play, community-curated collection of JavaScript.
-* [flatiron/plates](https://github.com/flatiron/plates) - Light-weight, logic-less, DSL-free, templates for all javascript environments!
-* [jhlywa/chess.js](https://github.com/jhlywa/chess.js) - A Javascript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection
-* [cujojs/wire](https://github.com/cujojs/wire) - A light, fast, flexible Javascript IOC container
 * [NUKnightLab/TimelineJS3](https://github.com/NUKnightLab/TimelineJS3) - TimelineJS v3: A Storytelling Timeline built in JavaScript.  http://timeline.knightlab.com
+* [zzarcon/microm](https://github.com/zzarcon/microm) - :musical_note: Beautiful library to convert browser microphone to mp3 in Javascript :musical_note:
+* [mozilla/thimble.mozilla.org](https://github.com/mozilla/thimble.mozilla.org) - Online code editor geared to people teaching and learning HTML, CSS, and JavaScript.
+* [batiste/sprite.js](https://github.com/batiste/sprite.js) - An efficient javascript sprite animation framework
+* [mjackson/mach](https://github.com/mjackson/mach) - HTTP for JavaScript
+* [maxtaco/tamejs](https://github.com/maxtaco/tamejs) - JavaScript code rewriter for taming async-callback-style code
+* [jhlywa/chess.js](https://github.com/jhlywa/chess.js) - A Javascript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection
 * [syl22-00/pocketsphinx.js](https://github.com/syl22-00/pocketsphinx.js) - Speech recognition in JavaScript
+* [jed/140bytes](https://github.com/jed/140bytes) - A tweet-sized, fork-to-play, community-curated collection of JavaScript.
 * [xinyu198736/js2image](https://github.com/xinyu198736/js2image) - 一个可以把js源代码压缩成一个ascii字符画的源代码的工具，压缩后的代码仍可运行 （A tool can compress JavaScript code to any ascii image and still run normally )
-* [fasterthanlime/jsmad](https://github.com/fasterthanlime/jsmad) - :saxophone: Javascript MPEG-1 Audio Layer III (mp3) and ID3v2 decoder
 * [MikeMcl/big.js](https://github.com/MikeMcl/big.js) - A small, fast JavaScript library for arbitrary-precision decimal arithmetic.
+* [cujojs/wire](https://github.com/cujojs/wire) - A light, fast, flexible Javascript IOC container
+* [flatiron/plates](https://github.com/flatiron/plates) - Light-weight, logic-less, DSL-free, templates for all javascript environments!
 * [dankogai/js-base64](https://github.com/dankogai/js-base64) - Base64 implementation for JavaScript
-* [bloomberg/brisket](https://github.com/bloomberg/brisket) - Bloomberg's Brisket JavaScript application framework
 * [datejs/Datejs](https://github.com/datejs/Datejs) - A JavaScript Date and Time Library
-* [soygul/koan](https://github.com/soygul/koan) - KOAN (Koa, Angular, Node, Mongo) starter kit for full-stack JavaScript web development.
 * [oakmac/chessboardjs](https://github.com/oakmac/chessboardjs) - JavaScript chessboard
+* [fasterthanlime/jsmad](https://github.com/fasterthanlime/jsmad) - :saxophone: Javascript MPEG-1 Audio Layer III (mp3) and ID3v2 decoder
+* [bloomberg/brisket](https://github.com/bloomberg/brisket) - Bloomberg's Brisket JavaScript application framework
 * [messageformat/Jed](https://github.com/messageformat/Jed) - Gettext Style i18n for Modern JavaScript Apps
-* [crossbario/autobahn-js](https://github.com/crossbario/autobahn-js) - WAMP in JavaScript for Browsers and NodeJS
-* [alexmic/filtrr](https://github.com/alexmic/filtrr) - Instagram-like image filters in pure JavaScript.
-* [natefaubion/matches.js](https://github.com/natefaubion/matches.js) - Powerful pattern matching for Javascript
+* [MohammadYounes/AlertifyJS](https://github.com/MohammadYounes/AlertifyJS) - A javascript framework for developing pretty browser dialogs and notifications.
 * [medialize/ally.js](https://github.com/medialize/ally.js) - JavaScript library to help modern web applications with accessibility concerns
-* [adriancooney/voyeur.js](https://github.com/adriancooney/voyeur.js) - Voyeur is a tiny (1.2kb) Javascript library that lets you traverse and manipulate the DOM the way it should have been.
+* [crossbario/autobahn-js](https://github.com/crossbario/autobahn-js) - WAMP in JavaScript for Browsers and NodeJS
+* [soygul/koan](https://github.com/soygul/koan) - KOAN (Koa, Angular, Node, Mongo) starter kit for full-stack JavaScript web development.
+* [natefaubion/matches.js](https://github.com/natefaubion/matches.js) - Powerful pattern matching for Javascript
+* [alexmic/filtrr](https://github.com/alexmic/filtrr) - Instagram-like image filters in pure JavaScript.
 * [macek/jquery-serialize-object](https://github.com/macek/jquery-serialize-object) - Converts HTML form into JavaScript object
+* [kogmbh/ViewerJS](https://github.com/kogmbh/ViewerJS) - ViewerJS: Document Reader in JavaScript
 * [jeremyckahn/shifty](https://github.com/jeremyckahn/shifty) - A teeny tiny tweening engine in JavaScript.  That's all it does.
 * [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - JavaScript client library for integrating remoteStorage in apps
-* [skidding/dragdealer](https://github.com/skidding/dragdealer) - Drag-based JavaScript component, embracing endless UI solutions
-* [MohammadYounes/AlertifyJS](https://github.com/MohammadYounes/AlertifyJS) - A javascript framework for developing pretty browser dialogs and notifications.
-* [dcneiner/Downloadify](https://github.com/dcneiner/Downloadify) - A tiny javascript + Flash library that enables the creation and download of text files without server interaction.
 * [cujojs/rest](https://github.com/cujojs/rest) - RESTful HTTP client for JavaScript
-* [kitcambridge/evil.js](https://github.com/kitcambridge/evil.js) - A JavaScript library for thwarting hotlinkers.
-* [kogmbh/ViewerJS](https://github.com/kogmbh/ViewerJS) - ViewerJS: Document Reader in JavaScript
-* [IntelLabs/RiverTrail](https://github.com/IntelLabs/RiverTrail) - An API for data parallelism in JavaScript
+* [adriancooney/voyeur.js](https://github.com/adriancooney/voyeur.js) - Voyeur is a tiny (1.2kb) Javascript library that lets you traverse and manipulate the DOM the way it should have been.
+* [skidding/dragdealer](https://github.com/skidding/dragdealer) - Drag-based JavaScript component, embracing endless UI solutions
+* [dcneiner/Downloadify](https://github.com/dcneiner/Downloadify) - A tiny javascript + Flash library that enables the creation and download of text files without server interaction.
 * [mde/timezone-js](https://github.com/mde/timezone-js) - Timezone-enabled JavaScript Date object. Uses Olson zoneinfo files for timezone data.
-* [vkolgi/tuneup_js](https://github.com/vkolgi/tuneup_js) - A JavaScript library to ease automated iOS UI testing with UIAutomation and Instruments.
+* [kitcambridge/evil.js](https://github.com/kitcambridge/evil.js) - A JavaScript library for thwarting hotlinkers.
 * [GordyD/3ree](https://github.com/GordyD/3ree) - An example universal JS application written with the 3REE stack, React + Redux + RethinkDB + Express. A stack for building apps, front and back end, with just Javascript.
+* [IntelLabs/RiverTrail](https://github.com/IntelLabs/RiverTrail) - An API for data parallelism in JavaScript
 * [LPology/Simple-Ajax-Uploader](https://github.com/LPology/Simple-Ajax-Uploader) - Javascript file upload plugin with progress bar support. Works in all major browsers, including IE7+, Chrome, Firefox, Safari, and  Opera. No dependencies - use it with or without jQuery.
-* [higgsjs/Higgs](https://github.com/higgsjs/Higgs) - Higgs JavaScript Virtual Machine
+* [vkolgi/tuneup_js](https://github.com/vkolgi/tuneup_js) - A JavaScript library to ease automated iOS UI testing with UIAutomation and Instruments.
+* [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library
 * [DataTables/VisualEvent](https://github.com/DataTables/VisualEvent) - Visually show Javascript events on a page
-* [ankane/chartkick.js](https://github.com/ankane/chartkick.js) - Create beautiful Javascript charts with minimal code
-* [joewalnes/filtrex](https://github.com/joewalnes/filtrex) - A simple, safe, JavaScript Filter Expression compiler for end-users
-* [jseidelin/pixastic](https://github.com/jseidelin/pixastic) - JavaScript Image Processing Library
+* [higgsjs/Higgs](https://github.com/higgsjs/Higgs) - Higgs JavaScript Virtual Machine
+* [ankane/chartkick.js](https://github.com/ankane/chartkick.js) - Create beautiful charts one line of JavaScript
+* [nodeca/pako](https://github.com/nodeca/pako) - high speed zlib port to javascript, works in browser & node.js
+* [jabbany/CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary) - Javascript Live Comment (Danmaku) Engine Implementation. JS弹幕模块核心，提供从基本骨架到高级弹幕的支持。
+* [taylorhakes/fecha](https://github.com/taylorhakes/fecha) - Javascript Date formatting and parsing
 * [blueimp/JavaScript-Canvas-to-Blob](https://github.com/blueimp/JavaScript-Canvas-to-Blob) - JavaScript Canvas to Blob is a function to convert canvas elements into Blob objects.
+* [jseidelin/pixastic](https://github.com/jseidelin/pixastic) - JavaScript Image Processing Library
+* [joewalnes/filtrex](https://github.com/joewalnes/filtrex) - A simple, safe, JavaScript Filter Expression compiler for end-users
+* [facebookarchive/react-page](https://github.com/facebookarchive/react-page) - Easy Application Development with React JavaScript
 * [puffnfresh/roy](https://github.com/puffnfresh/roy) - Small functional language that compiles to JavaScript.
 * [kripken/speak.js](https://github.com/kripken/speak.js) - Text-to-Speech in JavaScript using eSpeak
-* [jabbany/CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary) - Javascript Live Comment (Danmaku) Engine Implementation. JS弹幕模块核心，提供从基本骨架到高级弹幕的支持。
-* [clippings/layout-grid](https://github.com/clippings/layout-grid) - Static responsive grid with pure css. Javascript using native drag-n-drop to reorder for each screen size on desktop and mobile.
 * [fitzgen/wu.js](https://github.com/fitzgen/wu.js) - wu.js is a JavaScript library providing higher order functions for ES6 iterators.
-* [facebookarchive/react-page](https://github.com/facebookarchive/react-page) - Easy Application Development with React JavaScript
-* [taylorhakes/fecha](https://github.com/taylorhakes/fecha) - Javascript Date formatting and parsing
 * [saebekassebil/teoria](https://github.com/saebekassebil/teoria) - Javascript taught Music Theory
-* [felixge/faster-than-c](https://github.com/felixge/faster-than-c) - Talk outline: Faster than C? Parsing binary data in JavaScript.
-* [nodeca/pako](https://github.com/nodeca/pako) - high speed zlib port to javascript, works in browser & node.js
 * [mout/mout](https://github.com/mout/mout) - Modular JavaScript Utilities
-* [Benvie/continuum](https://github.com/Benvie/continuum) - A next-generation JavaScript (ES6) Virtual Machine written in last generation JavaScript (ES3)
 * [inexorabletash/polyfill](https://github.com/inexorabletash/polyfill) - JavaScript Polyfills, Shims and More
-* [shawnbot/aight](https://github.com/shawnbot/aight) - JavaScript shims and shams for making IE8-9 behave reasonably
-* [andreypopp/reactify](https://github.com/andreypopp/reactify) - [DEPRECATED] Browserify transform for JSX (superset of JavaScript used in React library by Facebook)
+* [felixge/faster-than-c](https://github.com/felixge/faster-than-c) - Talk outline: Faster than C? Parsing binary data in JavaScript.
+* [clippings/layout-grid](https://github.com/clippings/layout-grid) - Static responsive grid with pure css. Javascript using native drag-n-drop to reorder for each screen size on desktop and mobile.
 * [pimterry/loglevel](https://github.com/pimterry/loglevel) - :ledger: Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods
-* [ded/klass](https://github.com/ded/klass) - a utility for creating expressive classes in JavaScript
-* [twigkit/tempo](https://github.com/twigkit/tempo) - Tempo is an easy, intuitive JavaScript rendering engine that enables you to craft data templates in pure HTML.
-* [RReverser/mpegts](https://github.com/RReverser/mpegts) - Javascript HTTP Live Streaming realtime converter and player
-* [oauth-io/oauth-js](https://github.com/oauth-io/oauth-js) - OAuth that just works ! This is the JavaScript SDK for OAuth.io
-* [basecamp/wysihat](https://github.com/basecamp/wysihat) - A WYSIWYG JavaScript framework
-* [mourner/rbush](https://github.com/mourner/rbush) - RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
-* [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
+* [lindell/JsBarcode](https://github.com/lindell/JsBarcode) - Barcode generation library written in JavaScript that works in both the browser and on Node.js
+* [Benvie/continuum](https://github.com/Benvie/continuum) - A next-generation JavaScript (ES6) Virtual Machine written in last generation JavaScript (ES3)
 * [muaz-khan/RecordRTC](https://github.com/muaz-khan/RecordRTC) - RecordRTC is a server-less (entire client-side) JavaScript library can be used to record WebRTC audio/video media streams. It supports cross-browser audio/video recording. https://www.webrtc-experiment.com/RecordRTC/                                             =>
 * [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
-* [versatica/JsSIP](https://github.com/versatica/JsSIP) - JsSIP, the JavaScript SIP library
-* [tubalmartin/riloadr](https://github.com/tubalmartin/riloadr) - Riloadr - A cross-browser framework-independent responsive images loader written in Javascript.
-* [marquete/kibo](https://github.com/marquete/kibo) - A simple JavaScript library for handling keyboard events.
-* [squizlabs/HTML_CodeSniffer](https://github.com/squizlabs/HTML_CodeSniffer) - HTML_CodeSniffer is a client-side JavaScript application that checks a HTML document or source code, and detects violations of a defined coding standard. Comes with standards that cover the three conformance levels of the W3C's Web Content Accessibility Guidelines (WCAG) 2.0 and the U.S. Section 508 legislation.
-* [joshaven/string_score](https://github.com/joshaven/string_score) - JavaScript string ranking 0 for no match upto 1 for perfect... "String".score("str"); //=> 0.825
-* [jasondavies/science.js](https://github.com/jasondavies/science.js) - Scientific and statistical computing in JavaScript.
-* [wanasit/chrono](https://github.com/wanasit/chrono) - A natural language date parser in Javascript
-* [petermichaux/maria](https://github.com/petermichaux/maria) - The MVC framework for JavaScript applications. The real MVC. The Smalltalk MVC. The Gang of Four MVC.
-* [PaulGuo/Juicer](https://github.com/PaulGuo/Juicer) - A Light Javascript Templete Engine.
-* [Thuzi/facebook-node-sdk](https://github.com/Thuzi/facebook-node-sdk) - Modeled from the (Facebook Javascript SDK), now with the facebook-node-sdk you can now easily write the same code and share between your server (nodejs) and the client (Facebook Javascript SDK).
-* [lindell/JsBarcode](https://github.com/lindell/JsBarcode) - Barcode generation library written in JavaScript that works in both the browser and on Node.js
-* [mozilla/narcissus](https://github.com/mozilla/narcissus) - The Narcissus meta-circular JavaScript interpreter
-* [imgix/drift](https://github.com/imgix/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
-* [jterrace/js.js](https://github.com/jterrace/js.js) - js.js: A JavaScript JavaScript interpreter
-* [IdeaBlade/Breeze](https://github.com/IdeaBlade/Breeze) - [WE'VE MOVED] Breeze.js is a JavaScript library for managing data in data rich-client HTML/JS applications.
-* [jkbrzt/rrule](https://github.com/jkbrzt/rrule) - JavaScript library for working with recurrence rules for calendar dates.
-* [bdougherty/BigScreen](https://github.com/bdougherty/BigScreen) - A simple library for using the JavaScript Full Screen API.
-* [GianlucaGuarini/allora](https://github.com/GianlucaGuarini/allora) - Promisify using es6 Proxies every javascript API with less than 50 lines of code
+* [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 * [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.  http://www.typescriptlang.org
-* [victorjonsson/jQuery-Form-Validator](https://github.com/victorjonsson/jQuery-Form-Validator) - jQuery plugin that makes it easy to validate user input while keeping your  HTML markup clean from javascript code.
-* [mgechev/jscapture](https://github.com/mgechev/jscapture) - Screen recording and capturing with pure client-side JavaScript.
-* [darsain/motio](https://github.com/darsain/motio) - Small JavaScript library for sprite based animations and panning.
-* [pavelk2/social-feed](https://github.com/pavelk2/social-feed) - JavaScript plugin that shows a user feed from the most popular social networks
-* [moreartyjs/moreartyjs](https://github.com/moreartyjs/moreartyjs) - Morearty.js - centralized state management for React in pure JavaScript
+* [andreypopp/reactify](https://github.com/andreypopp/reactify) - [DEPRECATED] Browserify transform for JSX (superset of JavaScript used in React library by Facebook)
+* [shawnbot/aight](https://github.com/shawnbot/aight) - JavaScript shims and shams for making IE8-9 behave reasonably
+* [RReverser/mpegts](https://github.com/RReverser/mpegts) - Javascript HTTP Live Streaming realtime converter and player
+* [mourner/rbush](https://github.com/mourner/rbush) - RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
+* [oauth-io/oauth-js](https://github.com/oauth-io/oauth-js) - OAuth that just works ! This is the JavaScript SDK for OAuth.io
+* [ded/klass](https://github.com/ded/klass) - a utility for creating expressive classes in JavaScript
+* [wanasit/chrono](https://github.com/wanasit/chrono) - A natural language date parser in Javascript
+* [versatica/JsSIP](https://github.com/versatica/JsSIP) - JsSIP, the JavaScript SIP library
+* [twigkit/tempo](https://github.com/twigkit/tempo) - Tempo is an easy, intuitive JavaScript rendering engine that enables you to craft data templates in pure HTML.
+* [squizlabs/HTML_CodeSniffer](https://github.com/squizlabs/HTML_CodeSniffer) - HTML_CodeSniffer is a client-side JavaScript application that checks a HTML document or source code, and detects violations of a defined coding standard. Comes with standards that cover the three conformance levels of the W3C's Web Content Accessibility Guidelines (WCAG) 2.0 and the U.S. Section 508 legislation.
+* [basecamp/wysihat](https://github.com/basecamp/wysihat) - A WYSIWYG JavaScript framework
+* [marquete/kibo](https://github.com/marquete/kibo) - A simple JavaScript library for handling keyboard events.
+* [PaulGuo/Juicer](https://github.com/PaulGuo/Juicer) - A Light Javascript Templete Engine.
+* [jasondavies/science.js](https://github.com/jasondavies/science.js) - Scientific and statistical computing in JavaScript.
 * [kadirahq/lokka](https://github.com/kadirahq/lokka) - Simple JavaScript Client for GraphQL
+* [imgix/drift](https://github.com/imgix/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
+* [joshaven/string_score](https://github.com/joshaven/string_score) - JavaScript string ranking 0 for no match upto 1 for perfect... "String".score("str"); //=> 0.825
+* [jhu-ep-coursera/fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
+* [jkbrzt/rrule](https://github.com/jkbrzt/rrule) - JavaScript library for working with recurrence rules for calendar dates.
+* [tubalmartin/riloadr](https://github.com/tubalmartin/riloadr) - Riloadr - A cross-browser framework-independent responsive images loader written in Javascript.
+* [petermichaux/maria](https://github.com/petermichaux/maria) - The MVC framework for JavaScript applications. The real MVC. The Smalltalk MVC. The Gang of Four MVC.
+* [Thuzi/facebook-node-sdk](https://github.com/Thuzi/facebook-node-sdk) - Modeled from the (Facebook Javascript SDK), now with the facebook-node-sdk you can now easily write the same code and share between your server (nodejs) and the client (Facebook Javascript SDK).
+* [mozilla/narcissus](https://github.com/mozilla/narcissus) - The Narcissus meta-circular JavaScript interpreter
+* [jterrace/js.js](https://github.com/jterrace/js.js) - js.js: A JavaScript JavaScript interpreter
+* [victorjonsson/jQuery-Form-Validator](https://github.com/victorjonsson/jQuery-Form-Validator) - jQuery plugin that makes it easy to validate user input while keeping your  HTML markup clean from javascript code.
+* [jmurzy/react-native-foldview](https://github.com/jmurzy/react-native-foldview) - FoldView implemented in JavaScript ⛱
+* [IdeaBlade/Breeze](https://github.com/IdeaBlade/Breeze) - [WE'VE MOVED] Breeze.js is a JavaScript library for managing data in data rich-client HTML/JS applications.
+* [bdougherty/BigScreen](https://github.com/bdougherty/BigScreen) - A simple library for using the JavaScript Full Screen API.
+* [jsverify/jsverify](https://github.com/jsverify/jsverify) - Property-based testing for JavaScript. Like QuickCheck.
+* [mgechev/jscapture](https://github.com/mgechev/jscapture) - Screen recording and capturing with pure client-side JavaScript.
+* [GianlucaGuarini/allora](https://github.com/GianlucaGuarini/allora) - Promisify using es6 Proxies every javascript API with less than 50 lines of code
+* [pavelk2/social-feed](https://github.com/pavelk2/social-feed) - JavaScript plugin that shows a user feed from the most popular social networks
+* [darsain/motio](https://github.com/darsain/motio) - Small JavaScript library for sprite based animations and panning.
 * [mauriciosantos/Buckets-JS](https://github.com/mauriciosantos/Buckets-JS) - A complete, fully tested and documented data structure library written in pure JavaScript.
 * [winterbe/streamjs](https://github.com/winterbe/streamjs) - Lazy Object Streaming Pipeline for JavaScript
-* [jsverify/jsverify](https://github.com/jsverify/jsverify) - Property-based testing for JavaScript. Like QuickCheck.
-* [jhu-ep-coursera/fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
-* [yaronn/GifW00t](https://github.com/yaronn/GifW00t) - A pure javascript web recorder
-* [soundcloud/soundcloud-custom-player](https://github.com/soundcloud/soundcloud-custom-player) - The SoundCloud custom javascript based player
-* [padolsey-archive/prettyprint.js](https://github.com/padolsey-archive/prettyprint.js) - An in-browser JavaScript variable dumper, similar in functionality to ColdFusion's cfdump tag.
-* [kripken/box2d.js](https://github.com/kripken/box2d.js) - Port of Box2D to JavaScript using Emscripten
-* [SimpleStateManager/SimpleStateManager](https://github.com/SimpleStateManager/SimpleStateManager) - A responsive state manager which allows you to run different javascript at different browser widths
-* [sebastienros/jint](https://github.com/sebastienros/jint) - Javascript Interpreter for .NET
-* [klei/gulp-inject](https://github.com/klei/gulp-inject) - A javascript, stylesheet and webcomponent injection plugin for Gulp
-* [firebase/geofire-js](https://github.com/firebase/geofire-js) - GeoFire for JavaScript - Realtime location queries with Firebase
-* [subtleGradient/javascript-tools.tmbundle](https://github.com/subtleGradient/javascript-tools.tmbundle) - Essential Tools for developing Javascript in TextMate
-* [reyesr/fullproof](https://github.com/reyesr/fullproof) - javascript fulltext search engine library
+* [moreartyjs/moreartyjs](https://github.com/moreartyjs/moreartyjs) - Morearty.js - centralized state management for React in pure JavaScript
 * [pipwerks/PDFObject](https://github.com/pipwerks/PDFObject) - A lightweight JavaScript utility for dynamically embedding PDFs in HTML documents.
+* [soundcloud/soundcloud-custom-player](https://github.com/soundcloud/soundcloud-custom-player) - The SoundCloud custom javascript based player
+* [yaronn/GifW00t](https://github.com/yaronn/GifW00t) - A pure javascript web recorder
+* [sebastienros/jint](https://github.com/sebastienros/jint) - Javascript Interpreter for .NET
+* [firebase/geofire-js](https://github.com/firebase/geofire-js) - GeoFire for JavaScript - Realtime location queries with Firebase
+* [kripken/box2d.js](https://github.com/kripken/box2d.js) - Port of Box2D to JavaScript using Emscripten
+* [umbrellajs/umbrella](https://github.com/umbrellajs/umbrella) - :umbrella: Lightweight javascript library for DOM manipulation, events and AJAX -
+* [padolsey-archive/prettyprint.js](https://github.com/padolsey-archive/prettyprint.js) - An in-browser JavaScript variable dumper, similar in functionality to ColdFusion's cfdump tag.
+* [klei/gulp-inject](https://github.com/klei/gulp-inject) - A javascript, stylesheet and webcomponent injection plugin for Gulp
+* [SimpleStateManager/SimpleStateManager](https://github.com/SimpleStateManager/SimpleStateManager) - A responsive state manager which allows you to run different javascript at different browser widths
+* [reyesr/fullproof](https://github.com/reyesr/fullproof) - javascript fulltext search engine library
+* [danmaz74/ABalytics](https://github.com/danmaz74/ABalytics) - Simple client-side A/B testing in pure javascript
+* [BankFacil/vanilla-masker](https://github.com/BankFacil/vanilla-masker) - VanillaMasker is a pure javascript mask input
 * [andreassolberg/jso](https://github.com/andreassolberg/jso) - A javascript OAuth 2.0 library
 * [raganwald/javascript-allonge](https://github.com/raganwald/javascript-allonge) - Markdown source for the book "JavaScript Allongé"
-* [danmaz74/ABalytics](https://github.com/danmaz74/ABalytics) - Simple client-side A/B testing in pure javascript
-* [umbrellajs/umbrella](https://github.com/umbrellajs/umbrella) - :umbrella: Lightweight javascript library for DOM manipulation, events and AJAX -
+* [subtleGradient/javascript-tools.tmbundle](https://github.com/subtleGradient/javascript-tools.tmbundle) - Essential Tools for developing Javascript in TextMate
+* [pakastin/redom](https://github.com/pakastin/redom) - Tiny turboboosted JavaScript library for creating user interfaces. 100 % test coverage!
 * [lightningtgc/material-refresh](https://github.com/lightningtgc/material-refresh) - Google Material Design swipe(pull) to refresh by using JavaScript and CSS3.
 * [use-init/init](https://github.com/use-init/init) - INIT extends HTML5 Boilerplate, adds more structure for SCSS and JavaScripts files, includes build tasks and a whole lot more.
-* [BankFacil/vanilla-masker](https://github.com/BankFacil/vanilla-masker) - VanillaMasker is a pure javascript mask input
-* [ten1seven/jRespond](https://github.com/ten1seven/jRespond) - jRespond is a simple way to globally manage javascript on responsive websites.
+* [krasimir/navigo](https://github.com/krasimir/navigo) - A simple vanilla JavaScript router with a fallback for older browsers
 * [jussi-kalliokoski/audiolib.js](https://github.com/jussi-kalliokoski/audiolib.js) - audiolib.js is a powerful audio tools library for javascript.
-* [scoumbourdis/grocery-crud](https://github.com/scoumbourdis/grocery-crud) - Grocery CRUD is a PHP Codeigniter Framework library that creates a full functional CRUD system without the requirement of extra customisation to the JavaScripts or the CSS to do it so.
-* [appsforartists/ambidex](https://github.com/appsforartists/ambidex) - Effortlessly host your React app on both the client and the server.  Some call it isomorphic JavaScript - we call it Ambidex.
-* [swank-js/swank-js](https://github.com/swank-js/swank-js) - Swank backend for Node.JS and in-browser JavaScript
-* [rafaelp/css_browser_selector](https://github.com/rafaelp/css_browser_selector) - A very small javascript library that allows you to create browser specific CSS to be merged into your normal classes. No more hacks or mischievous code in your CSS code.
-* [pusher/pusher-js](https://github.com/pusher/pusher-js) - Pusher Javascript library | owner=@hph
-* [cognitect/transit-js](https://github.com/cognitect/transit-js) - Transit for JavaScript
-* [danigb/tonal](https://github.com/danigb/tonal) - A functional music theory library for Javascript
-* [angular/dgeni](https://github.com/angular/dgeni) - Flexible JavaScript documentation generator used by AngularJS, Protractor and other JS projects
-* [MahdiF/loud-links](https://github.com/MahdiF/loud-links) - :sound: A simple tiny Javascript library to add interaction sounds to your website.
-* [fullscale/elastic.js](https://github.com/fullscale/elastic.js) - A JavaScript implementation of the elasticsearch Query DSL
-* [buildfirst/buildfirst](https://github.com/buildfirst/buildfirst) - :hammer: JavaScript Application Design: A Build First Approach. Code Samples and Snippets
-* [thlorenz/es6ify](https://github.com/thlorenz/es6ify) - browserify >=v2 transform to compile JavaScript.next (ES6) to JavaScript.current (ES5) on the fly.
-* [amasad/debug_utils](https://github.com/amasad/debug_utils) - Advanced JavaScript Debugging Utility Library
-* [filamentgroup/loadJS](https://github.com/filamentgroup/loadJS) - A simple function for asynchronously loading JavaScript files
-* [evolvingweb/ajax-solr](https://github.com/evolvingweb/ajax-solr) - A JavaScript framework for creating user interfaces to Solr.
-* [onaluf/gameQuery](https://github.com/onaluf/gameQuery) - a javascript game engine with jQuery
-* [ternarylabs/porthole](https://github.com/ternarylabs/porthole) - A proxy to safely communicate to cross-domain iframes in javascript
+* [dreamapplehappy/effective-javascript](https://github.com/dreamapplehappy/effective-javascript) - To be, or not to be, that is a question! :joy: 万剑归宗的无名和独霸天下的雄霸
 * [dcodeIO/bcrypt.js](https://github.com/dcodeIO/bcrypt.js) - Optimized bcrypt in plain JavaScript with zero dependencies.
-* [azu/promises-book](https://github.com/azu/promises-book) - JavaScript Promiseの本
-* [eleks/js2js](https://github.com/eleks/js2js) - js2js is a revolutionary open-source compiler from Javascript to Javascript
-* [MicrosoftEdge/JSBrowser](https://github.com/MicrosoftEdge/JSBrowser) - :evergreen_tree: A web browser built with JavaScript as a Windows app
-* [krux/postscribe](https://github.com/krux/postscribe) - Asynchronously write javascript, even with document.write.
-* [jasonmayes/Twitter-Post-Fetcher](https://github.com/jasonmayes/Twitter-Post-Fetcher) - Fetch your twitter posts without using the new Twitter 1.1 API. Pure JavaScript! By Jason Mayes
-* [remy/inliner](https://github.com/remy/inliner) - Node utility to inline images, CSS and JavaScript for a web page - useful for mobile sites
+* [scoumbourdis/grocery-crud](https://github.com/scoumbourdis/grocery-crud) - Grocery CRUD is a PHP Codeigniter Framework library that creates a full functional CRUD system without the requirement of extra customisation to the JavaScripts or the CSS to do it so.
 * [latentflip/loupe](https://github.com/latentflip/loupe) - Visualizing the javascript runtime at runtime
-* [olark/lightningjs](https://github.com/olark/lightningjs) - safe, fast, and asynchronous embed code for third-party Javascript delivery
+* [pusher/pusher-js](https://github.com/pusher/pusher-js) - Pusher Javascript library | owner=@hph
+* [danigb/tonal](https://github.com/danigb/tonal) - A functional music theory library for Javascript
+* [ten1seven/jRespond](https://github.com/ten1seven/jRespond) - jRespond is a simple way to globally manage javascript on responsive websites.
+* [swank-js/swank-js](https://github.com/swank-js/swank-js) - Swank backend for Node.JS and in-browser JavaScript
+* [MahdiF/loud-links](https://github.com/MahdiF/loud-links) - :sound: A simple tiny Javascript library to add interaction sounds to your website.
+* [appsforartists/ambidex](https://github.com/appsforartists/ambidex) - Effortlessly host your React app on both the client and the server.  Some call it isomorphic JavaScript - we call it Ambidex.
+* [angular/dgeni](https://github.com/angular/dgeni) - Flexible JavaScript documentation generator used by AngularJS, Protractor and other JS projects
+* [fullscale/elastic.js](https://github.com/fullscale/elastic.js) - A JavaScript implementation of the elasticsearch Query DSL
+* [cognitect/transit-js](https://github.com/cognitect/transit-js) - Transit for JavaScript
+* [jasonmayes/Twitter-Post-Fetcher](https://github.com/jasonmayes/Twitter-Post-Fetcher) - Fetch your twitter posts without using the new Twitter 1.1 API. Pure JavaScript! By Jason Mayes
+* [buildfirst/buildfirst](https://github.com/buildfirst/buildfirst) - :hammer: JavaScript Application Design: A Build First Approach. Code Samples and Snippets
+* [azu/promises-book](https://github.com/azu/promises-book) - JavaScript Promiseの本
+* [ternarylabs/porthole](https://github.com/ternarylabs/porthole) - A proxy to safely communicate to cross-domain iframes in javascript
+* [rafaelp/css_browser_selector](https://github.com/rafaelp/css_browser_selector) - A very small javascript library that allows you to create browser specific CSS to be merged into your normal classes. No more hacks or mischievous code in your CSS code.
+* [filamentgroup/loadJS](https://github.com/filamentgroup/loadJS) - A simple function for asynchronously loading JavaScript files
+* [thlorenz/es6ify](https://github.com/thlorenz/es6ify) - browserify >=v2 transform to compile JavaScript.next (ES6) to JavaScript.current (ES5) on the fly.
+* [evolvingweb/ajax-solr](https://github.com/evolvingweb/ajax-solr) - A JavaScript framework for creating user interfaces to Solr.
+* [amasad/debug_utils](https://github.com/amasad/debug_utils) - Advanced JavaScript Debugging Utility Library
+* [krux/postscribe](https://github.com/krux/postscribe) - Asynchronously write javascript, even with document.write.
+* [onaluf/gameQuery](https://github.com/onaluf/gameQuery) - a javascript game engine with jQuery
+* [MicrosoftEdge/JSBrowser](https://github.com/MicrosoftEdge/JSBrowser) - :evergreen_tree: A web browser built with JavaScript as a Windows app
+* [eleks/js2js](https://github.com/eleks/js2js) - js2js is a revolutionary open-source compiler from Javascript to Javascript
 * [bgrins/javascript-astar](https://github.com/bgrins/javascript-astar) - A* Search / Pathfinding Algorithm in Javascript
-* [mixi-inc/JavaScriptTraining](https://github.com/mixi-inc/JavaScriptTraining) - Training course repository for JavaScript
-* [arshaw/xdate](https://github.com/arshaw/xdate) - A Modern JavaScript Date Library
-* [wwwtyro/cryptico](https://github.com/wwwtyro/cryptico) - An easy-to-use encryption system utilizing RSA and AES for javascript.
-* [fholm/IronJS](https://github.com/fholm/IronJS) - IronJS - A JavaScript implementation for .NET
+* [remy/inliner](https://github.com/remy/inliner) - Node utility to inline images, CSS and JavaScript for a web page - useful for mobile sites
 * [jhusain/eslint-plugin-immutable](https://github.com/jhusain/eslint-plugin-immutable) - ESLint plugin to disable all mutation in JavaScript.
+* [wwwtyro/cryptico](https://github.com/wwwtyro/cryptico) - An easy-to-use encryption system utilizing RSA and AES for javascript.
+* [mixi-inc/JavaScriptTraining](https://github.com/mixi-inc/JavaScriptTraining) - Training course repository for JavaScript
+* [olark/lightningjs](https://github.com/olark/lightningjs) - safe, fast, and asynchronous embed code for third-party Javascript delivery
+* [fholm/IronJS](https://github.com/fholm/IronJS) - IronJS - A JavaScript implementation for .NET
+* [arshaw/xdate](https://github.com/arshaw/xdate) - A Modern JavaScript Date Library
 * [HumbleSoftware/js-imagediff](https://github.com/HumbleSoftware/js-imagediff) - JavaScript / Canvas based image diff utility with Jasmine matchers for testing canvas.
-* [fschaefer/Stately.js](https://github.com/fschaefer/Stately.js) - Stately.js is a JavaScript based finite-state machine (FSM) engine for Node.js and the browser.
 * [manavsehgal/reactspeedcoding](https://github.com/manavsehgal/reactspeedcoding) - :rocket: Learn React with 30 reusable components, 15 chapters, and 3 single page apps. Fast start project with JavaScript ES6. React Hot Loading. React Router. Redux. PostCSS, FlexBox styling. Firebase database. Webpack packaging. Enzyme, Mocha, Chai BDD testing. ESLint and StyleLint. Browsersync.
+* [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the perfomance of a few popular javascript frameworks
+* [gpujs/gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
+* [mark-rolich/Magnifier.js](https://github.com/mark-rolich/Magnifier.js) - Javascript library enabling magnifying glass effect on an images
+* [fschaefer/Stately.js](https://github.com/fschaefer/Stately.js) - Stately.js is a JavaScript based finite-state machine (FSM) engine for Node.js and the browser.
+* [nicoespeon/gitgraph.js](https://github.com/nicoespeon/gitgraph.js) - A JavaScript library to draw pretty git graphs in the browser
 * [mbostock/protovis](https://github.com/mbostock/protovis) - A visualization toolkit for JavaScript using SVG.
 * [bytespider/jsOAuth](https://github.com/bytespider/jsOAuth) - JavaScript implimentation of the OAuth protocol. Currently supports version 1.0 (RFC5849) of the specification. Node.js & CommonJS compatible.
-* [mark-rolich/Magnifier.js](https://github.com/mark-rolich/Magnifier.js) - Javascript library enabling magnifying glass effect on an images
 * [ringo/ringojs](https://github.com/ringo/ringojs) - RingoJS is a JavaScript platform built on the JVM and optimized for server-side applications.
+* [digitalbazaar/jsonld.js](https://github.com/digitalbazaar/jsonld.js) - A JSON-LD Processor and API implementation in JavaScript
+* [metafloor/bwip-js](https://github.com/metafloor/bwip-js) - Barcode Writer in Pure JavaScript
 * [daniellmb/JavaScript-Scope-Context-Coloring](https://github.com/daniellmb/JavaScript-Scope-Context-Coloring) - An experiment in switching between syntax highlighting and scope colorizing built on JSLint and CodeMirror.
 * [clusterinc/skit](https://github.com/clusterinc/skit) - skit: A pure JavaScript frontend for building better web clients.
-* [fogus/lemonad](https://github.com/fogus/lemonad) - a functional programming library for javascript. an experiment in elegant JS.
-* [metafloor/bwip-js](https://github.com/metafloor/bwip-js) - Barcode Writer in Pure JavaScript
 * [gf3/sandbox](https://github.com/gf3/sandbox) - A nifty javascript sandbox for node.js
 * [garycourt/JSV](https://github.com/garycourt/JSV) - A JavaScript implementation of an extendable, fully compliant JSON Schema validator.
-* [hapticdata/toxiclibsjs](https://github.com/hapticdata/toxiclibsjs) - Toxiclibsjs is a library for computational design tasks with JavaScript. This library is a port of http://toxiclibs.org for java and processing.
-* [adityaravishankar/command-and-conquer](https://github.com/adityaravishankar/command-and-conquer) - Command & Conquer in HTML5/Javascript
+* [fogus/lemonad](https://github.com/fogus/lemonad) - a functional programming library for javascript. an experiment in elegant JS.
+* [babel/babylon](https://github.com/babel/babylon) - :page_with_curl: A JavaScript parser
 * [peachananr/purejs-onepage-scroll](https://github.com/peachananr/purejs-onepage-scroll) - The javascript version of the infamous jQuery One Page Scroll without relying on jQuery.
 * [itemslide/itemslide.github.io](https://github.com/itemslide/itemslide.github.io) - A simple and beautiful JavaScript touch carousel
-* [digitalbazaar/jsonld.js](https://github.com/digitalbazaar/jsonld.js) - A JSON-LD Processor and API implementation in JavaScript
-* [baryshev/ect](https://github.com/baryshev/ect) - Fastest JavaScript template engine with embedded CoffeeScript syntax
-* [jmurzy/react-native-foldview](https://github.com/jmurzy/react-native-foldview) - FoldView implemented in JavaScript ⛱
-* [nicoespeon/gitgraph.js](https://github.com/nicoespeon/gitgraph.js) - A JavaScript library to draw pretty git graphs in the browser
-* [node-js-libs/load.js](https://github.com/node-js-libs/load.js) - Lazy-load your JavaScript
-* [dashersw/pedalboard.js](https://github.com/dashersw/pedalboard.js) - Open source JavaScript framework for developing audio effects for guitars using the Web Audio API.
-* [monmohan/dsjslib](https://github.com/monmohan/dsjslib) - A library implementing several standard data structures and utilities, in JavaScript. Its written and tested using Node.js which is the target platform.
-* [dionyziz/stream.js](https://github.com/dionyziz/stream.js) - A tiny stand-alone Javascript library for streams
-* [mapstraction/mxn](https://github.com/mapstraction/mxn) - A Javascript Mapping Abstraction library.
-* [C2FO/nools](https://github.com/C2FO/nools) - Rete based rules engine written in javascript
-* [roeierez/infinite-list](https://github.com/roeierez/infinite-list) - Infinite list in javascript that scrolls in 60fps
+* [hapticdata/toxiclibsjs](https://github.com/hapticdata/toxiclibsjs) - Toxiclibsjs is a library for computational design tasks with JavaScript. This library is a port of http://toxiclibs.org for java and processing.
+* [adityaravishankar/command-and-conquer](https://github.com/adityaravishankar/command-and-conquer) - Command & Conquer in HTML5/Javascript
 * [paulirish/automated-chrome-profiling](https://github.com/paulirish/automated-chrome-profiling) - Node.js recipe for automating javascript profiling in Chrome
-* [arturadib/agility](https://github.com/arturadib/agility) - Javascript MVC for the "write less, do more" programmer
-* [krasimir/navigo](https://github.com/krasimir/navigo) - A simple vanilla JavaScript router with a fallback for older browsers
-* [IonDen/ion.sound](https://github.com/IonDen/ion.sound) - JavaScript plugin for playing sounds and music in browsers
-* [maxatwork/form2js](https://github.com/maxatwork/form2js) - Javascript library for collecting form data
-* [kig/JSARToolKit](https://github.com/kig/JSARToolKit) - JavaScript port of FLARToolKit
 * [jcoppieters/cody](https://github.com/jcoppieters/cody) - Javascript Content Management System running on Node.js
-* [babel/babylon](https://github.com/babel/babylon) - :page_with_curl: A JavaScript parser
-* [azproduction/autopolyfiller](https://github.com/azproduction/autopolyfiller) - Autopolyfiller — Precise polyfills. This is like Autoprefixer, but for JavaScript polyfills.
+* [monmohan/dsjslib](https://github.com/monmohan/dsjslib) - A library implementing several standard data structures and utilities, in JavaScript. Its written and tested using Node.js which is the target platform.
+* [baryshev/ect](https://github.com/baryshev/ect) - Fastest JavaScript template engine with embedded CoffeeScript syntax
 * [qiniu/js-sdk](https://github.com/qiniu/js-sdk) - 基于七牛 API 开发的前端 JavaScript SDK
+* [dashersw/pedalboard.js](https://github.com/dashersw/pedalboard.js) - Open source JavaScript framework for developing audio effects for guitars using the Web Audio API.
+* [node-js-libs/load.js](https://github.com/node-js-libs/load.js) - Lazy-load your JavaScript
+* [roeierez/infinite-list](https://github.com/roeierez/infinite-list) - Infinite list in javascript that scrolls in 60fps
+* [C2FO/nools](https://github.com/C2FO/nools) - Rete based rules engine written in javascript
+* [dionyziz/stream.js](https://github.com/dionyziz/stream.js) - A tiny stand-alone Javascript library for streams
+* [kig/JSARToolKit](https://github.com/kig/JSARToolKit) - JavaScript port of FLARToolKit
+* [IonDen/ion.sound](https://github.com/IonDen/ion.sound) - JavaScript plugin for playing sounds and music in browsers
+* [mapstraction/mxn](https://github.com/mapstraction/mxn) - A Javascript Mapping Abstraction library.
+* [arturadib/agility](https://github.com/arturadib/agility) - Javascript MVC for the "write less, do more" programmer
+* [maxatwork/form2js](https://github.com/maxatwork/form2js) - Javascript library for collecting form data
+* [davidbau/seedrandom](https://github.com/davidbau/seedrandom) - seeded random number generator for Javascript
 * [aredridel/html5](https://github.com/aredridel/html5) - Event-driven HTML5 Parser in Javascript
+* [sanctuary-js/sanctuary](https://github.com/sanctuary-js/sanctuary) - :see_no_evil: Refuge from unsafe JavaScript
+* [azproduction/autopolyfiller](https://github.com/azproduction/autopolyfiller) - Autopolyfiller — Precise polyfills. This is like Autoprefixer, but for JavaScript polyfills.
 * [stamen/modestmaps-js](https://github.com/stamen/modestmaps-js) - Modest Maps javascript port
 * [Irrelon/ForerunnerDB](https://github.com/Irrelon/ForerunnerDB) - A JavaScript database with mongo-like query language, data-binding support, runs in browsers and hybrid mobile apps as a client-side DB or on the server via Node.js!
-* [dreamapplehappy/effective-javascript](https://github.com/dreamapplehappy/effective-javascript) - To be, or not to be, that is a question! :joy: 万剑归宗的无名和独霸天下的雄霸
+* [Jianru-Lin/lambda-view](https://github.com/Jianru-Lin/lambda-view) - 复杂 JavaScript 源码阅读分析工具
 * [mher/chartkick.py](https://github.com/mher/chartkick.py) - Create beautiful Javascript charts with minimal code
-* [davidbau/seedrandom](https://github.com/davidbau/seedrandom) - seeded random number generator for Javascript
-* [Ciul/angular-facebook](https://github.com/Ciul/angular-facebook) - An Angularjs module to take approach of Facebook javascript sdk.
 * [qooxdoo/qooxdoo](https://github.com/qooxdoo/qooxdoo) - qooxdoo - Universal JavaScript Framework
-* [olivernn/davis.js](https://github.com/olivernn/davis.js) - RESTful degradable JavaScript routing using pushState
+* [Ciul/angular-facebook](https://github.com/Ciul/angular-facebook) - An Angularjs module to take approach of Facebook javascript sdk.
+* [Hardmath123/nearley](https://github.com/Hardmath123/nearley) - Simple, fast, powerful parser toolkit for JavaScript.
+* [jgallen23/routie](https://github.com/jgallen23/routie) - a tiny javascript hash router
+* [leebyron/iterall](https://github.com/leebyron/iterall) - 🌻 Minimal zero-dependency utilities for using Iterables in all JavaScript environments.
+* [justjavac/ChromeSnifferPlus](https://github.com/justjavac/ChromeSnifferPlus) - :mag: Sniff web framework and javascript libraries run on browsing website.
+* [SamyPesse/gitkit-js](https://github.com/SamyPesse/gitkit-js) - Pure javascript implementation of Git (Node.js and Browser)
 * [RubyLouvre/mass-Framework](https://github.com/RubyLouvre/mass-Framework) - 一个模块化，面向大规模开发的javascript框架
 * [pugjs/react-jade](https://github.com/pugjs/react-jade) - Compile Jade to React JavaScript
+* [olivernn/davis.js](https://github.com/olivernn/davis.js) - RESTful degradable JavaScript routing using pushState
+* [young-steveo/bottlejs](https://github.com/young-steveo/bottlejs) - A powerful dependency injection micro container for JavaScript applications
+* [scijs/ndarray](https://github.com/scijs/ndarray) - 📈 Multidimensional arrays for JavaScript
+* [bjornharrtell/jsts](https://github.com/bjornharrtell/jsts) - JavaScript Topology Suite
 * [madrobby/emile](https://github.com/madrobby/emile) - emile.js is a no-frills stand-alone CSS animation JavaScript framework, named after Émile Cohl, early animator.
-* [justjavac/ChromeSnifferPlus](https://github.com/justjavac/ChromeSnifferPlus) - Sniff web framework and javascript libraries run on browsing website.
-* [SamyPesse/gitkit-js](https://github.com/SamyPesse/gitkit-js) - Pure javascript implementation of Git (Node.js and Browser)
+* [ggomaeng/react-native-card-modal](https://github.com/ggomaeng/react-native-card-modal) - A pure javascript card modal for React Native framework.
 * [ryanackley/git-html5.js](https://github.com/ryanackley/git-html5.js) - pure Javascript git implementation for your browser
 * [puffnfresh/bilby.js](https://github.com/puffnfresh/bilby.js) - Serious functional programming library for JavaScript.
-* [leebyron/iterall](https://github.com/leebyron/iterall) - 🌻 Minimal zero-dependency utilities for using Iterables in all JavaScript environments.
-* [jgallen23/routie](https://github.com/jgallen23/routie) - a tiny javascript hash router
-* [markdalgleish/fathom](https://github.com/markdalgleish/fathom) - Fathom.js - Present JavaScript in its native environment.
-* [Hardmath123/nearley](https://github.com/Hardmath123/nearley) - Simple, fast, powerful parser toolkit for JavaScript.
 * [jeremyckahn/rekapi](https://github.com/jeremyckahn/rekapi) - A keyframe animation library for JavaScript
-* [gpujs/gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
-* [Rabrennie/anything.js](https://github.com/Rabrennie/anything.js) - A javascript library that contains anything.
-* [christian-fei/Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search) - A JavaScript library to add search functionality to any Jekyll blog.
-* [young-steveo/bottlejs](https://github.com/young-steveo/bottlejs) - A powerful dependency injection micro container for JavaScript applications
 * [martinwells/objects.js](https://github.com/martinwells/objects.js) - Core class tools and object pooling for high-performance gaming in Javascript
+* [markdalgleish/fathom](https://github.com/markdalgleish/fathom) - Fathom.js - Present JavaScript in its native environment.
 * [Linkurious/linkurious.js](https://github.com/Linkurious/linkurious.js) - A Javascript toolkit to speed up the development of graph visualization and interaction applications.
+* [christian-fei/Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search) - A JavaScript library to add search functionality to any Jekyll blog.
+* [Rabrennie/anything.js](https://github.com/Rabrennie/anything.js) - A javascript library that contains anything.
 * [Pomax/Font.js](https://github.com/Pomax/Font.js) - This library adds a new Font() object to the JavaScript toolbox, similar to new Image() for images
-* [maurizzzio/PojoViz](https://github.com/maurizzzio/PojoViz) - Visualize the object structure of many JavaScript libraries & frameworks
-* [phstc/jquery-dateFormat](https://github.com/phstc/jquery-dateFormat) - jQuery Plugin to format Date outputs using JavaScript
 * [natefaubion/sparkler](https://github.com/natefaubion/sparkler) - Native pattern matching for JavaScript
-* [Snugug/eq.js](https://github.com/Snugug/eq.js) - Lightweight JavaScript powered element queries
-* [bjornharrtell/jsts](https://github.com/bjornharrtell/jsts) - JavaScript Topology Suite
-* [kesiev/akihabara](https://github.com/kesiev/akihabara) - A game engine for making classic arcade style games using Javascript and HTML5. We're starting moving on a re-organized repo here: https://github.com/akihabara
-* [scijs/ndarray](https://github.com/scijs/ndarray) - 📈 Multidimensional arrays for JavaScript
 * [strathausen/dracula](https://github.com/strathausen/dracula) - JavaScript layout and representation of connected graphs.
-* [rikschennink/conditioner](https://github.com/rikschennink/conditioner) - Frizz Free, Environment-aware, JavaScript Modules
-* [Jianru-Lin/lambda-view](https://github.com/Jianru-Lin/lambda-view) - 复杂 JavaScript 源码阅读分析工具
-* [sanctuary-js/sanctuary](https://github.com/sanctuary-js/sanctuary) - :see_no_evil: Refuge from unsafe JavaScript
-* [eugeneware/debowerify](https://github.com/eugeneware/debowerify) - A browserify transform to enable the easy use of bower components in browserify client javascript projects. This can be used in conjunction with deamdify to require AMD components from bower as well.
-* [stephen-hardy/xlsx.js](https://github.com/stephen-hardy/xlsx.js) - XLSX.js is a JavaScript library for converting the data in base64 XLSX files into JavaScript objects - and back! Please note that this library is licensed under the Microsoft Office Extensible File License - a license NOT approved by the OSI. While this license is based off of the MS-PL, which is OSI-approved, there are significant differences.
-* [jonathanstark/FastActive](https://github.com/jonathanstark/FastActive) - A javascript snippet that makes web apps feel more native.
-* [webismymind/editablegrid](https://github.com/webismymind/editablegrid) - EditableGrid is an open source Javascript library aimed at turning HTML tables into advanced editable components. It focuses on simplicity: only a few lines of code are required to get your first table up and running.
+* [phstc/jquery-dateFormat](https://github.com/phstc/jquery-dateFormat) - jQuery Plugin to format Date outputs using JavaScript
+* [Snugug/eq.js](https://github.com/Snugug/eq.js) - Lightweight JavaScript powered element queries
+* [maurizzzio/PojoViz](https://github.com/maurizzzio/PojoViz) - Visualize the object structure of many JavaScript libraries & frameworks
 * [rosiejs/rosie](https://github.com/rosiejs/rosie) - factory for building JavaScript objects, mostly useful for setting up test data. Inspired by factory_girl
+* [kesiev/akihabara](https://github.com/kesiev/akihabara) - A game engine for making classic arcade style games using Javascript and HTML5. We're starting moving on a re-organized repo here: https://github.com/akihabara
+* [webismymind/editablegrid](https://github.com/webismymind/editablegrid) - EditableGrid is an open source Javascript library aimed at turning HTML tables into advanced editable components. It focuses on simplicity: only a few lines of code are required to get your first table up and running.
+* [rikschennink/conditioner](https://github.com/rikschennink/conditioner) - Frizz Free, Environment-aware, JavaScript Modules
 * [kogmbh/WebODF](https://github.com/kogmbh/WebODF) - WebODF - JavaScript Document Engine
-* [marionettejs/backbone.syphon](https://github.com/marionettejs/backbone.syphon) - Serialize a Backbone.View in to a JavaScript object.
-* [leemachin/say-cheese](https://github.com/leemachin/say-cheese) - Minimal javascript library for integrating a webcam and snapshots into your app.
-* [MartinChavez/Javascript](https://github.com/MartinChavez/Javascript) - Javascript : Test-Driven Learning
-* [edspencer/jaml](https://github.com/edspencer/jaml) - JavaScript Haml
-* [clarkduvall/jsterm](https://github.com/clarkduvall/jsterm) - JavaScript terminal using a JSON pseudo-filesystem.
-* [cthackers/adm-zip](https://github.com/cthackers/adm-zip) - A Javascript implementation of zip for nodejs. Allows user to create or extract zip files both in memory or to/from disk
-* [AnyChart/graphicsjs](https://github.com/AnyChart/graphicsjs) - A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.
-* [Widen/fullstack-react](https://github.com/Widen/fullstack-react) - A simple, full-stack JavaScript single page app featuring React, Webpack, and Falcor
-* [phacility/javelin](https://github.com/phacility/javelin) - Large, bloated Javascript framework with an unintuitive, verbose syntax and very few features. Browsing its inelegant, poorly written source is an unwelcome experience.
 * [gorhill/Javascript-Voronoi](https://github.com/gorhill/Javascript-Voronoi) - A Javascript implementation of Fortune's algorithm to compute Voronoi cells
-* [FGRibreau/match-when](https://github.com/FGRibreau/match-when) - :shell: Pattern matching for modern JavaScript
-* [koehlma/jaspy](https://github.com/koehlma/jaspy) - a Python VM written entirely from scratch in JavaScript with some unique features
-* [krasimir/gifffer](https://github.com/krasimir/gifffer) - A tiny JavaScript library that prevents the autoplaying of the animated Gifs
-* [calvinmetcalf/catiline](https://github.com/calvinmetcalf/catiline) - JavaScript library to take the pain out of web workers.
+* [eugeneware/debowerify](https://github.com/eugeneware/debowerify) - A browserify transform to enable the easy use of bower components in browserify client javascript projects. This can be used in conjunction with deamdify to require AMD components from bower as well.
+* [cthackers/adm-zip](https://github.com/cthackers/adm-zip) - A Javascript implementation of zip for nodejs. Allows user to create or extract zip files both in memory or to/from disk
+* [stephen-hardy/xlsx.js](https://github.com/stephen-hardy/xlsx.js) - XLSX.js is a JavaScript library for converting the data in base64 XLSX files into JavaScript objects - and back! Please note that this library is licensed under the Microsoft Office Extensible File License - a license NOT approved by the OSI. While this license is based off of the MS-PL, which is OSI-approved, there are significant differences.
+* [MartinChavez/Javascript](https://github.com/MartinChavez/Javascript) - Javascript : Test-Driven Learning
+* [jonathanstark/FastActive](https://github.com/jonathanstark/FastActive) - A javascript snippet that makes web apps feel more native.
 * [satazor/js-spark-md5](https://github.com/satazor/js-spark-md5) - Lightning fast normal and incremental md5 for javascript
-* [bbc/peaks.js](https://github.com/bbc/peaks.js) - JavaScript UI component for interacting with waveforms.
-* [bard/mozrepl](https://github.com/bard/mozrepl) - Remotely control Firefox and other Mozilla apps with JavaScript. [Orphaned. Looking for maintainers!]
-* [quiet/quiet-js](https://github.com/quiet/quiet-js) - Transmit data with sound using Web Audio -- Javascript binding for libquiet
-* [mostlyserious/riak-js](https://github.com/mostlyserious/riak-js) - Riak client for Javascript
-* [keen/keen-js](https://github.com/keen/keen-js) - Keen IO JavaScript SDK
-* [jnunemaker/fancy-zoom](https://github.com/jnunemaker/fancy-zoom) - [DEAD] Zoomy JavaScript based loosely on Fancy Zoom by Cabel Sasser.
-* [jcoglan/jsclass](https://github.com/jcoglan/jsclass) - Implementation of the core of Ruby's object system in JavaScript.
+* [mumuy/widget](https://github.com/mumuy/widget) - A set of widgets based on jQuery&&javascript. 一套基于jquery或javascript的插件库 - 包含：轮播、标签页、滚动条、下拉框、对话框、搜索提示、城市选择(城市三级联动)、日历等组件
+* [marionettejs/backbone.syphon](https://github.com/marionettejs/backbone.syphon) - Serialize a Backbone.View in to a JavaScript object.
+* [edspencer/jaml](https://github.com/edspencer/jaml) - JavaScript Haml
+* [AnyChart/graphicsjs](https://github.com/AnyChart/graphicsjs) - A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.
+* [leemachin/say-cheese](https://github.com/leemachin/say-cheese) - Minimal javascript library for integrating a webcam and snapshots into your app.
 * [ethereum/web3.js](https://github.com/ethereum/web3.js) - Ethereum JavaScript API
-* [bearcatjs/bearcat](https://github.com/bearcatjs/bearcat) - powered by enhanced javaScript objects
-* [pazguille/voix](https://github.com/pazguille/voix) - :loudspeaker: A JavaScript library to add voice commands to your sites, apps or games.
-* [ericelliott/rtype](https://github.com/ericelliott/rtype) - Intuitive structural type notation for JavaScript.
-* [Spiritdude/OpenJSCAD.org](https://github.com/Spiritdude/OpenJSCAD.org) - OpenSCAD + JavaScript = OpenJSCAD, edit locally or remote online, preview in browser direct via WebGL.
-* [ParsePlatform/Parse-SDK-JS](https://github.com/ParsePlatform/Parse-SDK-JS) - Parse SDK for JavaScript
-* [joelambert/morf](https://github.com/joelambert/morf) - A Javascript work-around for hardware accelerated CSS3 transitions with custom easing functions
-* [firmata/firmata.js](https://github.com/firmata/firmata.js) - Firmata Protocol In JavaScript
-* [santoshrajan/lispyscript](https://github.com/santoshrajan/lispyscript) - A javascript with Lispy syntax and macros
 * [bcoin-org/bcoin](https://github.com/bcoin-org/bcoin) - Javascript bitcoin library for node.js and browsers
-* [blacksonic/angular2-babel-esnext-starter](https://github.com/blacksonic/angular2-babel-esnext-starter) - Angular 2 development and testing examples with Babel in Javascript (ES6/ES7).
-* [eslint/espree](https://github.com/eslint/espree) - An Esprima-compatible JavaScript parser
-* [alcuadrado/hieroglyphy](https://github.com/alcuadrado/hieroglyphy) - Transform any javascript code to an equivalent sequence of ()[]{}!+ characters that runs in the browser!
-* [proj4js/proj4js](https://github.com/proj4js/proj4js) - JavaScript library to transform coordinates from one coordinate system to another, including datum transformations
-* [polygonplanet/chillout](https://github.com/polygonplanet/chillout) - Reduce CPU usage in JavaScript
+* [ericelliott/rtype](https://github.com/ericelliott/rtype) - Intuitive structural type notation for JavaScript.
+* [Widen/fullstack-react](https://github.com/Widen/fullstack-react) - A simple, full-stack JavaScript single page app featuring React, Webpack, and Falcor
+* [clarkduvall/jsterm](https://github.com/clarkduvall/jsterm) - JavaScript terminal using a JSON pseudo-filesystem.
+* [phacility/javelin](https://github.com/phacility/javelin) - Large, bloated Javascript framework with an unintuitive, verbose syntax and very few features. Browsing its inelegant, poorly written source is an unwelcome experience.
+* [bbc/peaks.js](https://github.com/bbc/peaks.js) - JavaScript UI component for interacting with waveforms.
 * [medikoo/memoizee](https://github.com/medikoo/memoizee) - Complete memoize/cache solution for JavaScript
-* [josephg/Chipmunk-js](https://github.com/josephg/Chipmunk-js) - Port of slembcke/Chipmunk-Physics to Javascript
+* [krasimir/gifffer](https://github.com/krasimir/gifffer) - A tiny JavaScript library that prevents the autoplaying of the animated Gifs
+* [FGRibreau/match-when](https://github.com/FGRibreau/match-when) - :shell: Pattern matching for modern JavaScript
+* [ParsePlatform/Parse-SDK-JS](https://github.com/ParsePlatform/Parse-SDK-JS) - Parse SDK for JavaScript
+* [calvinmetcalf/catiline](https://github.com/calvinmetcalf/catiline) - JavaScript library to take the pain out of web workers.
+* [koehlma/jaspy](https://github.com/koehlma/jaspy) - a Python VM written entirely from scratch in JavaScript with some unique features
 * [airbnb/react-with-styles](https://github.com/airbnb/react-with-styles) - Use CSS-in-JavaScript with themes for React without being tightly coupled to one implementation
-* [benvanik/vr.js](https://github.com/benvanik/vr.js) - NPAPI plugin to expose fun VR devices to Javascript.
-* [catfan/Qatrix](https://github.com/catfan/Qatrix) - A new lightweight JavaScript framework for high performance web application with less code
-* [kennethkufluk/js-mindmap](https://github.com/kennethkufluk/js-mindmap) - JavaScript Mindmap
-* [azproduction/lmd](https://github.com/azproduction/lmd) - LMD - JavaScript Module-Assembler for building better web applications :warning: Project is no longer supported :warning:
-* [soulwire/WTFEngine](https://github.com/soulwire/WTFEngine) - An HTML / CSS / JavaScript template for creating WhatTheFuckIsMyMashup.com style web sites
-* [NV/CSSOM](https://github.com/NV/CSSOM) - CSS Object Model implemented in pure JavaScript. It's also a parser!
+* [quiet/quiet-js](https://github.com/quiet/quiet-js) - Transmit data with sound using Web Audio -- Javascript binding for libquiet
+* [keen/keen-js](https://github.com/keen/keen-js) - Keen IO JavaScript SDK
+* [eslint/espree](https://github.com/eslint/espree) - An Esprima-compatible JavaScript parser
+* [bard/mozrepl](https://github.com/bard/mozrepl) - Remotely control Firefox and other Mozilla apps with JavaScript. [Orphaned. Looking for maintainers!]
+* [Spiritdude/OpenJSCAD.org](https://github.com/Spiritdude/OpenJSCAD.org) - OpenSCAD + JavaScript = OpenJSCAD, edit locally or remote online, preview in browser direct via WebGL.
+* [WP-API/node-wpapi](https://github.com/WP-API/node-wpapi) - An isomorphic JavaScript client for the WordPress REST API
+* [pazguille/voix](https://github.com/pazguille/voix) - :loudspeaker: A JavaScript library to add voice commands to your sites, apps or games.
+* [firmata/firmata.js](https://github.com/firmata/firmata.js) - Firmata Protocol In JavaScript
+* [jcoglan/jsclass](https://github.com/jcoglan/jsclass) - Implementation of the core of Ruby's object system in JavaScript.
+* [blacksonic/angular2-babel-esnext-starter](https://github.com/blacksonic/angular2-babel-esnext-starter) - Angular 2 development and testing examples with Babel in Javascript (ES6/ES7).
+* [alcuadrado/hieroglyphy](https://github.com/alcuadrado/hieroglyphy) - Transform any javascript code to an equivalent sequence of ()[]{}!+ characters that runs in the browser!
+* [jnunemaker/fancy-zoom](https://github.com/jnunemaker/fancy-zoom) - [DEAD] Zoomy JavaScript based loosely on Fancy Zoom by Cabel Sasser.
+* [santoshrajan/lispyscript](https://github.com/santoshrajan/lispyscript) - A javascript with Lispy syntax and macros
+* [mostlyserious/riak-js](https://github.com/mostlyserious/riak-js) - Riak client for Javascript
+* [bearcatjs/bearcat](https://github.com/bearcatjs/bearcat) - powered by enhanced javaScript objects
+* [proj4js/proj4js](https://github.com/proj4js/proj4js) - JavaScript library to transform coordinates from one coordinate system to another, including datum transformations
+* [joelambert/morf](https://github.com/joelambert/morf) - A Javascript work-around for hardware accelerated CSS3 transitions with custom easing functions
 * [tststs/atom-ternjs](https://github.com/tststs/atom-ternjs) - JavaScript code intelligence for atom with tern.js and autocomplete-plus
+* [josephg/Chipmunk-js](https://github.com/josephg/Chipmunk-js) - Port of slembcke/Chipmunk-Physics to Javascript
+* [NV/CSSOM](https://github.com/NV/CSSOM) - CSS Object Model implemented in pure JavaScript. It's also a parser!
+* [polygonplanet/chillout](https://github.com/polygonplanet/chillout) - Reduce CPU usage in JavaScript
+* [kennethkufluk/js-mindmap](https://github.com/kennethkufluk/js-mindmap) - JavaScript Mindmap
+* [benvanik/vr.js](https://github.com/benvanik/vr.js) - NPAPI plugin to expose fun VR devices to Javascript.
+* [yahoo/serialize-javascript](https://github.com/yahoo/serialize-javascript) - Serialize JavaScript to a superset of JSON that includes regular expressions and functions.
+* [soulwire/WTFEngine](https://github.com/soulwire/WTFEngine) - An HTML / CSS / JavaScript template for creating WhatTheFuckIsMyMashup.com style web sites
 * [audiocogs/flac.js](https://github.com/audiocogs/flac.js) - FLAC decoder in JavaScript
-* [davidaurelio/TouchScroll](https://github.com/davidaurelio/TouchScroll) - TouchScroll is a JavaScript- and CSS 3-based scroller for devices using Webkit Mobile. It is meant to mimic “native” scrolling feeling and behavior as much as possible.
-* [joshbuddy/spoiler-alert](https://github.com/joshbuddy/spoiler-alert) - SPOILER ALERT! A happy little bit of javascript to hide spoilers on your site.
-* [bramstein/typeset](https://github.com/bramstein/typeset) - TeX line breaking algorithm in JavaScript
-* [Breeze/breeze.js](https://github.com/Breeze/breeze.js) - Breeze for JavaScript clients
-* [JonHMChan/descartes](https://github.com/JonHMChan/descartes) - Descartes | Write CSS in JavaScript
-* [ziyasal/scientist.js](https://github.com/ziyasal/scientist.js) - :microscope:  A JavaScript interpretation of the Ruby library Scientist, a library for carefully refactoring critical paths.
+* [kriasoft/aspnet-starter-kit](https://github.com/kriasoft/aspnet-starter-kit) - Cross-platform web development with Visual Studio Code, C#, F#, JavaScript, ASP.NET Core, EF Core, React (ReactJS), Redux, Babel. Single-page application boilerplate.
 * [imaya/zlib.js](https://github.com/imaya/zlib.js) - compact zlib, deflate, inflate, zip library in JavaScript
-* [brunobar79/J-I-C](https://github.com/brunobar79/J-I-C) - J I C is a Javascript Image Compressor using HTML5 Canvas & File API that allows you to compress your jpeg & png images before uploading to the server (100% client-side and no extra libraries required!)
-* [prerender/prerender-node](https://github.com/prerender/prerender-node) - Express middleware for prerendering javascript-rendered pages on the fly for SEO
+* [Breeze/breeze.js](https://github.com/Breeze/breeze.js) - Breeze for JavaScript clients
+* [catfan/Qatrix](https://github.com/catfan/Qatrix) - A new lightweight JavaScript framework for high performance web application with less code
+* [bramstein/typeset](https://github.com/bramstein/typeset) - TeX line breaking algorithm in JavaScript
+* [azproduction/lmd](https://github.com/azproduction/lmd) - LMD - JavaScript Module-Assembler for building better web applications :warning: Project is no longer supported :warning:
 * [Starcounter-Jack/JSON-Patch](https://github.com/Starcounter-Jack/JSON-Patch) - Lean and mean Javascript implementation of the JSON-Patch standard (RFC 6902). Update JSON documents using delta patches.
+* [davidaurelio/TouchScroll](https://github.com/davidaurelio/TouchScroll) - TouchScroll is a JavaScript- and CSS 3-based scroller for devices using Webkit Mobile. It is meant to mimic “native” scrolling feeling and behavior as much as possible.
+* [prerender/prerender-node](https://github.com/prerender/prerender-node) - Express middleware for prerendering javascript-rendered pages on the fly for SEO
+* [joshbuddy/spoiler-alert](https://github.com/joshbuddy/spoiler-alert) - SPOILER ALERT! A happy little bit of javascript to hide spoilers on your site.
+* [ziyasal/scientist.js](https://github.com/ziyasal/scientist.js) - :microscope:  A JavaScript interpretation of the Ruby library Scientist, a library for carefully refactoring critical paths.
+* [JonHMChan/descartes](https://github.com/JonHMChan/descartes) - Descartes | Write CSS in JavaScript
+* [brunobar79/J-I-C](https://github.com/brunobar79/J-I-C) - J I C is a Javascript Image Compressor using HTML5 Canvas & File API that allows you to compress your jpeg & png images before uploading to the server (100% client-side and no extra libraries required!)
+* [calzoneman/sync](https://github.com/calzoneman/sync) - Node.JS Server and JavaScript/HTML Client for synchronizing online media
+* [open-xml-templating/docxtemplater](https://github.com/open-xml-templating/docxtemplater) - Generate docx and pptx (microsoft word documents) from templates, from Node.js, the Browser and the command line / Demo: http://javascript-ninja.fr/docxtemplater/v2/examples/demo.html
+* [samsonjs/strftime](https://github.com/samsonjs/strftime) - strftime for JavaScript
 * [gre/glsl-transition](https://github.com/gre/glsl-transition) - render GLSL Transitions effects in JavaScript using WebGL
+* [rauchg/weplay](https://github.com/rauchg/weplay) - Collaborative gameboy emulation powered 100% by JavaScript
 * [GianlucaGuarini/Tocca.js](https://github.com/GianlucaGuarini/Tocca.js) - Super lightweight script (~1kb) to detect via Javascript events like 'tap' 'dbltap' 'swipeup' 'swipedown' 'swipeleft' 'swiperight' on any kind of device.
 * [filamentgroup/enhance](https://github.com/filamentgroup/enhance) - A JavaScript workflow designed to progressively enhance sites in a qualified manner.
-* [slashdotdash/jekyll-lunr-js-search](https://github.com/slashdotdash/jekyll-lunr-js-search) - Jekyll + lunr.js = static websites with powerful full-text search using JavaScript
-* [samsonjs/strftime](https://github.com/samsonjs/strftime) - strftime for JavaScript
 * [loov/jsfx](https://github.com/loov/jsfx) - Javascript Sound Effect Generator
-* [ccampbell/gator](https://github.com/ccampbell/gator) - Event delegation in Javascript
-* [calzoneman/sync](https://github.com/calzoneman/sync) - Node.JS Server and JavaScript/HTML Client for synchronizing online media
 * [IjzerenHein/autolayout.js](https://github.com/IjzerenHein/autolayout.js) - Apple's Auto Layout and Visual Format Language for javascript (using cassowary constraints)
-* [rauchg/weplay](https://github.com/rauchg/weplay) - Collaborative gameboy emulation powered 100% by JavaScript
-* [open-xml-templating/docxtemplater](https://github.com/open-xml-templating/docxtemplater) - Generate docx and pptx from templates, from Node.js, the Browser and the command line / Demo: http://javascript-ninja.fr/docxtemplater/v1/examples/demo.html
-* [Miserlou/DirtyShare](https://github.com/Miserlou/DirtyShare) - Peer to Peer Filesharing in Pure Javascript With Node.js and Socket.io
+* [slashdotdash/jekyll-lunr-js-search](https://github.com/slashdotdash/jekyll-lunr-js-search) - Jekyll + lunr.js = static websites with powerful full-text search using JavaScript
+* [liftoff/HumanInput](https://github.com/liftoff/HumanInput) - A JavaScript library for handling keyboard shortcuts and other human-generated events
+* [ccampbell/gator](https://github.com/ccampbell/gator) - Event delegation in Javascript
 * [asciidwango/js-primer](https://github.com/asciidwango/js-primer) - JavaScriptの入門書 :book:
 * [kylebarrow/chibi](https://github.com/kylebarrow/chibi) - A tiny JavaScript micro-library
 * [maxogden/javascript-for-cats](https://github.com/maxogden/javascript-for-cats) - an introduction to the javascript programming language. intended audience: cats
 * [finscn/The-Best-JS-Game-Framework](https://github.com/finscn/The-Best-JS-Game-Framework) - This is the best javascript game framework on the earth.
+* [Miserlou/DirtyShare](https://github.com/Miserlou/DirtyShare) - Peer to Peer Filesharing in Pure Javascript With Node.js and Socket.io
 * [tcorral/javascript-challenges-book](https://github.com/tcorral/javascript-challenges-book) - Challenge yourself learning and understanding the most obscure and tricky parts of Javascript.
-* [neyric/wireit](https://github.com/neyric/wireit) - A javascript wiring library to create web wirable interfaces for dataflow applications, visual programming languages or graphical modeling.
+* [Foliotek/Croppie](https://github.com/Foliotek/Croppie) - A Javascript Image Cropper
 * [busterjs/buster](https://github.com/busterjs/buster) - A powerful suite of automated test tools for JavaScript.
-* [WP-API/node-wpapi](https://github.com/WP-API/node-wpapi) - A JavaScript client for the WordPress JSON API
-* [lautis/uglifier](https://github.com/lautis/uglifier) - Ruby wrapper for UglifyJS JavaScript compressor.
-* [ryanwilliams/cocos2d-javascript](https://github.com/ryanwilliams/cocos2d-javascript) - An HTML5 / JavaScript port of the Cocos2D graphics engine
+* [neyric/wireit](https://github.com/neyric/wireit) - A javascript wiring library to create web wirable interfaces for dataflow applications, visual programming languages or graphical modeling.
 * [terebentina/sco.js](https://github.com/terebentina/sco.js) - Javascript extensions for twitter bootstrap
-* [kriasoft/aspnet-starter-kit](https://github.com/kriasoft/aspnet-starter-kit) - Cross-platform web development with Visual Studio Code, C#, F#, JavaScript, ASP.NET Core, EF Core, React (ReactJS), Redux, Babel. Single-page application boilerplate.
-* [julianlam/tabIndent.js](https://github.com/julianlam/tabIndent.js) - Javascript object that allows you to enhance a plain old textbox with "tab" behaviour.
-* [karlgoldstein/grunt-html2js](https://github.com/karlgoldstein/grunt-html2js) - Grunt plugin for converting AngularJS templates to JavaScript
-* [43081j/rar.js](https://github.com/43081j/rar.js) - Pure-JavaScript RAR reader using AJAX, File API & local access
-* [eclipsesource/tabris-js](https://github.com/eclipsesource/tabris-js) - tabris.js - native apps in JavaScript
-* [maxkueng/victor](https://github.com/maxkueng/victor) - A JavaScript 2D vector class with methods for common vector operations
-* [douglascrockford/JSDev](https://github.com/douglascrockford/JSDev) - A JavaScript Development Tool
-* [reid/node-jslint](https://github.com/reid/node-jslint) - The JavaScript Code Quality Tool — for Node.js.
-* [gfranko/amdclean](https://github.com/gfranko/amdclean) - A build tool that converts AMD code to standard JavaScript
+* [lautis/uglifier](https://github.com/lautis/uglifier) - Ruby wrapper for UglifyJS JavaScript compressor.
 * [Gottox/terminal.js](https://github.com/Gottox/terminal.js) - Javascript terminal emulator library that aims to be xterm complaint and is supposed to work in browsers and node.js.
+* [ryanwilliams/cocos2d-javascript](https://github.com/ryanwilliams/cocos2d-javascript) - An HTML5 / JavaScript port of the Cocos2D graphics engine
+* [hustcc/canvas-nest.js](https://github.com/hustcc/canvas-nest.js) - :zap: Interactive Particle / Nest System With JavaScript and Canvas, Do not Depends on jQuery.
+* [maxkueng/victor](https://github.com/maxkueng/victor) - A JavaScript 2D vector class with methods for common vector operations
+* [karlgoldstein/grunt-html2js](https://github.com/karlgoldstein/grunt-html2js) - Grunt plugin for converting AngularJS templates to JavaScript
+* [julianlam/tabIndent.js](https://github.com/julianlam/tabIndent.js) - Javascript object that allows you to enhance a plain old textbox with "tab" behaviour.
+* [eclipsesource/tabris-js](https://github.com/eclipsesource/tabris-js) - tabris.js - native apps in JavaScript
+* [43081j/rar.js](https://github.com/43081j/rar.js) - Pure-JavaScript RAR reader using AJAX, File API & local access
+* [reid/node-jslint](https://github.com/reid/node-jslint) - The JavaScript Code Quality Tool — for Node.js.
+* [douglascrockford/JSDev](https://github.com/douglascrockford/JSDev) - A JavaScript Development Tool
 * [danielstjules/buddy.js](https://github.com/danielstjules/buddy.js) - Magic number detection for JavaScript
+* [gfranko/amdclean](https://github.com/gfranko/amdclean) - A build tool that converts AMD code to standard JavaScript
+* [softwaretailoring/wheelnav](https://github.com/softwaretailoring/wheelnav) - Animated wheel navigation JavaScript library based on Raphaël.js (SVG/VML). It can be a pie menu (radial menu, circular menu) and many more.
+* [joaonuno/tree-model-js](https://github.com/joaonuno/tree-model-js) - Manipulate and traverse tree-like structures in javascript.
+* [harthur-org/brain.js](https://github.com/harthur-org/brain.js) - Neural networks in JavaScript
 * [gloomyson/SC_Js](https://github.com/gloomyson/SC_Js) - Classic RTS game using html5 canvas and javascript, only js codes, all copyrighted materials removed
+* [joyent/node-verror](https://github.com/joyent/node-verror) - Rich JavaScript errors
+* [benfred/venn.js](https://github.com/benfred/venn.js) - Area proportional Venn and Euler diagrams in JavaScript
+* [csnover/TraceKit](https://github.com/csnover/TraceKit) - Attempts to create stack traces for unhandled JavaScript exceptions in all major browsers.
 * [burakson/sherlogjs](https://github.com/burakson/sherlogjs) - JavaScript error and event tracker application.
 * [caolan/pithy](https://github.com/caolan/pithy) - An internal DSL for generating HTML in JavaScript
+* [cowboy/javascript-debug](https://github.com/cowboy/javascript-debug) - JavaScript Debug: A simple wrapper for console.log
+* [feathersjs/feathers](https://github.com/feathersjs/feathers) - A minimalist, real-time JavaScript framework built for NodeJS, React-Native and the browser.
+* [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js: a complete JavaScript framework for building 3D games with HTML 5 and WebGL
+* [wyuenho/backgrid](https://github.com/wyuenho/backgrid) - Finally, an easily stylable semantic HTML data grid widget with a Javascript API that doesn't suck.
+* [tgdwyer/WebCola](https://github.com/tgdwyer/WebCola) - Javascript constraint-based graph layout
 * [jlongster/css-animations.js](https://github.com/jlongster/css-animations.js) - A library to work with CSS3 keyframe animations from javascript
 * [taitems/Front-End-Development-Guidelines](https://github.com/taitems/Front-End-Development-Guidelines) - Front end development guidelines related to best practices in: Accessibility, CSS & CSS3, HTML & HTML5, JavaScript & jQuery.
-* [softwaretailoring/wheelnav](https://github.com/softwaretailoring/wheelnav) - Animated wheel navigation JavaScript library based on Raphaël.js (SVG/VML). It can be a pie menu (radial menu, circular menu) and many more.
-* [joyent/node-verror](https://github.com/joyent/node-verror) - Rich JavaScript errors
-* [joaonuno/tree-model-js](https://github.com/joaonuno/tree-model-js) - Manipulate and traverse tree-like structures in javascript.
-* [cowboy/javascript-debug](https://github.com/cowboy/javascript-debug) - JavaScript Debug: A simple wrapper for console.log
 * [runemadsen/rune.js](https://github.com/runemadsen/rune.js) - A JavaScript library for programming graphic design systems with SVG
 * [jQueryGeo/geo](https://github.com/jQueryGeo/geo) - Small, fast & simple JavaScript mapping and geospatial API as a jQuery plugin
 * [mortzdk/jsCache](https://github.com/mortzdk/jsCache) - jsCache is a javascript library that enables caching of javascripts, css-stylesheets and images using my localStorage polyfill. This is especially useful when serving your website for mobile phones, which has limited HTTP caching available, but also speeds up your site in an ordinary webbrowser as it saves HTTP requests and loads all files asynchronously.
@@ -899,7 +916,6 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [ripple/ripple-lib](https://github.com/ripple/ripple-lib) - A JavaScript API for interacting with Ripple in Node.js and the browser
 * [martinandert/react-inline](https://github.com/martinandert/react-inline) - Transform inline styles defined in JavaScript modules into static CSS code and class names so they become available to, e.g. the `className` prop of React elements.
 * [hay/stapes](https://github.com/hay/stapes) - the Javascript MVC microframework that does just enough
-* [Foliotek/Croppie](https://github.com/Foliotek/Croppie) - A Javascript Image Cropper
 * [baseprime/grapnel](https://github.com/baseprime/grapnel) - The smallest isomorphic JavaScript router with named parameters, HTML5 pushState, and middleware support
 * [antimatter15/whammy](https://github.com/antimatter15/whammy) - A real time javascript webm encoder based on a canvas hack
 * [jquery/qunit](https://github.com/jquery/qunit) - An easy-to-use JavaScript Unit Testing framework.
@@ -922,7 +938,6 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [ryanseddon/H5F](https://github.com/ryanseddon/H5F) - a JavaScript library that allows you to use the HTML5 Forms chapters new field input types, attributes and constraint validation API in non-supporting browsers.
 * [breuleux/earl-grey](https://github.com/breuleux/earl-grey) - Programming language compiling to JavaScript
 * [bramstein/hypher](https://github.com/bramstein/hypher) - A fast and small JavaScript hyphenation engine
-* [benfred/venn.js](https://github.com/benfred/venn.js) - Area proportional Venn and Euler diagrams in JavaScript
 * [2gis/makeup](https://github.com/2gis/makeup) - JavaScript tool for comfortable manual testing of markup
 * [mdp/gibberish-aes](https://github.com/mdp/gibberish-aes) - A fully OpenSSL compliant javascript library for AES encryption.
 * [koggdal/ocanvas](https://github.com/koggdal/ocanvas) - JavaScript library for object-based canvas drawing.
