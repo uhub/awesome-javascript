@@ -46,6 +46,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
 * [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 * [github/fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
+* [torokmark/malloy](https://github.com/torokmark/malloy) - Malloy.js is a tiny, cute, cub library for logging.
 * [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 * [pixijs/pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 * [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
