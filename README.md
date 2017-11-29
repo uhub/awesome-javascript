@@ -488,6 +488,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 * [captbaritone/winamp2-js](https://github.com/captbaritone/winamp2-js) - A reimplementation of Winamp 2.9 in HTML5 and Javascript
 * [domchristie/to-markdown](https://github.com/domchristie/to-markdown) - An HTML to Markdown converter written in JavaScript
+* [syncfusion/ej2](https://github.com/syncfusion/ej2) - Lightweight, moduler, mobile friendly UI components written in TypeScript.
 * [Studio-42/elFinder](https://github.com/Studio-42/elFinder) - Open-source file manager for web, written in JavaScript using jQuery and jQuery UI
 * [hainproject/hain](https://github.com/hainproject/hain) - An 'alt+space' launcher for Windows, built with Electron
 * [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐nodejs api
