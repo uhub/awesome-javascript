@@ -2,6 +2,7 @@
 
 A curated list of awesome JavaScript frameworks, libraries and software.
 
+* [Programming Community Curated Resources for Learning JavaScript](https://hackr.io/tutorials/learn-javascript) - Recommended Learning Resources voted by community.
 * [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - The https://freeCodeCamp.org open source codebase and curriculum. Learn to code and help nonprofits.
 * [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 * [vuejs/vue](https://github.com/vuejs/vue) - 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
