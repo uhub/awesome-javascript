@@ -17,6 +17,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [mui-org/material-ui](https://github.com/mui-org/material-ui) - React components that implement Google's Material Design.
 * [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 * [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
+* [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js https://www.fastify.io
 * [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag
 * [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 * [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
