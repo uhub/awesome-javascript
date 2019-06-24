@@ -36,6 +36,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - 👻 The most popular headless Node.js CMS for professional publishing
 * [i0natan/nodebestpractices](https://github.com/i0natan/nodebestpractices) - :white_check_mark: The largest Node.js best practices list (May 2019)
 * [zeit/hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
+* [map-countdown](https://github.com/dawidjaniga/map-countdown) - ⏳🗺 A browser countdown built on top of the Google Maps
 * [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 * [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.
 * [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
