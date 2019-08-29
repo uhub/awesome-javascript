@@ -2510,3 +2510,4 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [bestiejs/benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
 * [xoxco/jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) - Magically convert a simple text input into a cool tag list with this jQuery plugin.
 * [scripted-editor/scripted](https://github.com/scripted-editor/scripted) - The Scripted code editor
+* [analytics](https://github.com/davidwells/analytics) - A lightweight, extendable analytics library designed to work with any third-party analytics provider to track page views, custom events, & identify users.
