@@ -694,7 +694,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [danvk/dygraphs](https://github.com/danvk/dygraphs) - Interactive visualizations of time series using JavaScript and the HTML canvas tag
 * [substance/substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
 * [cowbell/sharedrop](https://github.com/cowbell/sharedrop) - HTML5 clone of Apple's AirDrop - easy P2P file transfer powered by WebRTC
-* [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the perfomance of a few popular javascript frameworks
+* [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the performance of a few popular javascript frameworks
 * [slevithan/xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions
 * [renatorib/react-powerplug](https://github.com/renatorib/react-powerplug) - :electric_plug: Renderless Containers
 * [reactGo/reactGo](https://github.com/reactGo/reactGo) - Your One-Stop solution for a full-stack universal Redux App!
@@ -1487,7 +1487,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [ded/klass](https://github.com/ded/klass) - a utility for creating expressive classes in JavaScript
 * [andreypopp/reactify](https://github.com/andreypopp/reactify) - [DEPRECATED] Browserify transform for JSX (superset of JavaScript used in React library by Facebook)
 * [marquete/kibo](https://github.com/marquete/kibo) - A simple JavaScript library for handling keyboard events.
-* [PaulGuo/Juicer](https://github.com/PaulGuo/Juicer) - A Light Javascript Templete Engine.
+* [PaulGuo/Juicer](https://github.com/PaulGuo/Juicer) - A Light Javascript Template Engine.
 * [jasondavies/science.js](https://github.com/jasondavies/science.js) - Scientific and statistical computing in JavaScript.
 * [twigkit/tempo](https://github.com/twigkit/tempo) - Tempo is an easy, intuitive JavaScript rendering engine that enables you to craft data templates in pure HTML.
 * [basecamp/wysihat](https://github.com/basecamp/wysihat) - A WYSIWYG JavaScript framework
@@ -1575,7 +1575,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [ringo/ringojs](https://github.com/ringo/ringojs) - RingoJS is a JavaScript platform built on the JVM and optimized for server-side applications.
 * [jcoppieters/cody](https://github.com/jcoppieters/cody) - Javascript Content Management System running on Node.js
 * [peachananr/purejs-onepage-scroll](https://github.com/peachananr/purejs-onepage-scroll) - The javascript version of the infamous jQuery One Page Scroll without relying on jQuery.
-* [bytespider/jsOAuth](https://github.com/bytespider/jsOAuth) - JavaScript implimentation of the OAuth protocol. Currently supports version 1.0 (RFC5849) of the specification. Node.js & CommonJS compatible.
+* [bytespider/jsOAuth](https://github.com/bytespider/jsOAuth) - JavaScript implementation of the OAuth protocol. Currently supports version 1.0 (RFC5849) of the specification. Node.js & CommonJS compatible.
 * [itemslide/itemslide.github.io](https://github.com/itemslide/itemslide.github.io) - A simple and beautiful JavaScript touch carousel
 * [hapticdata/toxiclibsjs](https://github.com/hapticdata/toxiclibsjs) - Toxiclibsjs is a library for computational design tasks with JavaScript. This library is a port of http://toxiclibs.org for java and processing.
 * [garycourt/JSV](https://github.com/garycourt/JSV) - A JavaScript implementation of an extendable, fully compliant JSON Schema validator.
@@ -2344,7 +2344,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 * [posabsolute/jQuery-Validation-Engine](https://github.com/posabsolute/jQuery-Validation-Engine) - jQuery form validation plugin
 * [malarkey/320andup](https://github.com/malarkey/320andup) - This is the new 320 and Up
-* [hakimel/Meny](https://github.com/hakimel/Meny) - A three dimensional and space effecient menu
+* [hakimel/Meny](https://github.com/hakimel/Meny) - A three dimensional and space efficient menu
 * [doublespeakgames/adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
 * [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 * [indexzero/http-server](https://github.com/indexzero/http-server) - a simple zero-configuration command-line http server
@@ -2502,7 +2502,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [Serhioromano/bootstrap-calendar](https://github.com/Serhioromano/bootstrap-calendar) - Full view calendar with year, month, week and day views based on templates with Twitter Bootstrap.
 * [gruntjs/grunt-contrib-watch](https://github.com/gruntjs/grunt-contrib-watch) - Run tasks whenever watched files change.
 * [chenglou/react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
-* [mintchaos/flippant.js](https://github.com/mintchaos/flippant.js) - A mini dependancy-less UI lib for flipping over DOM nodes.
+* [mintchaos/flippant.js](https://github.com/mintchaos/flippant.js) - A mini dependency-less UI lib for flipping over DOM nodes.
 * [royrusso/elasticsearch-HQ](https://github.com/royrusso/elasticsearch-HQ) - Monitoring and Management Web Application for ElasticSearch instances and clusters.
 * [wagerfield/flat-surface-shader](https://github.com/wagerfield/flat-surface-shader) - Flat Surface Shader for rendering lit triangles to a number of contexts including WebGL, Canvas 2D and SVG
 * [documentcloud/visualsearch](https://github.com/documentcloud/visualsearch) - A Rich Search Box for Real Data
