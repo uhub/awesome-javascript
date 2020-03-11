@@ -610,6 +610,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬 Modern, responsive, cross-platform, self-hosted web IRC client
 * [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native.
 * [jschr/textillate](https://github.com/jschr/textillate) - A jquery plugin for CSS3 text animations.
+* [MikeKovarik/exifr](https://github.com/MikeKovarik/exifr) - 📷 The fastest and most versatile JS EXIF reading library
 * [exif-js/exif-js](https://github.com/exif-js/exif-js) - JavaScript library for reading EXIF image metadata
 * [regl-project/regl](https://github.com/regl-project/regl) - 👑 Functional WebGL
 * [ro31337/libretaxi](https://github.com/ro31337/libretaxi) - LibreTaxi, free and open source Uber/Lyft alternative to connect passengers and drivers.
