@@ -393,3 +393,4 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 * [brunch/brunch](https://github.com/brunch/brunch) - :fork_and_knife: Web applications made easy. Since 2011.
 * [flightjs/flight](https://github.com/flightjs/flight) - A component-based, event-driven JavaScript framework from Twitter
+* [a-synchronous/rubico](https://github.com/a-synchronous/rubico) - 🏞 [a]synchronous functional syntax
