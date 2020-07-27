@@ -959,3 +959,4 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
 * [kelektiv/node-uuid](https://github.com/kelektiv/node-uuid) - Generate RFC-compliant UUIDs in JavaScript
 * [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
+* [GuideChimp](https://github.com/Labs64/GuideChimp) - Create interactive guided product tours in minutes with the most non-technical friendly, lightweight and extendable library.
