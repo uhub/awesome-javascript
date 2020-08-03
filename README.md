@@ -65,6 +65,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use multi SQL dialect ORM for Node.js
 * [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 * [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
+* [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - A lightweight JavaScript/TypeScript library for creating particles. It's born from the abandoned particles.js and includes ready to use components for the most famous Javascript Frameworks (ReactJS, VueJS, Angular, etc.)
 * [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
 * [sentsin/layui](https://github.com/sentsin/layui) - 采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写形式，极低门槛，拿来即用。
 * [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
