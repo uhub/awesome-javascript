@@ -973,3 +973,4 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful math in all browsers
 * [nfarina/homebridge](https://github.com/nfarina/homebridge) - HomeKit support for the impatient
 * [pixijs/pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+* [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
