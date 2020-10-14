@@ -979,3 +979,4 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful math in all browsers
 * [nfarina/homebridge](https://github.com/nfarina/homebridge) - HomeKit support for the impatient
 * [pixijs/pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+* [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation
