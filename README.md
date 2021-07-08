@@ -1025,3 +1025,4 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [sodium-friends/learntocrypto](https://github.com/sodium-friends/learntocrypto) - Learn to crypto workshop
 * [shzlw/zeu](https://github.com/shzlw/zeu) - A JavaScript library for real-time visualization
 * [ondras/rot.js](https://github.com/ondras/rot.js) - ROguelike Toolkit in JavaScript
+* [Spurwing/Appointment-Scheduling-API](https://github.com/Spurwing/Appointment-Scheduling-API) - A comprehensive and detailed guide to building enterprise appointment scheduling solutions using the Spurwing Scheduling API.
