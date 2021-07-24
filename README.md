@@ -1028,3 +1028,4 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [sodium-friends/learntocrypto](https://github.com/sodium-friends/learntocrypto) - Learn to crypto workshop
 * [shzlw/zeu](https://github.com/shzlw/zeu) - A JavaScript library for real-time visualization
 * [ondras/rot.js](https://github.com/ondras/rot.js) - ROguelike Toolkit in JavaScript
+* [Awacs](https://github.com/socketkit/awacs) - Next-gen behavior analysis server (think Mixpanel, Google Analytics) with built-in encryption
