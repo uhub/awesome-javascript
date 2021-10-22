@@ -1036,3 +1036,4 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [sodium-friends/learntocrypto](https://github.com/sodium-friends/learntocrypto) - Learn to crypto workshop
 * [shzlw/zeu](https://github.com/shzlw/zeu) - A JavaScript library for real-time visualization
 * [ondras/rot.js](https://github.com/ondras/rot.js) - ROguelike Toolkit in JavaScript
+* [Jsuites](https://jsuites.net/v4/) - Jsuites is a collection of lightweight common JavaScript responsive plugins and webcomponents. It helps to maintain the same codebase for different platforms and devices. It brings a great user experience to any web-based projects.
