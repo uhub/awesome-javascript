@@ -7,6 +7,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 * [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 * [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
+* [Explore JavaScript](https://kandi.openweaver.com/explore/javascript) - Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi
 * [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 * [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 * [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
