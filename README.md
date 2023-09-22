@@ -2,6 +2,7 @@
 
 A curated list of awesome JavaScript frameworks, libraries and software.
 
+* [qunitx](https://github.com/izelnakri/qunitx) -  Zero dependency, universal, fully customizable, mature JavaScript & TypeScript test API that can run interchangably in node.js, deno & browser, using default runtime test runners.
 * [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 * [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 * [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
