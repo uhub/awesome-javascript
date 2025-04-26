@@ -1026,3 +1026,4 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [jakejs/jake](https://github.com/jakejs/jake) - JavaScript build tool, similar to Make or Rake. Built to work with Node.js.
 * [open-wc/open-wc](https://github.com/open-wc/open-wc) - Open Web Components: guides, tools and libraries for developing web components.
 * [gcanti/tcomb](https://github.com/gcanti/tcomb) - Type checking and DDD for JavaScript
+* [rocambille/start-express-react](https://github.com/rocambille/start-express-react) - Educational Express-React framework for intermediate developers.
