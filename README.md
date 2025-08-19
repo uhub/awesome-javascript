@@ -1055,3 +1055,4 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [jakejs/jake](https://github.com/jakejs/jake) - JavaScript build tool, similar to Make or Rake. Built to work with Node.js.
 * [open-wc/open-wc](https://github.com/open-wc/open-wc) - Open Web Components: guides, tools and libraries for developing web components.
 * [gcanti/tcomb](https://github.com/gcanti/tcomb) - Type checking and DDD for JavaScript
+* [Unbroken](https://github.com/Bruno-366/Unbroken) - A React-based Progressive Web App for strength & cardio tracking, based on the Tactical Barbell books	
