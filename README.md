@@ -877,6 +877,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [DOClever/DOClever](https://github.com/DOClever/DOClever) - 做最好的接口管理平台
 * [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 * [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.
+* [jmas/bauhaus-avatar-generator](https://github.com/jmas/bauhaus-avatar-generator) - A TypeScript library for generating beautiful, deterministic Bauhaus-style SVG avatars from any input string.
 * [orkestral/venom](https://github.com/orkestral/venom) - Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on artificial intelligence and all types of design architecture for WhatsApp.
 * [SAP/openui5](https://github.com/SAP/openui5) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice.
 * [jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin) - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
