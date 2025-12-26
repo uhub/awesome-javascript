@@ -17,6 +17,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 * [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 * [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
+* [PlayCode](https://playcode.io/javascript-compiler) - JavaScript compiler with TypeScript/JSX compilation, AI coding assistant, npm packages, and real-time execution. Used by 1M+ developers.
 * [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 * [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 * [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
