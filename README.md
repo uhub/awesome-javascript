@@ -1072,4 +1072,5 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [ifandelse/machina.js](https://github.com/ifandelse/machina.js) - js ex machina - finite state machines in JavaScript
 * [jakejs/jake](https://github.com/jakejs/jake) - JavaScript build tool, similar to Make or Rake. Built to work with Node.js.
 * [open-wc/open-wc](https://github.com/open-wc/open-wc) - Open Web Components: guides, tools and libraries for developing web components.
+* [COSAI-Labs/toolpipe-mcp-server](https://github.com/COSAI-Labs/toolpipe-mcp-server) - 120+ free developer utility APIs and MCP server for AI agents. Hashing, encoding, JSON/YAML/CSV conversion, UUID generation, JWT operations, DNS lookup, and more.
 * [gcanti/tcomb](https://github.com/gcanti/tcomb) - Type checking and DDD for JavaScript
