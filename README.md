@@ -112,6 +112,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
 * [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - a vue2.0 minimal admin template
 * [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
+* [solarluminea/envcheck](https://github.com/solarluminea/envcheck) - Zero-dependency runtime type checking and validation for environment variables.
 * [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 * [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
 * [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
