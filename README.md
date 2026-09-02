@@ -5,21 +5,16 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * Learning and Reference
 	* [Tutorials and Books](#tutorials-and-books)
 	* [Examples and Exercises](#examples-and-exercises)
-	* [Awesome Lists and Collections](#awesome-lists-and-collections)
 * Language and Tooling
 	* [Compilers and Interpreters](#compilers-and-interpreters)
 	* [Build Systems](#build-systems)
 	* [Package Management](#package-management)
 	* [Linters and Formatters](#linters-and-formatters)
-	* [Debugging and Profiling](#debugging-and-profiling)
-	* [Editor and IDE Support](#editor-and-ide-support)
-	* [Version Control](#version-control)
 * Web
 	* [Web Frameworks](#web-frameworks)
 	* [HTTP and Networking Clients](#http-and-networking-clients)
 	* [API and GraphQL](#api-and-graphql)
 	* [Frontend and UI Components](#frontend-and-ui-components)
-	* [Web Servers and Proxies](#web-servers-and-proxies)
 	* [Scraping and Crawling](#scraping-and-crawling)
 * Data and Storage
 	* [Databases](#databases)
@@ -30,17 +25,13 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 	* [LLM and Inference](#llm-and-inference)
 	* [Machine Learning Frameworks](#machine-learning-frameworks)
 	* [Computer Vision](#computer-vision)
-	* [Natural Language Processing](#natural-language-processing)
 	* [Data Science and Analytics](#data-science-and-analytics)
 * Networking and Distributed
 	* [Networking](#networking)
 	* [RPC and Messaging](#rpc-and-messaging)
 	* [Distributed Systems](#distributed-systems)
 	* [Cloud and Infrastructure](#cloud-and-infrastructure)
-	* [Monitoring and Observability](#monitoring-and-observability)
 * User Interface
-	* [GUI Toolkits](#gui-toolkits)
-	* [Terminal and Console UI](#terminal-and-console-ui)
 	* [Mobile](#mobile)
 	* [Applications and End User Tools](#applications-and-end-user-tools)
 * Graphics and Media
@@ -51,25 +42,18 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * Security
 	* [Cryptography](#cryptography)
 	* [Security Tools](#security-tools)
-	* [Authentication and Authorization](#authentication-and-authorization)
 * Concurrency and Performance
-	* [Concurrency and Parallelism](#concurrency-and-parallelism)
 	* [Performance and Optimization](#performance-and-optimization)
 * Testing and Quality
 	* [Testing](#testing)
 * Utilities
 	* [Command Line Tools](#command-line-tools)
-	* [Logging and Configuration](#logging-and-configuration)
 	* [Text Processing](#text-processing)
 	* [Files and Operating System](#files-and-operating-system)
-	* [Date and Time](#date-and-time)
 	* [Automation and Scripting](#automation-and-scripting)
 	* [General Purpose Libraries](#general-purpose-libraries)
-* Systems and Hardware
-	* [Embedded and Firmware](#embedded-and-firmware)
 * Science and Math
 	* [Mathematics](#mathematics)
-	* [Scientific Computing](#scientific-computing)
 * [Other](#other)
 
 ## Learning and Reference
@@ -138,11 +122,11 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [CleverProgrammers/JavaScript-Course-by-Clever-Programmer-](https://github.com/CleverProgrammers/JavaScript-Course-by-Clever-Programmer-) - This is a full JavaScript course by Clever Programmer
 * [YvetteLau/Blog](https://github.com/YvetteLau/Blog) - 【前端进阶】优质博文
 * [vasanthk/js-bits](https://github.com/vasanthk/js-bits) - ✨ JavaScript concepts with code ✨
+* [cheatsheet1999/CloudCollection](https://github.com/cheatsheet1999/CloudCollection) - Notes for Software Engineers on infrastructure and distributed systems. Covers common data structure and algorithms, web concepts, and more!
 * [dwyl/learn-tdd](https://github.com/dwyl/learn-tdd) - :white_check_mark: A brief introduction to Test Driven Development (TDD) in JavaScript (Complete Beginner's Step-by-Step Tutorial)
 * [chetannada/Namaste-React](https://github.com/chetannada/Namaste-React) - ❤ Namaste React Live Course from Zero to Hero 🚀 by Akshay Saini(Founder of NamasteDev). This repository for Assignment & Class Notes taken during Namaste React Live Course #namaste #javascript #react
 * [mike-works/pwa-fundamentals](https://github.com/mike-works/pwa-fundamentals) - 👨‍🏫 Mike & Steve's Progressive Web Fundamentals Course
 * [tooto1985/js-array-operations](https://github.com/tooto1985/js-array-operations) - 20 kinds of methods to get to know a JavaScript array operations.
-* [cheatsheet1999/CloudCollection](https://github.com/cheatsheet1999/CloudCollection) - Notes for Fullstack Software Engineers. Covers common data structure and algorithms, web concepts, Javascript / TypeScript, React, and more!
 
 ### Examples and Exercises
 
@@ -178,6 +162,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) - 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 * [adrianhajdin/portfolio_website](https://github.com/adrianhajdin/portfolio_website) - Tutorial created by Enyel Sequeira, taught by JavaScript Mastery
 * [ronami/minipack](https://github.com/ronami/minipack) - 📦 A simplified example of a modern module bundler written in JavaScript
+* [xdevplatform/samples](https://github.com/xdevplatform/samples) - Sample code for the X API v2 endpoints
 * [careercup/CtCI-6th-Edition-JavaScript](https://github.com/careercup/CtCI-6th-Edition-JavaScript) - Cracking the Coding Interview 6th Ed. JavaScript Solutions
 * [GoogleCloudPlatform/nodejs-docs-samples](https://github.com/GoogleCloudPlatform/nodejs-docs-samples) - Node.js samples for Google Cloud Platform products.
 * [dragonir/3d](https://github.com/dragonir/3d) - Three.js 3D项目，包含冰墩墩🐼、数字城市🏙、3D人像👤、车模展示🚗、塞尔达传说🗡等一些3D趣味演示页面，持续优化中...访问链接如下👇
@@ -185,15 +170,6 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [ivarprudnikov/webpack-static-html-pages](https://github.com/ivarprudnikov/webpack-static-html-pages) - Webpack template/example with multiple static html pages *(archived)*
 * [dnshi/Leetcode](https://github.com/dnshi/Leetcode) - Leetcode problems & solutions
 * [felipernb/algorithms.js](https://github.com/felipernb/algorithms.js) - Atwood's Law applied to CS101 - Classic algorithms and data structures implemented in JavaScript
-* [xdevplatform/samples](https://github.com/xdevplatform/samples) - Sample code for the Twitter API v2 endpoints
-
-### Awesome Lists and Collections
-
-* [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net) - This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source projects. Jump in!
-* [bebraw/jswiki](https://github.com/bebraw/jswiki) - JavaScript wiki. Focuses mainly on JS/HTML5/WebGL related tech.
-* [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖 A curated list of Awesome Userscripts.
-* [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss) - :orange_book: 根据 RSS 订阅最新前端技术文章并自动分类
-* [microjs/microjs.com](https://github.com/microjs/microjs.com) - Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!
 
 ## Language and Tooling
 
@@ -254,8 +230,8 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [ember-cli/ember-cli](https://github.com/ember-cli/ember-cli) - The Ember.js command line utility.
 * [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
 * [jakejs/jake](https://github.com/jakejs/jake) - JavaScript build tool, similar to Make or Rake. Built to work with Node.js.
-* [tbranyen/use-amd](https://github.com/tbranyen/use-amd) - An AMD plugin for consuming globally defined JavaScript.
 * [electron/packager](https://github.com/electron/packager) - Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
+* [tbranyen/use-amd](https://github.com/tbranyen/use-amd) - An AMD plugin for consuming globally defined JavaScript.
 
 ### Package Management
 
@@ -292,28 +268,6 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [JSMonk/hegel](https://github.com/JSMonk/hegel) - An advanced static type checker *(archived)*
 * [gcanti/tcomb](https://github.com/gcanti/tcomb) - Type checking and DDD for JavaScript *(archived)*
 * [kangax/kratko.js](https://github.com/kangax/kratko.js) - Simple tool to help refactor Javascript
-
-### Debugging and Profiling
-
-* [zalmoxisus/redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension) - Redux DevTools extension.
-* [mrdoob/stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor
-* [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
-* [stacktracejs/stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Generate, parse, and enhance JavaScript stack traces in all web browsers
-* [React-Sight/React-Sight](https://github.com/React-Sight/React-Sight) - Visualization tool for React, with support for Fiber, Router (v4), and Redux
-
-### Editor and IDE Support
-
-* [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
-* [syntaxhighlighter/syntaxhighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter) - SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.
-* [ternjs/tern](https://github.com/ternjs/tern) - A JavaScript code analyzer for deep, cross-editor language support
-* [ccampbell/rainbow](https://github.com/ccampbell/rainbow) - Simple syntax highlighting library written in javascript
-* [babel/babel-sublime](https://github.com/babel/babel-sublime) - Syntax definitions for ES6 JavaScript with React JSX extensions.
-
-### Version Control
-
-* [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
-* [nodegit/nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
-* [creationix/js-git](https://github.com/creationix/js-git) - A JavaScript implementation of Git.
 
 ## Web
 
@@ -389,6 +343,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [vuejs/vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
 * [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
 * [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
+* [nilbuild/driver.js](https://github.com/nilbuild/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 * [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 * [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 * [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
@@ -506,6 +461,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [nadbm/react-datasheet](https://github.com/nadbm/react-datasheet) - Excel-like data grid (table) component for React
 * [cferdinandi/smooth-scroll](https://github.com/cferdinandi/smooth-scroll) - A lightweight script to animate scrolling to anchor links. *(archived)*
 * [NervJS/nerv](https://github.com/NervJS/nerv) - A blazing fast React alternative, compatible with IE8 and React 16.
+* [orneryd/ui-grid](https://github.com/orneryd/ui-grid) - UI Grid: a Data Grid
 * [Khan/aphrodite](https://github.com/Khan/aphrodite) - Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation
 * [kartik-v/bootstrap-fileinput](https://github.com/kartik-v/bootstrap-fileinput) - An enhanced HTML 5 file input for Bootstrap 5.x/4.x./3.x with file preview, multiple selection, and more features.
 * [davatron5000/Lettering.js](https://github.com/davatron5000/Lettering.js) - A lightweight, easy to use Javascript <span> injector for radical Web Typography
@@ -588,6 +544,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [Tencent/weui.js](https://github.com/Tencent/weui.js) - A lightweight javascript library for WeUI.
 * [alexmacarthur/typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript typewriter effect library on the planet.
 * [hybridsjs/hybrids](https://github.com/hybridsjs/hybrids) - Extraordinary JavaScript UI framework with unique declarative and functional architecture
+* [warp-drive-data/warp-drive](https://github.com/warp-drive-data/warp-drive) - WarpDrive is the lightweight data library for ambitious web apps — universal, typed, reactive, and ready to scale.
 * [e-oj/Magic-Grid](https://github.com/e-oj/Magic-Grid) - A simple, lightweight Javascript library for dynamic grid layouts.
 * [Ionaru/easy-markdown-editor](https://github.com/Ionaru/easy-markdown-editor) - EasyMDE: A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 * [flowjs/flow.js](https://github.com/flowjs/flow.js) - A JavaScript library providing multiple simultaneous, stable, fault-tolerant and resumable/restartable file uploads via the HTML5 File API.
@@ -622,15 +579,6 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [ryejs/rye](https://github.com/ryejs/rye) - A modern, lightweight browser library using ES5 natives
 * [hd996/color-generate](https://github.com/hd996/color-generate) - 🔥 An awesome theme color generation scheme.
 * [amazeui/amazeui](https://github.com/amazeui/amazeui) - Amaze UI, a mobile-first and modular front-end framework.
-* [nilbuild/driver.js](https://github.com/nilbuild/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
-* [orneryd/ui-grid](https://github.com/orneryd/ui-grid) - UI Grid: an Angular Data Grid
-* [warp-drive-data/warp-drive](https://github.com/warp-drive-data/warp-drive) - A lightweight reactive data library for javascript applications. Designed over composable primitives.
-
-### Web Servers and Proxies
-
-* [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
-* [airbnb/hypernova](https://github.com/airbnb/hypernova) - A service for server-side rendering your JavaScript views *(archived)*
-* [ExpressGateway/express-gateway](https://github.com/ExpressGateway/express-gateway) - A microservices API Gateway built on top of Express.js
 
 ### Scraping and Crawling
 
@@ -730,12 +678,6 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [victordibia/handtrack.js](https://github.com/victordibia/handtrack.js) - A library for prototyping realtime hand detection (bounding box), directly in the browser.
 * [inspirit/jsfeat](https://github.com/inspirit/jsfeat) - JavaScript Computer Vision library.
 
-### Natural Language Processing
-
-* [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
-* [wooorm/franc](https://github.com/wooorm/franc) - Natural language detection
-* [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api) - A free and unlimited API for Google Translate :dollar::no_entry_sign:
-
 ### Data Science and Analytics
 
 * [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag
@@ -797,32 +739,14 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 
 ### Cloud and Infrastructure
 
+* [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 * [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript v2 (End-of-Life as of 09/08/2025). The AWS SDK for JavaScript v3 in the browser and Node.js is available here: https://github.com/aws/aws-sdk-js-v3 *(archived)*
 * [shipitjs/shipit](https://github.com/shipitjs/shipit) - Universal automation and deployment tool ⛵️ *(archived)*
 * [apocas/dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
 * [middyjs/middy](https://github.com/middyjs/middy) - 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵
 * [claudiajs/claudia](https://github.com/claudiajs/claudia) - Deploy Node.js projects to AWS Lambda and API Gateway easily
-* [anomalyco/sst](https://github.com/anomalyco/sst) - 💥 SST makes it easy to build full-stack serverless apps.
-
-### Monitoring and Observability
-
-* [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
-* [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, & SVG. No Third-Party frameworks or libraries are Required. Started in 2011 and moved to OpenSpeedTest.com dedicated Project/Domain Name in 2013.
-* [RafalWilinski/express-status-monitor](https://github.com/RafalWilinski/express-status-monitor) - 🚀 Realtime Monitoring solution for Node.js/Express.js apps, inspired by status.github.com, sponsored by https://dynobase.dev
 
 ## User Interface
-
-### GUI Toolkits
-
-* [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
-* [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS *(archived)*
-
-### Terminal and Console UI
-
-* [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
-* [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
-* [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
-* [jcubic/jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - JavaScript library for creating web-based terminals with custom commands
 
 ### Mobile
 
@@ -1085,28 +1009,13 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 
 * [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 * [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
+* [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - A lightweight, cryptography-powered, open-source toolkit built to enforce Zero Trust security for infrastructure, applications, and data in the AI-driven world.
 * [tiagozip/cap](https://github.com/tiagozip/cap) - Free, open-source and self-hosted CAPTCHA alternative to reCAPTCHA. Privacy-first and powered by proof-of-work and instrumentation challenges.
 * [arkime/arkime](https://github.com/arkime/arkime) - Arkime is an open source, large scale, full packet capturing, indexing, and database system.
 * [RetireJS/retire.js](https://github.com/RetireJS/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilities. Can also generate an SBOM of the libraries it finds.
 * [patriksimek/vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js
-* [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - Amaze UI, a mobile-first and modular front-end framework.
-
-### Authentication and Authorization
-
-* [stalniy/casl](https://github.com/stalniy/casl) - CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
-* [MrSwitch/hello.js](https://github.com/MrSwitch/hello.js) - A Javascript RESTFUL API library for connecting with OAuth2 services, such as Google+ API, Facebook Graph and Windows Live Connect
-* [simov/grant](https://github.com/simov/grant) - OAuth Proxy
-* [pillarjs/csrf](https://github.com/pillarjs/csrf) - Logic behind CSRF token creation and verification.
 
 ## Concurrency and Performance
-
-### Concurrency and Parallelism
-
-* [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
-* [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript *(archived)*
-* [kriskowal/q](https://github.com/kriskowal/q) - A promise library for JavaScript *(archived)*
-* [parallel-js/parallel.js](https://github.com/parallel-js/parallel.js) - Easy multi-core processing utilities for Node.
-* [jofpin/turbit](https://github.com/jofpin/turbit) - Build applications, scripts, and automations powered by high-performance multicore computing using Node.js
 
 ### Performance and Optimization
 
@@ -1164,13 +1073,6 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
 * [feross/thanks](https://github.com/feross/thanks) - 🙌 Give thanks to the open source maintainers you depend on! ✨
 
-### Logging and Configuration
-
-* [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
-* [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
-* [expressjs/morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for node.js
-* [log4js-node/log4js-node](https://github.com/log4js-node/log4js-node) - A port of log4js to node.js
-
 ### Text Processing
 
 * [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
@@ -1227,14 +1129,6 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [isaacs/minimatch](https://github.com/isaacs/minimatch) - a glob matcher in javascript
 * [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, ract-native, taro, bulma, browser-sync, stylelint, nyc, ava, and many others! Follow micromatch's author: https://github.com/jonschlinkert
 
-### Date and Time
-
-* [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
-* [spencermountain/spacetime](https://github.com/spencermountain/spacetime) - A lightweight javascript timezone library
-* [rmm5t/jquery-timeago](https://github.com/rmm5t/jquery-timeago) - :clock8: The original jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (e.g. "4 minutes ago").
-* [breejs/bree](https://github.com/breejs/bree) - Bree is a Node.js and JavaScript job task scheduler with worker threads, cron, Date, and human syntax. Built for @ladjs, @forwardemail, @spamscanner, @cabinjs.
-* [taylorhakes/fecha](https://github.com/taylorhakes/fecha) - Lightweight and simple JS date formatting and parsing
-
 ### Automation and Scripting
 
 * [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -1242,10 +1136,10 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 * [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications. *(archived)*
 * [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple
+* [vynect/venom](https://github.com/vynect/venom) - Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on artificial intelligence and all types of design architecture for WhatsApp.
 * [angular-fullstack/generator-angular-fullstack](https://github.com/angular-fullstack/generator-angular-fullstack) - Yeoman generator for an Angular app with an Express server *(archived)*
 * [jamiewilson/form-to-google-sheets](https://github.com/jamiewilson/form-to-google-sheets) - Store HTML form submissions in Google Sheets.
 * [SuperMonster003/Ant-Forest](https://github.com/SuperMonster003/Ant-Forest) - AutoJs6-based ant forest energy auto-collect script (基于 AutoJs6 的蚂蚁森林能量自动收取脚本)
-* [vynect/venom](https://github.com/vynect/venom) - Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on artificial intelligence and all types of design architecture for WhatsApp.
 
 ### General Purpose Libraries
 
@@ -1285,13 +1179,6 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [ifandelse/machina.js](https://github.com/ifandelse/machina.js) - ts ex machina - finite state machines in TypeScript
 * [jumpkick-studios/Is](https://github.com/jumpkick-studios/Is) - A better way to write JavaScript conditional statements and still have pretty code.
 
-## Systems and Hardware
-
-### Embedded and Firmware
-
-* [googlecreativelab/anypixel](https://github.com/googlecreativelab/anypixel) - A web-friendly way for anyone to build unusual displays *(archived)*
-* [leapmotion/leapjs](https://github.com/leapmotion/leapjs) - JavaScript client for the Leap Motion Controller
-
 ## Science and Math
 
 ### Mathematics
@@ -1304,14 +1191,6 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [toji/gl-matrix](https://github.com/toji/gl-matrix) - Javascript Matrix and Vector library for High Performance WebGL apps
 * [MikeMcl/big.js](https://github.com/MikeMcl/big.js) - A small, fast JavaScript library for arbitrary-precision decimal arithmetic.
 * [simple-statistics/simple-statistics](https://github.com/simple-statistics/simple-statistics) - simple statistics for node & browser javascript
-
-### Scientific Computing
-
-* [rwaldron/johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, developed at Bocoup.
-* [hybridgroup/cylon](https://github.com/hybridgroup/cylon) - JavaScript framework for robotics, drones, and the Internet of Things (IoT)
-* [mourner/suncalc](https://github.com/mourner/suncalc) - A tiny JavaScript library for calculating sun/moon positions and phases.
-* [google/earthengine-api](https://github.com/google/earthengine-api) - Python and JavaScript bindings for calling the Earth Engine API.
-* [jscad/OpenJSCAD.org](https://github.com/jscad/OpenJSCAD.org) - JSCAD is an open source set of modular, browser and command line tools for creating parametric 2D and 3D designs with JavaScript code. It provides a quick, precise and reproducible method for generating 3D models, and is especially useful for creating ready-to-print 3D designs.
 
 ## Other
 
@@ -1348,14 +1227,16 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 * [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 * [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
+* [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 * [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
 * [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 * [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 * [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. *(archived)*
 * [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
-* [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Bun Production Process Manager with a built-in Load Balancer.
 * [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+* [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Bun Production Process Manager with a built-in Load Balancer.
 * [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼 The most popular, free and open-source Tailwind CSS component library
+* [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 * [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 * [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 * [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
@@ -1400,10 +1281,11 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [fanmingming/live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
 * [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 * [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
+* [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
 * [jashkenas/backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events
 * [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
-* [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 * [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
+* [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 * [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 * [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
 * [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
@@ -1421,6 +1303,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 * [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 * [request/request](https://github.com/request/request) - 🏊🏾 Simplified HTTP request client.
+* [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 * [Max-Eee/NeoPass](https://github.com/Max-Eee/NeoPass) - Your Essential Exam Companion for the Iamneo Portal & NPTEL Exams Disguised as NeoExamShield bypass
 * [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
 * [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable *(archived)*
@@ -1431,6 +1314,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 * [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 * [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
+* [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 * [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 * [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 * [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
@@ -1452,6 +1336,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [EastWorld/wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) - 微信小程序商城，微信小程序微店
 * [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 * [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
+* [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 * [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 * [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 * [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
@@ -1459,6 +1344,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 * [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 * [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
+* [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 * [petkaantonov/bluebird](https://github.com/petkaantonov/bluebird) - :bird: :zap: Bluebird is a full featured promise library with unmatched performance.
 * [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
 * [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
@@ -1470,6 +1356,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [liyupi/ai-guide](https://github.com/liyupi/ai-guide) - 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档 aiguide，已升级为鱼皮 AI 导航网站
 * [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React. *(archived)*
 * [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
+* [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript *(archived)*
 * [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 * [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 101｜The first course for AI-native product builders.
 * [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
@@ -1487,6 +1374,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [lllyasviel/style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)
 * [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 * [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
+* [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
 * [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 * [JacksonTian/fks](https://github.com/JacksonTian/fks) - 前端技能汇总 Frontend Knowledge Structure
 * [nosir/cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing...
@@ -1520,9 +1408,10 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)；Socks5/http本地代理脚本：可选ECH-TLS、普通TLS、无TLS三种代理模式
 * [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 * [iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
+* [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
 * [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
-* [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
 * [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+* [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
 * [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 * [auchenberg/volkswagen](https://github.com/auchenberg/volkswagen) - :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.
 * [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
@@ -1532,6 +1421,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [designmodo/Flat-UI](https://github.com/designmodo/Flat-UI) - Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites.
 * [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 * [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
+* [kriskowal/q](https://github.com/kriskowal/q) - A promise library for JavaScript *(archived)*
 * [electerm/electerm](https://github.com/electerm/electerm) - 📻Free and open-sourced terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS, iOS)
 * [ampproject/amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework.
 * [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、拦截跟踪、日新月异、明察秋毫等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
@@ -1568,6 +1458,8 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [krasimir/react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
 * [browserslist/browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
 * [RaspberryPiFoundation/blockly](https://github.com/RaspberryPiFoundation/blockly) - The web-based visual programming editor.
+* [zalmoxisus/redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension) - Redux DevTools extension.
+* [rwaldron/johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, developed at Bocoup.
 * [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching.
 * [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 * [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
@@ -1646,6 +1538,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
 * [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 * [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
+* [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 * [electron/minimal-repro](https://github.com/electron/minimal-repro) - Clone to try a simple Electron app
 * [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 * [listen1/listen1_desktop](https://github.com/listen1/listen1_desktop) - one for all free music in china (Windows, Mac, Linux desktop)
@@ -1671,8 +1564,8 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [openspug/spug](https://github.com/openspug/spug) - Spug is a lightweight agent-free automatic operation and maintenance platform designed for small and medium-sized enterprises. It integrates host management, host batch execution, host online terminal, file management, application release and deployment, pipelines, online task planning, configuration center, monitoring, alarm and so on.
 * [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 * [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
-* [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
 * [stackryze/FreeDomains](https://github.com/stackryze/FreeDomains) - Stackryze Domains: Free Domain for Everyone, Claim yours today.
+* [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
 * [haltu/muuri](https://github.com/haltu/muuri) - Infinite responsive, sortable, filterable and draggable layouts
 * [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 * [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data. *(archived)*
@@ -1717,16 +1610,16 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [pahen/madge](https://github.com/pahen/madge) - Create graphs from your CommonJS, AMD or ES6 module dependencies
 * [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
 * [qrohlf/trianglify](https://github.com/qrohlf/trianglify) - Algorithmically generated triangle art
+* [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
 * [i18next/react-i18next](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
 * [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
 * [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
-* [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
 * [petehunt/webpack-howto](https://github.com/petehunt/webpack-howto)
 * [typicode/hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
 * [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
 * [oblador/react-native-animatable](https://github.com/oblador/react-native-animatable) - Standard set of easy to use animations and declarative transitions for React Native
-* [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 * [Yu9191/wloc](https://github.com/Yu9191/wloc) - 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
+* [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 * [DevExpress/testcafe](https://github.com/DevExpress/testcafe) - A Node.js tool to automate end-to-end web testing.
 * [mattdelacdev/WOW](https://github.com/mattdelacdev/WOW) - Reveal CSS animation as you scroll down a page
 * [max-mapper/art-of-node](https://github.com/max-mapper/art-of-node) - :snowflake: a short introduction to node.js
@@ -1748,8 +1641,8 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [coryhouse/react-slingshot](https://github.com/coryhouse/react-slingshot) - React + Redux starter kit / boilerplate with Babel, hot reloading, testing, linting and a working example app built in
 * [vuejs-templates/webpack](https://github.com/vuejs-templates/webpack) - A full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction.
 * [VGraupera/1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
-* [jquery-archive/jquery-mobile](https://github.com/jquery-archive/jquery-mobile) - jQuery Mobile Framework *(archived)*
 * [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
+* [jquery-archive/jquery-mobile](https://github.com/jquery-archive/jquery-mobile) - jQuery Mobile Framework *(archived)*
 * [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 * [ruanyf/webpack-demos](https://github.com/ruanyf/webpack-demos) - a collection of simple demos of Webpack
 * [erikras/ducks-modular-redux](https://github.com/erikras/ducks-modular-redux) - A proposal for bundling reducers, action types and actions when using Redux
@@ -1779,6 +1672,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [node-schedule/node-schedule](https://github.com/node-schedule/node-schedule) - A cron-like and not-cron-like job scheduler for Node.
 * [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging library
 * [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
+* [mrdoob/stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor
 * [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io *(archived)*
 * [marmelab/gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library for web apps and Node.js
 * [arasatasaygin/is.js](https://github.com/arasatasaygin/is.js) - Micro check library
@@ -1808,8 +1702,8 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [bigcalendar/react-big-calendar](https://github.com/bigcalendar/react-big-calendar) - gcal/outlook like calendar component
 * [chvin/react-tetris](https://github.com/chvin/react-tetris) - Use React, Redux, Immutable to code Tetris. 🎮
 * [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare
-* [justlovemaki/AIClient2API](https://github.com/justlovemaki/AIClient2API) - Self-hosted multi-protocol AI API proxy for Antigravity, Codex, Grok, Kiro, OpenAI, Claude, and custom providers. Supports OpenAI-compatible API, Claude API, Gemini protocol conversion, GPT, Grok Build, Claude Opus, Gemini Pro, Kimi, MiniMax, provider pools, smart routing, and automatic failover.
 * [qiao/PathFinding.js](https://github.com/qiao/PathFinding.js) - A comprehensive path-finding library for grid based games
+* [justlovemaki/AIClient2API](https://github.com/justlovemaki/AIClient2API) - Self-hosted multi-protocol AI API proxy for Antigravity, Codex, Grok, Kiro, OpenAI, Claude, and custom providers. Supports OpenAI-compatible API, Claude API, Gemini protocol conversion, GPT, Grok Build, Claude Opus, Gemini Pro, Kimi, MiniMax, provider pools, smart routing, and automatic failover.
 * [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
 * [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor *(archived)*
 * [facebookarchive/react-360](https://github.com/facebookarchive/react-360) - Create amazing 360 and VR content using React *(archived)*
@@ -1841,6 +1735,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) - 🦋 A Hexo Theme: Butterfly
 * [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 * [litten/hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia) - 一个简洁优雅的hexo主题 A simple and elegant theme for hexo.
+* [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
 * [eooce/nodejs-argo](https://github.com/eooce/nodejs-argo) - nodejs-argo是一个强大的Argo隧道部署工具，专为PaaS平台和游戏玩具平台设计。它支持多种代理协议(VLESS、VMess、Trojan)等，有直连协议(Socks5、Hysteria2、Reality)可选开启，并集成了哪吒探针功能
 * [mediaelement/mediaelement](https://github.com/mediaelement/mediaelement) - HTML5 <audio> or <video> player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consistent UI in all browsers.
 * [bchiang7/v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website built with Gatsby
@@ -1848,6 +1743,7 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [seajs/seajs](https://github.com/seajs/seajs) - A Module Loader for the Web
 * [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org) *(archived)*
 * [dat-ecosystem/dat](https://github.com/dat-ecosystem/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
+* [expressjs/morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for node.js
 * [MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - A beautiful cross platform Desktop Player for Google Play Music
 * [layui/layer](https://github.com/layui/layer) - 丰富多样的 Web 弹出层组件，可轻松实现 Alert/Confirm/Prompt/ 普通提示/页面区块/iframe/tips等等几乎所有的弹出交互。目前已成为最多人使用的弹层解决方案 *(archived)*
 * [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
@@ -1885,9 +1781,9 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [pt-plugins/PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus) - PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。 *(archived)*
 * [visjs/vis](https://github.com/visjs/vis) - ⚠️ This project is not maintained anymore! Please go to https://github.com/visjs *(archived)*
 * [gregberge/loadable-components](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React ✂️✨
+* [laoma2053/awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free) - 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。
 * [hakimel/Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
 * [danialfarid/ng-file-upload](https://github.com/danialfarid/ng-file-upload) - Lightweight Angular directive to upload files with optional FileAPI shim for cross browser support
-* [laoma2053/awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free) - 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。
 * [mgonto/restangular](https://github.com/mgonto/restangular) - AngularJS service to handle Rest API Restful Resources properly and easily
 * [stitchesjs/stitches](https://github.com/stitchesjs/stitches) - [Not Actively Maintained] CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience. *(archived)*
 * [vercel/styled-jsx](https://github.com/vercel/styled-jsx) - Full CSS support for JSX without compromises
@@ -1934,9 +1830,50 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [Huibq/keep-alive](https://github.com/Huibq/keep-alive) - 洛雪音乐音源、MusicFree音源、落雪音乐音源
 * [Vincit/objection.js](https://github.com/Vincit/objection.js) - An SQL-friendly ORM for Node.js
 * [FormidableLabs/radium](https://github.com/FormidableLabs/radium) - A toolchain for React component styling. *(archived)*
+* [stalniy/casl](https://github.com/stalniy/casl) - CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
+* [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
+* [googlecreativelab/anypixel](https://github.com/googlecreativelab/anypixel) - A web-friendly way for anyone to build unusual displays *(archived)*
+* [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
+* [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net) - This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source projects. Jump in!
 * [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
+* [log4js-node/log4js-node](https://github.com/log4js-node/log4js-node) - A port of log4js to node.js
 * [documentationjs/documentation](https://github.com/documentationjs/documentation) - :book: documentation for modern JavaScript
+* [airbnb/hypernova](https://github.com/airbnb/hypernova) - A service for server-side rendering your JavaScript views *(archived)*
+* [nodegit/nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
+* [syntaxhighlighter/syntaxhighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter) - SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.
+* [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
+* [MrSwitch/hello.js](https://github.com/MrSwitch/hello.js) - A Javascript RESTFUL API library for connecting with OAuth2 services, such as Google+ API, Facebook Graph and Windows Live Connect
+* [wooorm/franc](https://github.com/wooorm/franc) - Natural language detection
+* [ternjs/tern](https://github.com/ternjs/tern) - A JavaScript code analyzer for deep, cross-editor language support
+* [hybridgroup/cylon](https://github.com/hybridgroup/cylon) - JavaScript framework for robotics, drones, and the Internet of Things (IoT)
 * [mattdiamond/fuckitjs](https://github.com/mattdiamond/fuckitjs) - The Original Javascript Error Steamroller
+* [simov/grant](https://github.com/simov/grant) - OAuth Proxy
+* [spencermountain/spacetime](https://github.com/spencermountain/spacetime) - A lightweight javascript timezone library
+* [stacktracejs/stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Generate, parse, and enhance JavaScript stack traces in all web browsers
+* [bebraw/jswiki](https://github.com/bebraw/jswiki) - JavaScript wiki. Focuses mainly on JS/HTML5/WebGL related tech.
+* [creationix/js-git](https://github.com/creationix/js-git) - A JavaScript implementation of Git.
+* [rmm5t/jquery-timeago](https://github.com/rmm5t/jquery-timeago) - :clock8: The original jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (e.g. "4 minutes ago").
+* [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, & SVG. No Third-Party frameworks or libraries are Required. Started in 2011 and moved to OpenSpeedTest.com dedicated Project/Domain Name in 2013.
+* [RafalWilinski/express-status-monitor](https://github.com/RafalWilinski/express-status-monitor) - 🚀 Realtime Monitoring solution for Node.js/Express.js apps, inspired by status.github.com, sponsored by https://dynobase.dev
+* [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖 A curated list of Awesome Userscripts.
+* [mourner/suncalc](https://github.com/mourner/suncalc) - A tiny JavaScript library for calculating sun/moon positions and phases.
+* [google/earthengine-api](https://github.com/google/earthengine-api) - Python and JavaScript bindings for calling the Earth Engine API.
+* [ccampbell/rainbow](https://github.com/ccampbell/rainbow) - Simple syntax highlighting library written in javascript
+* [breejs/bree](https://github.com/breejs/bree) - Bree is a Node.js and JavaScript job task scheduler with worker threads, cron, Date, and human syntax. Built for @ladjs, @forwardemail, @spamscanner, @cabinjs.
+* [parallel-js/parallel.js](https://github.com/parallel-js/parallel.js) - Easy multi-core processing utilities for Node.
+* [babel/babel-sublime](https://github.com/babel/babel-sublime) - Syntax definitions for ES6 JavaScript with React JSX extensions.
+* [jscad/OpenJSCAD.org](https://github.com/jscad/OpenJSCAD.org) - JSCAD is an open source set of modular, browser and command line tools for creating parametric 2D and 3D designs with JavaScript code. It provides a quick, precise and reproducible method for generating 3D models, and is especially useful for creating ready-to-print 3D designs.
+* [jcubic/jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - JavaScript library for creating web-based terminals with custom commands
+* [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api) - A free and unlimited API for Google Translate :dollar::no_entry_sign:
+* [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS *(archived)*
+* [ExpressGateway/express-gateway](https://github.com/ExpressGateway/express-gateway) - A microservices API Gateway built on top of Express.js
+* [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss) - :orange_book: 根据 RSS 订阅最新前端技术文章并自动分类
+* [React-Sight/React-Sight](https://github.com/React-Sight/React-Sight) - Visualization tool for React, with support for Fiber, Router (v4), and Redux
 * [reactjs/react-future](https://github.com/reactjs/react-future) - Specs & docs for potential future and experimental React APIs and JavaScript syntax. *(archived)*
 * [esdoc/esdoc](https://github.com/esdoc/esdoc) - ESDoc - Good Documentation for JavaScript
+* [jofpin/turbit](https://github.com/jofpin/turbit) - Build applications, scripts, and automations powered by high-performance multicore computing using Node.js
+* [taylorhakes/fecha](https://github.com/taylorhakes/fecha) - Lightweight and simple JS date formatting and parsing
+* [microjs/microjs.com](https://github.com/microjs/microjs.com) - Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!
+* [leapmotion/leapjs](https://github.com/leapmotion/leapjs) - JavaScript client for the Leap Motion Controller
+* [pillarjs/csrf](https://github.com/pillarjs/csrf) - Logic behind CSRF token creation and verification.
 * [pacocoursey/paco](https://github.com/pacocoursey/paco) - personal website and blog *(archived)*
